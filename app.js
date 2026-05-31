@@ -49,6 +49,7 @@ let shuffledChunkOrder = [];
 let results = loadResults();
 let savedWords = loadSavedWords();
 let awaitingNext = false;
+let audioContext;
 
 async function loadJson(path) {
   const response = await fetch(path, { cache: "no-store" });
@@ -122,6 +123,36 @@ function answerEnglish(exercise) {
 
 function arraysEqual(left, right) {
   return left.length === right.length && left.every((value, index) => value === right[index]);
+}
+
+function playCorrectSound() {
+  const AudioContextClass = window.AudioContext ?? window.webkitAudioContext;
+  if (!AudioContextClass) return;
+
+  audioContext ??= new AudioContextClass();
+  const now = audioContext.currentTime;
+  const master = audioContext.createGain();
+  master.gain.setValueAtTime(0.0001, now);
+  master.gain.exponentialRampToValueAtTime(0.18, now + 0.015);
+  master.gain.exponentialRampToValueAtTime(0.0001, now + 0.42);
+  master.connect(audioContext.destination);
+
+  [880, 1320].forEach((frequency, index) => {
+    const oscillator = audioContext.createOscillator();
+    const toneGain = audioContext.createGain();
+    const start = now + index * 0.07;
+
+    oscillator.type = "sine";
+    oscillator.frequency.setValueAtTime(frequency, start);
+    toneGain.gain.setValueAtTime(0.0001, start);
+    toneGain.gain.exponentialRampToValueAtTime(1, start + 0.012);
+    toneGain.gain.exponentialRampToValueAtTime(0.0001, start + 0.28);
+
+    oscillator.connect(toneGain);
+    toneGain.connect(master);
+    oscillator.start(start);
+    oscillator.stop(start + 0.3);
+  });
 }
 
 function itemKey(front, lessonId = "") {
@@ -339,6 +370,7 @@ function submitAnswer() {
   results.push(result);
   saveResults();
 
+  if (correct) playCorrectSound();
   els.questionCounter.className = `answer-mark ${correct ? "correct" : "incorrect"}`;
   els.questionCounter.textContent = correct ? "✓" : "×";
   els.feedback.className = `feedback ${correct ? "correct" : "incorrect"}`;
