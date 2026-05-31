@@ -1,4 +1,4 @@
-const maxQuestions = 20;
+const maxQuestions = 10;
 const accuracyTarget = 80;
 const accuracyWindows = [100, 200, 500, 1000];
 const lessonIndexFile = "./data/lesson-index.json";
