@@ -271,7 +271,7 @@ function shuffleLesson() {
 }
 
 function renderStats() {
-  const accuracy = accuracySummary(sessionResults) ?? 100;
+  const accuracy = accuracySummary(sessionResults) ?? 0;
   const accuracyColor = accuracyRgb(accuracy).join(", ");
 
   els.accuracyText.textContent = `${accuracy}%`;
