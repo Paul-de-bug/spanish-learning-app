@@ -15,6 +15,7 @@ const els = {
   progressBox: document.querySelector("#progressBox"),
   progressText: document.querySelector("#progressText"),
   correctText: document.querySelector("#correctText"),
+  accuracyBox: document.querySelector("#accuracyBox"),
   accuracyText: document.querySelector("#accuracyText"),
   questionCounter: document.querySelector("#questionCounter"),
   tagText: document.querySelector("#tagText"),
@@ -87,6 +88,21 @@ function shuffle(items) {
     .map((item) => ({ item, sort: Math.random() }))
     .sort((left, right) => left.sort - right.sort)
     .map(({ item }) => item);
+}
+
+function mixRgb(left, right, amount) {
+  return left.map((value, index) => Math.round(value + (right[index] - value) * amount));
+}
+
+function accuracyRgb(accuracy) {
+  const red = [223, 45, 45];
+  const orange = [242, 132, 31];
+  const yellow = [244, 211, 52];
+  const green = [28, 220, 96];
+
+  if (accuracy >= 75) return mixRgb(yellow, green, (accuracy - 75) / 25);
+  if (accuracy >= 50) return mixRgb(orange, yellow, (accuracy - 50) / 25);
+  return mixRgb(red, orange, accuracy / 50);
 }
 
 function sample(items) {
@@ -233,13 +249,16 @@ function renderStats() {
   const lesson = currentLesson();
   const lessonResults = results.filter((result) => result.lesson_id === lesson?.id);
   const correct = lessonResults.filter((result) => result.correct).length;
-  const accuracy = lessonResults.length ? Math.round((correct / lessonResults.length) * 100) : 0;
+  const accuracy = lessonResults.length ? Math.round((correct / lessonResults.length) * 100) : 100;
   const progressPercent = session.length ? Math.round((Math.min(currentIndex + 1, session.length) / session.length) * 100) : 0;
+  const accuracyColor = accuracyRgb(accuracy).join(", ");
 
   els.progressText.textContent = `${Math.min(currentIndex + 1, session.length)} / ${session.length}`;
   els.progressBox.style.setProperty("--progress-value", `${progressPercent}%`);
   els.correctText.textContent = String(correct);
   els.accuracyText.textContent = `${accuracy}%`;
+  els.accuracyBox.style.setProperty("--accuracy-value", `${accuracy}%`);
+  els.accuracyBox.style.setProperty("--accuracy-color", accuracyColor);
 }
 
 function renderSavedWords() {
