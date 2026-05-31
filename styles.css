@@ -458,6 +458,48 @@ input {
   font-size: 0.88rem;
 }
 
+.history-bars {
+  display: grid;
+  gap: 10px;
+}
+
+.history-row {
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr) 86px;
+  align-items: center;
+  gap: 8px;
+}
+
+.history-label,
+.history-value {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 850;
+}
+
+.history-value {
+  text-align: right;
+}
+
+.history-track {
+  position: relative;
+  overflow: hidden;
+  height: 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.history-track::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: var(--history-value, 0%);
+  border-radius: inherit;
+  background: rgb(var(--history-color, 28, 220, 96));
+  transition: width 260ms ease, background 260ms ease;
+}
+
 .save-form {
   display: grid;
   gap: 10px;

@@ -1,4 +1,5 @@
 const maxQuestions = 20;
+const accuracyWindows = [100, 200, 500, 1000];
 const lessonIndexFile = "./data/lesson-index.json";
 const storageKey = "spanish-pills-mobile-results";
 const savedWordsKey = "spanish-pills-saved-words";
@@ -35,6 +36,7 @@ const els = {
   saveBackInput: document.querySelector("#saveBackInput"),
   saveManualButton: document.querySelector("#saveManualButton"),
   savedPreview: document.querySelector("#savedPreview"),
+  historyBars: document.querySelector("#historyBars"),
   exportCsvButton: document.querySelector("#exportCsvButton"),
   exportJsonButton: document.querySelector("#exportJsonButton"),
   clearSavedButton: document.querySelector("#clearSavedButton")
@@ -103,6 +105,11 @@ function accuracyRgb(accuracy) {
   if (accuracy >= 75) return mixRgb(yellow, green, (accuracy - 75) / 25);
   if (accuracy >= 50) return mixRgb(orange, yellow, (accuracy - 50) / 25);
   return mixRgb(red, orange, accuracy / 50);
+}
+
+function accuracySummary(items) {
+  const correct = items.filter((result) => result.correct).length;
+  return items.length ? Math.round((correct / items.length) * 100) : null;
 }
 
 function sample(items) {
@@ -248,7 +255,7 @@ function shuffleLesson() {
 
 function renderStats() {
   const correct = sessionResults.filter((result) => result.correct).length;
-  const accuracy = sessionResults.length ? Math.round((correct / sessionResults.length) * 100) : 100;
+  const accuracy = accuracySummary(sessionResults) ?? 100;
   const progressPercent = session.length ? Math.round((Math.min(currentIndex + 1, session.length) / session.length) * 100) : 0;
   const accuracyColor = accuracyRgb(accuracy).join(", ");
 
@@ -258,6 +265,36 @@ function renderStats() {
   els.accuracyText.textContent = `${accuracy}%`;
   els.accuracyBox.style.setProperty("--accuracy-value", `${accuracy}%`);
   els.accuracyBox.style.setProperty("--accuracy-color", accuracyColor);
+  renderHistoryBars();
+}
+
+function renderHistoryBars() {
+  els.historyBars.innerHTML = "";
+
+  accuracyWindows.forEach((windowSize) => {
+    const recent = results.slice(-windowSize);
+    const accuracy = accuracySummary(recent);
+    const displayAccuracy = accuracy ?? 0;
+    const color = accuracyRgb(accuracy ?? 100).join(", ");
+    const row = document.createElement("div");
+    row.className = "history-row";
+    row.style.setProperty("--history-value", `${displayAccuracy}%`);
+    row.style.setProperty("--history-color", color);
+
+    const label = document.createElement("span");
+    label.className = "history-label";
+    label.textContent = `Last ${windowSize}`;
+
+    const track = document.createElement("div");
+    track.className = "history-track";
+
+    const value = document.createElement("span");
+    value.className = "history-value";
+    value.textContent = accuracy === null ? "No attempts" : `${accuracy}% (${recent.length})`;
+
+    row.append(label, track, value);
+    els.historyBars.append(row);
+  });
 }
 
 function renderSavedWords() {
@@ -458,6 +495,7 @@ function skipExercise() {
 function resetResults() {
   if (!confirm("Clear saved results on this device?")) return;
   results = [];
+  sessionResults = [];
   saveResults();
   renderStats();
 }
