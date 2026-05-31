@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f7f3ea">
+    <title>Spanish Pills</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="app">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Spanish Pills</p>
+          <h1>Build the answer</h1>
+        </div>
+        <button id="resetButton" class="icon-button" type="button" aria-label="Reset session" title="Reset session">↻</button>
+      </header>
+
+      <section class="panel setup-panel">
+        <label class="field">
+          <span>Lesson</span>
+          <select id="lessonSelect"></select>
+        </label>
+        <div class="lesson-row">
+          <p id="lessonDescription"></p>
+          <button id="shuffleButton" class="text-button" type="button">Shuffle</button>
+        </div>
+      </section>
+
+      <section class="stats" aria-label="Session stats">
+        <div>
+          <strong id="progressText">0 / 0</strong>
+          <span>progress</span>
+        </div>
+        <div>
+          <strong id="correctText">0</strong>
+          <span>correct</span>
+        </div>
+        <div>
+          <strong id="accuracyText">0%</strong>
+          <span>accuracy</span>
+        </div>
+      </section>
+
+      <section class="card" aria-live="polite">
+        <div class="meta-row">
+          <span id="questionCounter">Question 0</span>
+          <span id="tagText"></span>
+        </div>
+
+        <p class="prompt-label">Spanish question</p>
+        <p id="promptText" class="prompt">Loading...</p>
+
+        <div class="answer-block">
+          <div class="answer-header">
+            <span>Your sentence</span>
+            <button id="undoButton" class="text-button" type="button">Undo</button>
+          </div>
+          <div id="answerLine" class="answer-line" aria-label="Selected chunks"></div>
+        </div>
+
+        <div id="chunkBank" class="chunk-bank" aria-label="Available chunks"></div>
+
+        <div class="actions">
+          <button id="skipButton" class="secondary-button" type="button">Skip</button>
+          <button id="submitButton" class="primary-button" type="button">Submit</button>
+        </div>
+
+        <div id="feedback" class="feedback hidden">
+          <p id="feedbackTitle"></p>
+          <p><strong>Correct:</strong> <span id="correctAnswer"></span></p>
+          <p><strong>English:</strong> <span id="englishAnswer"></span></p>
+          <p><strong>Your answer:</strong> <span id="attemptAnswer"></span></p>
+          <div class="save-chunks">
+            <span>Save useful chunks</span>
+            <div id="saveChunkList" class="save-chip-list"></div>
+          </div>
+          <button id="nextButton" class="primary-button full-width" type="button">Next</button>
+        </div>
+      </section>
+
+      <section class="panel saved-panel">
+        <div class="saved-header">
+          <div>
+            <h2>Saved words</h2>
+            <p><span id="savedCount">0</span> saved on this device</p>
+          </div>
+          <button id="clearSavedButton" class="text-button" type="button">Clear</button>
+        </div>
+
+        <div class="save-form">
+          <label class="field">
+            <span>Spanish word or chunk</span>
+            <input id="saveFrontInput" type="text" autocomplete="off" placeholder="e.g. me cuesta">
+          </label>
+          <label class="field">
+            <span>Meaning or note</span>
+            <input id="saveBackInput" type="text" autocomplete="off" placeholder="I find it hard">
+          </label>
+          <button id="saveManualButton" class="secondary-button" type="button">Save word</button>
+        </div>
+
+        <div id="savedPreview" class="saved-preview"></div>
+
+        <div class="export-actions">
+          <button id="exportCsvButton" class="secondary-button" type="button">Export Anki TSV</button>
+          <button id="exportJsonButton" class="secondary-button" type="button">Export JSON</button>
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>

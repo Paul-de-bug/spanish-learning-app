@@ -1,0 +1,4048 @@
+[
+  {
+    "id": "nanny-1-001-emotions-today",
+    "prompt_es": "¿Cómo estás hoy?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Hoy",
+      "estoy un poco cansado,",
+      "pero también",
+      "bastante tranquilo.",
+      "me siento"
+    ],
+    "answer": [
+      "Hoy",
+      "estoy un poco cansado,",
+      "pero también",
+      "me siento",
+      "bastante tranquilo."
+    ],
+    "patterns": [
+      "emotions",
+      "estar + adjective",
+      "sentirse",
+      "present"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "estar",
+      "sentirse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Today I am a little tired, but I also feel quite calm."
+  },
+  {
+    "id": "nanny-1-002-honest-feelings",
+    "prompt_es": "¿Puedes hablar honestamente de cómo te sientes?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "puedo ser honesto:",
+      "últimamente",
+      "y tengo muchas cosas en la cabeza.",
+      "Sí,",
+      "estoy sensible"
+    ],
+    "answer": [
+      "Sí,",
+      "puedo ser honesto:",
+      "últimamente",
+      "estoy sensible",
+      "y tengo muchas cosas en la cabeza."
+    ],
+    "patterns": [
+      "honesty",
+      "poder + infinitive",
+      "estar",
+      "tener"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "poder",
+      "ser",
+      "estar",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Yes, I can be honest: lately I am sensitive and I have many things on my mind."
+  },
+  {
+    "id": "nanny-1-003-stress-at-home",
+    "prompt_es": "¿Tienes mucho estrés en casa?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "A veces",
+      "en casa,",
+      "cuando no duermo bien.",
+      "tengo mucho estrés",
+      "sobre todo"
+    ],
+    "answer": [
+      "A veces",
+      "tengo mucho estrés",
+      "en casa,",
+      "sobre todo",
+      "cuando no duermo bien."
+    ],
+    "patterns": [
+      "stress",
+      "tener + noun",
+      "cuando + present"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "tener",
+      "dormir"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Sometimes I have a lot of stress at home, especially when I do not sleep well."
+  },
+  {
+    "id": "nanny-1-004-anger-control",
+    "prompt_es": "¿Qué haces cuando estás enfadado?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "intento parar,",
+      "Cuando estoy enfadado,",
+      "cosas duras.",
+      "respirar un poco",
+      "y no decir"
+    ],
+    "answer": [
+      "Cuando estoy enfadado,",
+      "intento parar,",
+      "respirar un poco",
+      "y no decir",
+      "cosas duras."
+    ],
+    "patterns": [
+      "anger",
+      "cuando + present",
+      "intentar + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "estar",
+      "intentar",
+      "parar",
+      "respirar",
+      "decir"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "When I am angry, I try to stop, breathe a little, and not say harsh things."
+  },
+  {
+    "id": "nanny-1-005-thoughts-at-night",
+    "prompt_es": "¿Piensas mucho por la noche?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Sí,",
+      "pienso demasiado",
+      "por la noche",
+      "me cuesta dormir.",
+      "y a veces"
+    ],
+    "answer": [
+      "Sí,",
+      "por la noche",
+      "pienso demasiado",
+      "y a veces",
+      "me cuesta dormir."
+    ],
+    "patterns": [
+      "thoughts",
+      "me cuesta + infinitive",
+      "a veces"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "pensar",
+      "costar",
+      "dormir"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Yes, at night I think too much and sometimes I find it hard to sleep."
+  },
+  {
+    "id": "nanny-1-006-pregnancy-memory",
+    "prompt_es": "¿Cómo fue el embarazo para la familia?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "fue bonito,",
+      "porque todos estábamos nerviosos.",
+      "pero también",
+      "El embarazo",
+      "fue difícil"
+    ],
+    "answer": [
+      "El embarazo",
+      "fue bonito,",
+      "pero también",
+      "fue difícil",
+      "porque todos estábamos nerviosos."
+    ],
+    "patterns": [
+      "pregnancy",
+      "ser in preterite",
+      "estar in imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "él/ella",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "The pregnancy was beautiful, but it was also difficult because we were all nervous."
+  },
+  {
+    "id": "nanny-1-007-baby-born",
+    "prompt_es": "¿Qué sentiste cuando nació el bebé?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "miedo",
+      "enorme.",
+      "Cuando nació el bebé,",
+      "sentí alegría,",
+      "y una responsabilidad"
+    ],
+    "answer": [
+      "Cuando nació el bebé,",
+      "sentí alegría,",
+      "miedo",
+      "y una responsabilidad",
+      "enorme."
+    ],
+    "patterns": [
+      "birth",
+      "preterite",
+      "sentir + noun"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "nacer",
+      "sentir"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "When the baby was born, I felt joy, fear, and a huge responsibility."
+  },
+  {
+    "id": "nanny-1-008-postnatal-depression",
+    "prompt_es": "¿Es fácil hablar de la depresión posparto?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "es fácil,",
+      "No siempre",
+      "puede ayudar mucho.",
+      "pero creo que",
+      "hablarlo con respeto"
+    ],
+    "answer": [
+      "No siempre",
+      "es fácil,",
+      "pero creo que",
+      "hablarlo con respeto",
+      "puede ayudar mucho."
+    ],
+    "patterns": [
+      "postnatal depression",
+      "creo que",
+      "poder + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "ser",
+      "creer",
+      "hablar",
+      "poder",
+      "ayudar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "It is not always easy, but I think talking about it respectfully can help a lot."
+  },
+  {
+    "id": "nanny-1-009-support-new-mother",
+    "prompt_es": "¿Qué necesita una madre después de dar a luz?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "descanso, ayuda",
+      "una madre necesita",
+      "Creo que",
+      "que la escuche.",
+      "y gente"
+    ],
+    "answer": [
+      "Creo que",
+      "una madre necesita",
+      "descanso, ayuda",
+      "y gente",
+      "que la escuche."
+    ],
+    "patterns": [
+      "family",
+      "creo que",
+      "necesitar + noun"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "creer",
+      "necesitar",
+      "escuchar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I think a mother needs rest, help, and people who listen to her."
+  },
+  {
+    "id": "nanny-1-010-father-pressure",
+    "prompt_es": "¿Qué presión siente un padre nuevo?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "porque quiere ayudar,",
+      "sabe cómo.",
+      "puede sentirse perdido",
+      "Un padre nuevo",
+      "pero no siempre"
+    ],
+    "answer": [
+      "Un padre nuevo",
+      "puede sentirse perdido",
+      "porque quiere ayudar,",
+      "pero no siempre",
+      "sabe cómo."
+    ],
+    "patterns": [
+      "parenthood",
+      "poder + reflexive",
+      "querer + infinitive",
+      "saber"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "poder",
+      "sentirse",
+      "querer",
+      "ayudar",
+      "saber"
+    ],
+    "person": "él/ella",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "A new father can feel lost because he wants to help, but he does not always know how."
+  },
+  {
+    "id": "nanny-1-011-growing-old",
+    "prompt_es": "¿Te da miedo hacerte mayor?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "hacerme mayor,",
+      "quiero vivir con calma.",
+      "A veces",
+      "me da miedo",
+      "pero también"
+    ],
+    "answer": [
+      "A veces",
+      "me da miedo",
+      "hacerme mayor,",
+      "pero también",
+      "quiero vivir con calma."
+    ],
+    "patterns": [
+      "growing old",
+      "dar miedo",
+      "querer + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "dar",
+      "hacerse",
+      "querer",
+      "vivir"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Sometimes getting older scares me, but I also want to live calmly."
+  },
+  {
+    "id": "nanny-1-012-old-parents",
+    "prompt_es": "¿Cómo ves a tus padres ahora?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "me hace pensar mucho.",
+      "Ahora",
+      "veo a mis padres",
+      "más mayores",
+      "y eso"
+    ],
+    "answer": [
+      "Ahora",
+      "veo a mis padres",
+      "más mayores",
+      "y eso",
+      "me hace pensar mucho."
+    ],
+    "patterns": [
+      "family",
+      "growing old",
+      "hacer + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "ver",
+      "hacer",
+      "pensar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Now I see my parents older and that makes me think a lot."
+  },
+  {
+    "id": "nanny-1-013-childhood-home",
+    "prompt_es": "¿Cómo era tu casa cuando eras niño?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Cuando era niño,",
+      "mi casa",
+      "era ruidosa,",
+      "me sentía seguro.",
+      "pero yo"
+    ],
+    "answer": [
+      "Cuando era niño,",
+      "mi casa",
+      "era ruidosa,",
+      "pero yo",
+      "me sentía seguro."
+    ],
+    "patterns": [
+      "childhood",
+      "imperfect",
+      "ser vs sentirse"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "ser",
+      "sentirse"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "When I was a child, my house was noisy, but I felt safe."
+  },
+  {
+    "id": "nanny-1-014-childhood-memory",
+    "prompt_es": "¿Qué recuerdo de la infancia tienes muy claro?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "cuando jugábamos fuera",
+      "parecía más simple.",
+      "una tarde de verano",
+      "Recuerdo",
+      "y todo"
+    ],
+    "answer": [
+      "Recuerdo",
+      "una tarde de verano",
+      "cuando jugábamos fuera",
+      "y todo",
+      "parecía más simple."
+    ],
+    "patterns": [
+      "memories",
+      "imperfect",
+      "recordar"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "recordar",
+      "jugar",
+      "parecer"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "I remember a summer afternoon when we played outside and everything seemed simpler."
+  },
+  {
+    "id": "nanny-1-015-school-feelings",
+    "prompt_es": "¿Cómo te sentías en el colegio?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "En el colegio",
+      "buenos amigos.",
+      "invisible,",
+      "a veces me sentía",
+      "aunque tenía"
+    ],
+    "answer": [
+      "En el colegio",
+      "a veces me sentía",
+      "invisible,",
+      "aunque tenía",
+      "buenos amigos."
+    ],
+    "patterns": [
+      "childhood",
+      "imperfect",
+      "aunque"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "sentirse",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "At school I sometimes felt invisible, although I had good friends."
+  },
+  {
+    "id": "nanny-1-016-family-arguments",
+    "prompt_es": "¿Había discusiones en tu familia?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "había discusiones",
+      "mucho cariño.",
+      "Sí,",
+      "en mi familia,",
+      "pero también había"
+    ],
+    "answer": [
+      "Sí,",
+      "había discusiones",
+      "en mi familia,",
+      "pero también había",
+      "mucho cariño."
+    ],
+    "patterns": [
+      "family",
+      "haber imperfect",
+      "contrast"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "haber"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Yes, there were arguments in my family, but there was also a lot of affection."
+  },
+  {
+    "id": "nanny-1-017-good-parent",
+    "prompt_es": "¿Qué significa ser buen padre?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Para mí,",
+      "ser buen padre",
+      "significa estar presente",
+      "cuando me equivoco.",
+      "y pedir perdón"
+    ],
+    "answer": [
+      "Para mí,",
+      "ser buen padre",
+      "significa estar presente",
+      "y pedir perdón",
+      "cuando me equivoco."
+    ],
+    "patterns": [
+      "parenthood",
+      "ser + noun",
+      "estar presente",
+      "cuando + present"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "ser",
+      "significar",
+      "estar",
+      "pedir",
+      "equivocarse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "For me, being a good father means being present and saying sorry when I make a mistake."
+  },
+  {
+    "id": "nanny-1-018-parenting-challenge",
+    "prompt_es": "¿Qué es lo más difícil de criar hijos?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "de criar hijos",
+      "es tener paciencia",
+      "estamos cansados.",
+      "Lo más difícil",
+      "cuando todos"
+    ],
+    "answer": [
+      "Lo más difícil",
+      "de criar hijos",
+      "es tener paciencia",
+      "cuando todos",
+      "estamos cansados."
+    ],
+    "patterns": [
+      "bringing up children",
+      "lo más difícil",
+      "tener paciencia"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "ser",
+      "criar",
+      "tener",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "The hardest thing about raising children is having patience when everyone is tired."
+  },
+  {
+    "id": "nanny-1-019-children-anger",
+    "prompt_es": "¿Qué haces cuando un niño se enfada?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Cuando un niño se enfada,",
+      "y después",
+      "con calma.",
+      "intento escuchar primero",
+      "poner un límite"
+    ],
+    "answer": [
+      "Cuando un niño se enfada,",
+      "intento escuchar primero",
+      "y después",
+      "poner un límite",
+      "con calma."
+    ],
+    "patterns": [
+      "children",
+      "anger",
+      "intentar + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "enfadarse",
+      "intentar",
+      "escuchar",
+      "poner"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "When a child gets angry, I try to listen first and then set a limit calmly."
+  },
+  {
+    "id": "nanny-1-020-children-honesty",
+    "prompt_es": "¿Por qué es importante ser honesto con los niños?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "los niños notan",
+      "les crea inseguridad.",
+      "Creo que",
+      "cuando no somos honestos",
+      "y eso"
+    ],
+    "answer": [
+      "Creo que",
+      "los niños notan",
+      "cuando no somos honestos",
+      "y eso",
+      "les crea inseguridad."
+    ],
+    "patterns": [
+      "honesty",
+      "children",
+      "creo que"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "creer",
+      "notar",
+      "ser",
+      "crear"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I think children notice when we are not honest and that creates insecurity for them."
+  },
+  {
+    "id": "nanny-1-021-work-stress",
+    "prompt_es": "¿Cómo te afecta el trabajo?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "El trabajo",
+      "seguridad,",
+      "a veces me da",
+      "me da mucho estrés.",
+      "pero también"
+    ],
+    "answer": [
+      "El trabajo",
+      "a veces me da",
+      "seguridad,",
+      "pero también",
+      "me da mucho estrés."
+    ],
+    "patterns": [
+      "work",
+      "emotions",
+      "dar + noun"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "dar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Work sometimes gives me security, but it also gives me a lot of stress."
+  },
+  {
+    "id": "nanny-1-022-work-past",
+    "prompt_es": "¿Has tenido trabajos difíciles?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "he tenido trabajos",
+      "mucho de ellos.",
+      "muy difíciles,",
+      "Sí,",
+      "pero aprendí"
+    ],
+    "answer": [
+      "Sí,",
+      "he tenido trabajos",
+      "muy difíciles,",
+      "pero aprendí",
+      "mucho de ellos."
+    ],
+    "patterns": [
+      "work",
+      "present perfect",
+      "preterite"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "haber",
+      "tener",
+      "aprender"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Yes, I have had very difficult jobs, but I learned a lot from them."
+  },
+  {
+    "id": "nanny-1-023-work-dream",
+    "prompt_es": "¿Qué esperas del trabajo en el futuro?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "que me dé paz,",
+      "y algo de orgullo.",
+      "Espero tener",
+      "un trabajo",
+      "tiempo"
+    ],
+    "answer": [
+      "Espero tener",
+      "un trabajo",
+      "que me dé paz,",
+      "tiempo",
+      "y algo de orgullo."
+    ],
+    "patterns": [
+      "hopes",
+      "esperar + infinitive",
+      "future idea"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "esperar",
+      "tener",
+      "dar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I hope to have a job that gives me peace, time, and some pride."
+  },
+  {
+    "id": "nanny-1-024-dreams-young",
+    "prompt_es": "¿Qué soñabas cuando eras joven?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "soñaba con viajar,",
+      "Cuando era joven,",
+      "una vida libre.",
+      "escribir",
+      "y tener"
+    ],
+    "answer": [
+      "Cuando era joven,",
+      "soñaba con viajar,",
+      "escribir",
+      "y tener",
+      "una vida libre."
+    ],
+    "patterns": [
+      "hopes and dreams",
+      "imperfect",
+      "soñar con"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "ser",
+      "soñar",
+      "viajar",
+      "escribir",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "When I was young, I dreamed of travelling, writing, and having a free life."
+  },
+  {
+    "id": "nanny-1-025-dreams-now",
+    "prompt_es": "¿Todavía tienes sueños grandes?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "pero ahora",
+      "todavía tengo sueños,",
+      "Sí,",
+      "y más reales.",
+      "son más tranquilos"
+    ],
+    "answer": [
+      "Sí,",
+      "todavía tengo sueños,",
+      "pero ahora",
+      "son más tranquilos",
+      "y más reales."
+    ],
+    "patterns": [
+      "hopes and dreams",
+      "tener",
+      "ser"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "tener",
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Yes, I still have dreams, but now they are calmer and more real."
+  },
+  {
+    "id": "nanny-1-026-regret-choice",
+    "prompt_es": "¿Te arrepientes de alguna decisión?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "de algunas decisiones,",
+      "no vivir en el pasado.",
+      "me arrepiento",
+      "A veces",
+      "pero intento"
+    ],
+    "answer": [
+      "A veces",
+      "me arrepiento",
+      "de algunas decisiones,",
+      "pero intento",
+      "no vivir en el pasado."
+    ],
+    "patterns": [
+      "regrets",
+      "arrepentirse de",
+      "intentar + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "arrepentirse",
+      "intentar",
+      "vivir"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Sometimes I regret some decisions, but I try not to live in the past."
+  },
+  {
+    "id": "nanny-1-027-regret-said",
+    "prompt_es": "¿Hay algo que te gustaría no haber dicho?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "no haber dicho",
+      "cuando estaba enfadado.",
+      "Sí,",
+      "me gustaría",
+      "algunas cosas"
+    ],
+    "answer": [
+      "Sí,",
+      "me gustaría",
+      "no haber dicho",
+      "algunas cosas",
+      "cuando estaba enfadado."
+    ],
+    "patterns": [
+      "regrets",
+      "me gustaría",
+      "haber + participle",
+      "estar imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "gustar",
+      "haber",
+      "decir",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Yes, I would like not to have said some things when I was angry."
+  },
+  {
+    "id": "nanny-1-028-memory-ex-wife",
+    "prompt_es": "¿Piensas mucho en tu ex mujer?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "algo de tristeza.",
+      "A veces",
+      "pienso en mi ex mujer,",
+      "no con rabia,",
+      "sino con"
+    ],
+    "answer": [
+      "A veces",
+      "pienso en mi ex mujer,",
+      "no con rabia,",
+      "sino con",
+      "algo de tristeza."
+    ],
+    "patterns": [
+      "ex wives and husbands",
+      "emotions",
+      "no... sino"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "pensar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Sometimes I think about my ex-wife, not with rage, but with some sadness."
+  },
+  {
+    "id": "nanny-1-029-ex-husband-respect",
+    "prompt_es": "¿Cómo se puede hablar de un ex marido con respeto?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Se puede hablar",
+      "de un ex marido",
+      "con respeto",
+      "que hubo dolor.",
+      "sin negar"
+    ],
+    "answer": [
+      "Se puede hablar",
+      "de un ex marido",
+      "con respeto",
+      "sin negar",
+      "que hubo dolor."
+    ],
+    "patterns": [
+      "ex wives and husbands",
+      "se puede + infinitive",
+      "sin + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "poder",
+      "hablar",
+      "negar",
+      "haber"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "One can talk about an ex-husband respectfully without denying that there was pain."
+  },
+  {
+    "id": "nanny-1-030-co-parenting",
+    "prompt_es": "¿Qué es difícil cuando dos padres se separan?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "es difícil",
+      "sin discutir.",
+      "se separan,",
+      "Cuando dos padres",
+      "cuidar a los niños"
+    ],
+    "answer": [
+      "Cuando dos padres",
+      "se separan,",
+      "es difícil",
+      "cuidar a los niños",
+      "sin discutir."
+    ],
+    "patterns": [
+      "parenthood",
+      "separarse",
+      "sin + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "separarse",
+      "ser",
+      "cuidar",
+      "discutir"
+    ],
+    "person": "él/ella",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "When two parents separate, it is difficult to look after the children without arguing."
+  },
+  {
+    "id": "nanny-1-031-depression-simple",
+    "prompt_es": "¿Cómo puedes decir que estás deprimido?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Puedo decir",
+      "sin esconderlo.",
+      "sin dramatizar,",
+      "que estoy deprimido",
+      "pero también"
+    ],
+    "answer": [
+      "Puedo decir",
+      "que estoy deprimido",
+      "sin dramatizar,",
+      "pero también",
+      "sin esconderlo."
+    ],
+    "patterns": [
+      "depression",
+      "poder + infinitive",
+      "estar + adjective",
+      "sin + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "poder",
+      "decir",
+      "estar",
+      "dramatizar",
+      "esconder"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I can say that I am depressed without dramatizing, but also without hiding it."
+  },
+  {
+    "id": "nanny-1-032-depression-past",
+    "prompt_es": "¿Has pasado por una época difícil?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "pasé por una época",
+      "no estaba bien.",
+      "Sí,",
+      "muy oscura",
+      "y durante meses"
+    ],
+    "answer": [
+      "Sí,",
+      "pasé por una época",
+      "muy oscura",
+      "y durante meses",
+      "no estaba bien."
+    ],
+    "patterns": [
+      "depression",
+      "preterite",
+      "imperfect",
+      "estar bien"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "pasar",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Yes, I went through a very dark period and for months I was not well."
+  },
+  {
+    "id": "nanny-1-033-ask-help",
+    "prompt_es": "¿Fue fácil pedir ayuda?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "No,",
+      "pedir ayuda",
+      "fue difícil",
+      "mucha vergüenza.",
+      "porque yo tenía"
+    ],
+    "answer": [
+      "No,",
+      "pedir ayuda",
+      "fue difícil",
+      "porque yo tenía",
+      "mucha vergüenza."
+    ],
+    "patterns": [
+      "depression",
+      "ser preterite",
+      "tener imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "pedir",
+      "ser",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "No, asking for help was difficult because I was very ashamed."
+  },
+  {
+    "id": "nanny-1-034-support-person",
+    "prompt_es": "¿Qué ayuda cuando alguien está triste?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "estar presente,",
+      "escuchar",
+      "arreglarlo todo.",
+      "Ayuda mucho",
+      "y no intentar"
+    ],
+    "answer": [
+      "Ayuda mucho",
+      "estar presente,",
+      "escuchar",
+      "y no intentar",
+      "arreglarlo todo."
+    ],
+    "patterns": [
+      "support",
+      "estar presente",
+      "intentar + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "ayudar",
+      "estar",
+      "escuchar",
+      "intentar",
+      "arreglar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "It helps a lot to be present, listen, and not try to fix everything."
+  },
+  {
+    "id": "nanny-1-035-stress-body",
+    "prompt_es": "¿Dónde notas el estrés?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Noto el estrés",
+      "sobre todo",
+      "y en la espalda.",
+      "en el cuerpo,",
+      "en el pecho"
+    ],
+    "answer": [
+      "Noto el estrés",
+      "en el cuerpo,",
+      "sobre todo",
+      "en el pecho",
+      "y en la espalda."
+    ],
+    "patterns": [
+      "stress",
+      "body",
+      "notar"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "notar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I notice stress in my body, especially in my chest and back."
+  },
+  {
+    "id": "nanny-1-036-anger-past",
+    "prompt_es": "¿Te enfadaste mucho alguna vez?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "una vez me enfadé",
+      "me sentí fatal.",
+      "Sí,",
+      "demasiado",
+      "y después"
+    ],
+    "answer": [
+      "Sí,",
+      "una vez me enfadé",
+      "demasiado",
+      "y después",
+      "me sentí fatal."
+    ],
+    "patterns": [
+      "anger",
+      "preterite",
+      "sentirse"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "enfadarse",
+      "sentirse"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Yes, once I got too angry and afterwards I felt awful."
+  },
+  {
+    "id": "nanny-1-037-honest-apology",
+    "prompt_es": "¿Cómo pides perdón de verdad?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Pido perdón",
+      "cuando acepto",
+      "de verdad",
+      "sin excusas.",
+      "lo que hice"
+    ],
+    "answer": [
+      "Pido perdón",
+      "de verdad",
+      "cuando acepto",
+      "lo que hice",
+      "sin excusas."
+    ],
+    "patterns": [
+      "honesty",
+      "lo que",
+      "preterite",
+      "sin + noun"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "pedir",
+      "aceptar",
+      "hacer"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I truly apologize when I accept what I did without excuses."
+  },
+  {
+    "id": "nanny-1-038-perspective-change",
+    "prompt_es": "¿Ha cambiado tu perspectiva con los años?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "con los años",
+      "juzgo menos.",
+      "mi perspectiva ha cambiado",
+      "Sí,",
+      "y ahora"
+    ],
+    "answer": [
+      "Sí,",
+      "con los años",
+      "mi perspectiva ha cambiado",
+      "y ahora",
+      "juzgo menos."
+    ],
+    "patterns": [
+      "perspectives",
+      "present perfect",
+      "con los años"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "haber",
+      "cambiar",
+      "juzgar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Yes, over the years my perspective has changed and now I judge less."
+  },
+  {
+    "id": "nanny-1-039-memory-father",
+    "prompt_es": "¿Qué recuerdas de tu padre?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Recuerdo que",
+      "pero también",
+      "muy tiernos.",
+      "mi padre trabajaba mucho,",
+      "tenía momentos"
+    ],
+    "answer": [
+      "Recuerdo que",
+      "mi padre trabajaba mucho,",
+      "pero también",
+      "tenía momentos",
+      "muy tiernos."
+    ],
+    "patterns": [
+      "family",
+      "memories",
+      "imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "recordar",
+      "trabajar",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "I remember that my father worked a lot, but he also had very tender moments."
+  },
+  {
+    "id": "nanny-1-040-memory-mother",
+    "prompt_es": "¿Qué recuerdas de tu madre?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "cansada,",
+      "Recuerdo a mi madre",
+      "preocupada por todos.",
+      "fuerte",
+      "y muchas veces"
+    ],
+    "answer": [
+      "Recuerdo a mi madre",
+      "cansada,",
+      "fuerte",
+      "y muchas veces",
+      "preocupada por todos."
+    ],
+    "patterns": [
+      "family",
+      "memories",
+      "estar implied"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "recordar",
+      "preocupar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "I remember my mother tired, strong, and often worried about everyone."
+  },
+  {
+    "id": "nanny-1-041-being-parent-now",
+    "prompt_es": "¿Cómo eres como padre ahora?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "que antes,",
+      "soy más paciente",
+      "Ahora",
+      "tengo mucho que aprender.",
+      "pero todavía"
+    ],
+    "answer": [
+      "Ahora",
+      "soy más paciente",
+      "que antes,",
+      "pero todavía",
+      "tengo mucho que aprender."
+    ],
+    "patterns": [
+      "parenthood",
+      "ser",
+      "tener que + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "ser",
+      "tener",
+      "aprender"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Now I am more patient than before, but I still have a lot to learn."
+  },
+  {
+    "id": "nanny-1-042-parent-fear",
+    "prompt_es": "¿Qué miedo tienes como padre?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "lo suficiente",
+      "necesitan hablar.",
+      "de no escuchar",
+      "Tengo miedo",
+      "cuando mis hijos"
+    ],
+    "answer": [
+      "Tengo miedo",
+      "de no escuchar",
+      "lo suficiente",
+      "cuando mis hijos",
+      "necesitan hablar."
+    ],
+    "patterns": [
+      "parenthood",
+      "tener miedo de",
+      "necesitar + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "tener",
+      "escuchar",
+      "necesitar",
+      "hablar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I am afraid of not listening enough when my children need to talk."
+  },
+  {
+    "id": "nanny-1-043-bringing-up-values",
+    "prompt_es": "¿Qué valores quieres enseñar a tus hijos?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "y la idea",
+      "cometemos errores.",
+      "Quiero enseñarles",
+      "honestidad, calma",
+      "de que todos"
+    ],
+    "answer": [
+      "Quiero enseñarles",
+      "honestidad, calma",
+      "y la idea",
+      "de que todos",
+      "cometemos errores."
+    ],
+    "patterns": [
+      "bringing up children",
+      "querer + infinitive",
+      "cometer errores"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "querer",
+      "enseñar",
+      "cometer"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I want to teach them honesty, calm, and the idea that we all make mistakes."
+  },
+  {
+    "id": "nanny-1-044-child-needs",
+    "prompt_es": "¿Qué necesita un niño cuando llora?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "explicar lo que pasa.",
+      "Creo que",
+      "un niño necesita",
+      "sentirse seguro",
+      "antes de poder"
+    ],
+    "answer": [
+      "Creo que",
+      "un niño necesita",
+      "sentirse seguro",
+      "antes de poder",
+      "explicar lo que pasa."
+    ],
+    "patterns": [
+      "children",
+      "creo que",
+      "sentirse",
+      "lo que"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "creer",
+      "necesitar",
+      "sentirse",
+      "poder",
+      "explicar",
+      "pasar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I think a child needs to feel safe before being able to explain what is happening."
+  },
+  {
+    "id": "nanny-1-045-tired-parent",
+    "prompt_es": "¿Qué pasa cuando estás agotado?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Cuando estoy agotado,",
+      "tengo menos paciencia",
+      "y por eso",
+      "un momento.",
+      "necesito parar"
+    ],
+    "answer": [
+      "Cuando estoy agotado,",
+      "tengo menos paciencia",
+      "y por eso",
+      "necesito parar",
+      "un momento."
+    ],
+    "patterns": [
+      "parenthood",
+      "estar + adjective",
+      "tener",
+      "necesitar + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "estar",
+      "tener",
+      "necesitar",
+      "parar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "When I am exhausted, I have less patience and that is why I need to stop for a moment."
+  },
+  {
+    "id": "nanny-1-046-family-dinner",
+    "prompt_es": "¿Cómo eran las comidas familiares?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "ruidosas",
+      "bastante tensas.",
+      "eran largas,",
+      "Las comidas familiares",
+      "y a veces"
+    ],
+    "answer": [
+      "Las comidas familiares",
+      "eran largas,",
+      "ruidosas",
+      "y a veces",
+      "bastante tensas."
+    ],
+    "patterns": [
+      "family",
+      "imperfect",
+      "a veces"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Family meals were long, noisy, and sometimes quite tense."
+  },
+  {
+    "id": "nanny-1-047-family-love",
+    "prompt_es": "¿Había amor en tu familia?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Sí,",
+      "expresarlo bien.",
+      "aunque no siempre",
+      "había amor,",
+      "sabíamos"
+    ],
+    "answer": [
+      "Sí,",
+      "había amor,",
+      "aunque no siempre",
+      "sabíamos",
+      "expresarlo bien."
+    ],
+    "patterns": [
+      "family",
+      "haber imperfect",
+      "aunque",
+      "saber + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "haber",
+      "saber",
+      "expresar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Yes, there was love, although we did not always know how to express it well."
+  },
+  {
+    "id": "nanny-1-048-family-distance",
+    "prompt_es": "¿Te has alejado de alguien de la familia?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "me he alejado",
+      "más paz.",
+      "Sí,",
+      "de algunas personas",
+      "porque necesitaba"
+    ],
+    "answer": [
+      "Sí,",
+      "me he alejado",
+      "de algunas personas",
+      "porque necesitaba",
+      "más paz."
+    ],
+    "patterns": [
+      "family",
+      "present perfect",
+      "necesitar imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "alejarse",
+      "necesitar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Yes, I have distanced myself from some people because I needed more peace."
+  },
+  {
+    "id": "nanny-1-049-reconnect",
+    "prompt_es": "¿Te gustaría recuperar alguna relación?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Me gustaría",
+      "recuperar una relación",
+      "si podemos hablar",
+      "y sin miedo.",
+      "con honestidad"
+    ],
+    "answer": [
+      "Me gustaría",
+      "recuperar una relación",
+      "si podemos hablar",
+      "con honestidad",
+      "y sin miedo."
+    ],
+    "patterns": [
+      "family",
+      "me gustaría",
+      "poder + infinitive",
+      "sin + noun"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "gustar",
+      "recuperar",
+      "poder",
+      "hablar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I would like to recover a relationship if we can speak honestly and without fear."
+  },
+  {
+    "id": "nanny-1-050-old-friend",
+    "prompt_es": "¿Qué echas de menos de tus amigos antiguos?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "la facilidad",
+      "que teníamos",
+      "sin pensar tanto.",
+      "Echo de menos",
+      "para reír"
+    ],
+    "answer": [
+      "Echo de menos",
+      "la facilidad",
+      "que teníamos",
+      "para reír",
+      "sin pensar tanto."
+    ],
+    "patterns": [
+      "memories",
+      "echar de menos",
+      "tener imperfect",
+      "sin + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "echar",
+      "tener",
+      "reír",
+      "pensar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "I miss the ease we had for laughing without thinking so much."
+  },
+  {
+    "id": "nanny-1-051-past-mistake",
+    "prompt_es": "¿Qué aprendiste de tus errores?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Aprendí que",
+      "y que puedo",
+      "si soy honesto.",
+      "no soy perfecto",
+      "cambiar"
+    ],
+    "answer": [
+      "Aprendí que",
+      "no soy perfecto",
+      "y que puedo",
+      "cambiar",
+      "si soy honesto."
+    ],
+    "patterns": [
+      "regrets",
+      "preterite",
+      "ser",
+      "poder"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "aprender",
+      "ser",
+      "poder",
+      "cambiar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "I learned that I am not perfect and that I can change if I am honest."
+  },
+  {
+    "id": "nanny-1-052-past-hurt",
+    "prompt_es": "¿Alguien te hizo daño?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "alguien me hizo daño,",
+      "de ello sin rabia.",
+      "Sí,",
+      "pero con el tiempo",
+      "pude hablar"
+    ],
+    "answer": [
+      "Sí,",
+      "alguien me hizo daño,",
+      "pero con el tiempo",
+      "pude hablar",
+      "de ello sin rabia."
+    ],
+    "patterns": [
+      "memories",
+      "preterite",
+      "poder preterite",
+      "sin + noun"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "hacer",
+      "poder",
+      "hablar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Yes, someone hurt me, but with time I was able to talk about it without rage."
+  },
+  {
+    "id": "nanny-1-053-hurt-others",
+    "prompt_es": "¿Tú hiciste daño a alguien?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Sí,",
+      "a alguien",
+      "hice daño",
+      "me cuesta aceptarlo.",
+      "y todavía"
+    ],
+    "answer": [
+      "Sí,",
+      "hice daño",
+      "a alguien",
+      "y todavía",
+      "me cuesta aceptarlo."
+    ],
+    "patterns": [
+      "regrets",
+      "preterite",
+      "me cuesta + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "hacer",
+      "costar",
+      "aceptar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Yes, I hurt someone and I still find it hard to accept it."
+  },
+  {
+    "id": "nanny-1-054-forgiveness",
+    "prompt_es": "¿Qué significa perdonar?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "perdonar no significa",
+      "con menos peso.",
+      "olvidar,",
+      "Para mí,",
+      "sino vivir"
+    ],
+    "answer": [
+      "Para mí,",
+      "perdonar no significa",
+      "olvidar,",
+      "sino vivir",
+      "con menos peso."
+    ],
+    "patterns": [
+      "perspectives",
+      "no significa... sino",
+      "infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "perdonar",
+      "significar",
+      "olvidar",
+      "vivir"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "For me, forgiving does not mean forgetting, but living with less weight."
+  },
+  {
+    "id": "nanny-1-055-memory-child",
+    "prompt_es": "¿Qué niño eras?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Creo que",
+      "sensible,",
+      "y a veces muy solo.",
+      "era un niño",
+      "curioso"
+    ],
+    "answer": [
+      "Creo que",
+      "era un niño",
+      "sensible,",
+      "curioso",
+      "y a veces muy solo."
+    ],
+    "patterns": [
+      "childhood",
+      "creo que",
+      "ser imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "creer",
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "I think I was a sensitive, curious, and sometimes very lonely child."
+  },
+  {
+    "id": "nanny-1-056-childhood-dream",
+    "prompt_es": "¿Qué querías ser de niño?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "quería ser escritor,",
+      "De niño",
+      "que viajaba mucho.",
+      "o quizá",
+      "alguien"
+    ],
+    "answer": [
+      "De niño",
+      "quería ser escritor,",
+      "o quizá",
+      "alguien",
+      "que viajaba mucho."
+    ],
+    "patterns": [
+      "childhood",
+      "querer imperfect",
+      "ser"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "querer",
+      "ser",
+      "viajar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "As a child I wanted to be a writer, or maybe someone who travelled a lot."
+  },
+  {
+    "id": "nanny-1-057-childhood-fear",
+    "prompt_es": "¿Qué te daba miedo de niño?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "que los adultos",
+      "me daba miedo",
+      "De niño",
+      "sin explicarme nada.",
+      "discutieran"
+    ],
+    "answer": [
+      "De niño",
+      "me daba miedo",
+      "que los adultos",
+      "discutieran",
+      "sin explicarme nada."
+    ],
+    "patterns": [
+      "childhood",
+      "dar miedo",
+      "imperfect",
+      "sin + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "dar",
+      "discutir",
+      "explicar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "As a child I was scared when adults argued without explaining anything to me."
+  },
+  {
+    "id": "nanny-1-058-childhood-safe",
+    "prompt_es": "¿Dónde te sentías seguro?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "donde podía leer,",
+      "y estar solo.",
+      "en lugares tranquilos,",
+      "Me sentía seguro",
+      "pensar"
+    ],
+    "answer": [
+      "Me sentía seguro",
+      "en lugares tranquilos,",
+      "donde podía leer,",
+      "pensar",
+      "y estar solo."
+    ],
+    "patterns": [
+      "childhood",
+      "sentirse imperfect",
+      "poder imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "sentirse",
+      "poder",
+      "leer",
+      "pensar",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "I felt safe in quiet places where I could read, think, and be alone."
+  },
+  {
+    "id": "nanny-1-059-growing-old-hope",
+    "prompt_es": "¿Qué esperas de la vejez?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "con salud,",
+      "y pocas mentiras.",
+      "Espero tener",
+      "una vejez",
+      "buena compañía"
+    ],
+    "answer": [
+      "Espero tener",
+      "una vejez",
+      "con salud,",
+      "buena compañía",
+      "y pocas mentiras."
+    ],
+    "patterns": [
+      "growing old",
+      "hopes",
+      "esperar + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "esperar",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I hope to have old age with health, good company, and few lies."
+  },
+  {
+    "id": "nanny-1-060-growing-old-regret",
+    "prompt_es": "¿Qué no quieres sentir al hacerte mayor?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "a todo el mundo.",
+      "No quiero sentir",
+      "que perdí",
+      "demasiado tiempo",
+      "intentando gustar"
+    ],
+    "answer": [
+      "No quiero sentir",
+      "que perdí",
+      "demasiado tiempo",
+      "intentando gustar",
+      "a todo el mundo."
+    ],
+    "patterns": [
+      "growing old",
+      "regrets",
+      "querer + infinitive",
+      "preterite"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "querer",
+      "sentir",
+      "perder",
+      "intentar",
+      "gustar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "I do not want to feel that I lost too much time trying to please everyone."
+  },
+  {
+    "id": "nanny-1-061-pregnancy-fear",
+    "prompt_es": "¿Qué miedo puede traer un embarazo?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Un embarazo",
+      "puede traer alegría,",
+      "pero también",
+      "a no estar preparado.",
+      "miedo"
+    ],
+    "answer": [
+      "Un embarazo",
+      "puede traer alegría,",
+      "pero también",
+      "miedo",
+      "a no estar preparado."
+    ],
+    "patterns": [
+      "pregnancy",
+      "poder + infinitive",
+      "estar preparado"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "poder",
+      "traer",
+      "estar"
+    ],
+    "person": "él/ella",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "A pregnancy can bring joy, but also fear of not being ready."
+  },
+  {
+    "id": "nanny-1-062-pregnancy-partner",
+    "prompt_es": "¿Cómo puede ayudar una pareja durante el embarazo?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "escuchando",
+      "qué necesita la otra persona.",
+      "estando presente,",
+      "Puede ayudar",
+      "y preguntando"
+    ],
+    "answer": [
+      "Puede ayudar",
+      "estando presente,",
+      "escuchando",
+      "y preguntando",
+      "qué necesita la otra persona."
+    ],
+    "patterns": [
+      "pregnancy",
+      "estar present participle",
+      "necesitar"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "poder",
+      "ayudar",
+      "estar",
+      "escuchar",
+      "preguntar",
+      "necesitar"
+    ],
+    "person": "él/ella",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "A partner can help by being present, listening, and asking what the other person needs."
+  },
+  {
+    "id": "nanny-1-063-new-baby-nights",
+    "prompt_es": "¿Cómo fueron las primeras noches con el bebé?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Las primeras noches",
+      "y muy nervioso.",
+      "pero yo estaba",
+      "fueron preciosas,",
+      "agotado"
+    ],
+    "answer": [
+      "Las primeras noches",
+      "fueron preciosas,",
+      "pero yo estaba",
+      "agotado",
+      "y muy nervioso."
+    ],
+    "patterns": [
+      "parenthood",
+      "ser preterite",
+      "estar imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "The first nights were precious, but I was exhausted and very nervous."
+  },
+  {
+    "id": "nanny-1-064-postnatal-support",
+    "prompt_es": "¿Qué dirías sobre la depresión posparto?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "no es una debilidad,",
+      "apoyo y cuidado.",
+      "Diría que",
+      "sino una experiencia",
+      "que necesita"
+    ],
+    "answer": [
+      "Diría que",
+      "no es una debilidad,",
+      "sino una experiencia",
+      "que necesita",
+      "apoyo y cuidado."
+    ],
+    "patterns": [
+      "postnatal depression",
+      "conditional",
+      "no... sino",
+      "necesitar"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "decir",
+      "ser",
+      "necesitar"
+    ],
+    "person": "yo",
+    "tense": "conditional",
+    "time_family": "conditional",
+    "tense_construction": "conditional",
+    "level": "A2",
+    "answer_en": "I would say that it is not a weakness, but an experience that needs support and care."
+  },
+  {
+    "id": "nanny-1-065-mother-honesty",
+    "prompt_es": "¿Por qué una madre puede ocultar cómo está?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Una madre",
+      "puede ocultarlo",
+      "porque cree",
+      "estar fuerte siempre.",
+      "que tiene que"
+    ],
+    "answer": [
+      "Una madre",
+      "puede ocultarlo",
+      "porque cree",
+      "que tiene que",
+      "estar fuerte siempre."
+    ],
+    "patterns": [
+      "postnatal depression",
+      "tener que",
+      "estar + adjective"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "poder",
+      "ocultar",
+      "creer",
+      "tener",
+      "estar"
+    ],
+    "person": "él/ella",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "A mother can hide it because she believes she has to be strong all the time."
+  },
+  {
+    "id": "nanny-1-066-father-honesty",
+    "prompt_es": "¿Por qué un padre puede callarse?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "puede callarse",
+      "porque piensa",
+      "importan menos.",
+      "Un padre",
+      "que sus problemas"
+    ],
+    "answer": [
+      "Un padre",
+      "puede callarse",
+      "porque piensa",
+      "que sus problemas",
+      "importan menos."
+    ],
+    "patterns": [
+      "parenthood",
+      "poder + reflexive",
+      "pensar que"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "poder",
+      "callarse",
+      "pensar",
+      "importar"
+    ],
+    "person": "él/ella",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "A father can keep quiet because he thinks his problems matter less."
+  },
+  {
+    "id": "nanny-1-067-family-pressure",
+    "prompt_es": "¿Qué presión hay dentro de una familia?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Dentro de una familia",
+      "pero también",
+      "para estar bien.",
+      "hay amor,",
+      "hay presión"
+    ],
+    "answer": [
+      "Dentro de una familia",
+      "hay amor,",
+      "pero también",
+      "hay presión",
+      "para estar bien."
+    ],
+    "patterns": [
+      "family",
+      "haber present",
+      "estar bien"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "haber",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Inside a family there is love, but there is also pressure to be okay."
+  },
+  {
+    "id": "nanny-1-068-family-expectations",
+    "prompt_es": "¿Qué esperaban de ti en tu familia?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "esperaban mucho",
+      "miedo de fallar.",
+      "En mi familia",
+      "de mí,",
+      "y yo tenía"
+    ],
+    "answer": [
+      "En mi familia",
+      "esperaban mucho",
+      "de mí,",
+      "y yo tenía",
+      "miedo de fallar."
+    ],
+    "patterns": [
+      "family",
+      "imperfect",
+      "tener miedo de"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "esperar",
+      "tener",
+      "fallar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "In my family they expected a lot from me, and I was afraid of failing."
+  },
+  {
+    "id": "nanny-1-069-perspective-other",
+    "prompt_es": "¿Intentas entender otras perspectivas?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Intento entender",
+      "incluso cuando",
+      "otras perspectivas,",
+      "de acuerdo.",
+      "no estoy"
+    ],
+    "answer": [
+      "Intento entender",
+      "otras perspectivas,",
+      "incluso cuando",
+      "no estoy",
+      "de acuerdo."
+    ],
+    "patterns": [
+      "perspectives",
+      "intentar + infinitive",
+      "estar de acuerdo"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "intentar",
+      "entender",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I try to understand other perspectives, even when I do not agree."
+  },
+  {
+    "id": "nanny-1-070-perspective-ex",
+    "prompt_es": "¿Puedes ver la perspectiva de tu ex?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "puedo verla,",
+      "lo que pasó.",
+      "aunque todavía",
+      "A veces",
+      "me duele"
+    ],
+    "answer": [
+      "A veces",
+      "puedo verla,",
+      "aunque todavía",
+      "me duele",
+      "lo que pasó."
+    ],
+    "patterns": [
+      "perspectives",
+      "ex wives and husbands",
+      "aunque",
+      "lo que"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "poder",
+      "ver",
+      "doler",
+      "pasar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Sometimes I can see it, although what happened still hurts me."
+  },
+  {
+    "id": "nanny-1-071-talk-better",
+    "prompt_es": "¿Qué quieres mejorar al hablar?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Quiero hablar",
+      "más claridad",
+      "a decir la verdad.",
+      "con más calma,",
+      "y menos miedo"
+    ],
+    "answer": [
+      "Quiero hablar",
+      "con más calma,",
+      "más claridad",
+      "y menos miedo",
+      "a decir la verdad."
+    ],
+    "patterns": [
+      "honesty",
+      "querer + infinitive",
+      "decir la verdad"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "querer",
+      "hablar",
+      "decir"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I want to speak with more calm, more clarity, and less fear of telling the truth."
+  },
+  {
+    "id": "nanny-1-072-when-sad",
+    "prompt_es": "¿Qué necesitas cuando estás triste?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "necesito tiempo,",
+      "Cuando estoy triste,",
+      "que no me juzgue.",
+      "silencio",
+      "y alguien"
+    ],
+    "answer": [
+      "Cuando estoy triste,",
+      "necesito tiempo,",
+      "silencio",
+      "y alguien",
+      "que no me juzgue."
+    ],
+    "patterns": [
+      "depression",
+      "estar + adjective",
+      "necesitar"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "estar",
+      "necesitar",
+      "juzgar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "When I am sad, I need time, silence, and someone who does not judge me."
+  },
+  {
+    "id": "nanny-1-073-when-stressed",
+    "prompt_es": "¿Qué te ayuda cuando estás estresado?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "ordenar mis ideas",
+      "me ayuda caminar,",
+      "Cuando estoy estresado,",
+      "sin prisa.",
+      "y hablar"
+    ],
+    "answer": [
+      "Cuando estoy estresado,",
+      "me ayuda caminar,",
+      "ordenar mis ideas",
+      "y hablar",
+      "sin prisa."
+    ],
+    "patterns": [
+      "stress",
+      "estar + adjective",
+      "sin + noun"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "estar",
+      "ayudar",
+      "caminar",
+      "ordenar",
+      "hablar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "When I am stressed, walking, organizing my ideas, and speaking without hurry help me."
+  },
+  {
+    "id": "nanny-1-074-when-angry",
+    "prompt_es": "¿Qué te gustaría hacer mejor cuando estás enfadado?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "escuchar mejor",
+      "tan rápido.",
+      "cuando estoy enfadado",
+      "Me gustaría",
+      "y no responder"
+    ],
+    "answer": [
+      "Me gustaría",
+      "escuchar mejor",
+      "cuando estoy enfadado",
+      "y no responder",
+      "tan rápido."
+    ],
+    "patterns": [
+      "anger",
+      "me gustaría",
+      "estar + adjective"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "gustar",
+      "escuchar",
+      "estar",
+      "responder"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I would like to listen better when I am angry and not answer so quickly."
+  },
+  {
+    "id": "nanny-1-075-old-memory",
+    "prompt_es": "¿Qué memoria vuelve a menudo?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "de mi infancia",
+      "parecían felices.",
+      "A menudo",
+      "vuelve una memoria",
+      "cuando todos"
+    ],
+    "answer": [
+      "A menudo",
+      "vuelve una memoria",
+      "de mi infancia",
+      "cuando todos",
+      "parecían felices."
+    ],
+    "patterns": [
+      "memories",
+      "a menudo",
+      "imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "volver",
+      "parecer"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Often a memory from my childhood returns when everyone seemed happy."
+  },
+  {
+    "id": "nanny-1-076-hard-conversation",
+    "prompt_es": "¿Qué conversación te cuesta tener?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "y viejas heridas.",
+      "Me cuesta tener",
+      "conversaciones honestas",
+      "sobre dinero,",
+      "familia"
+    ],
+    "answer": [
+      "Me cuesta tener",
+      "conversaciones honestas",
+      "sobre dinero,",
+      "familia",
+      "y viejas heridas."
+    ],
+    "patterns": [
+      "challenges",
+      "me cuesta + infinitive",
+      "honesty"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "costar",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I find it hard to have honest conversations about money, family, and old wounds."
+  },
+  {
+    "id": "nanny-1-077-work-family-balance",
+    "prompt_es": "¿Es difícil equilibrar trabajo y familia?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Sí,",
+      "es difícil",
+      "porque el trabajo",
+      "y la familia también.",
+      "pide mucho"
+    ],
+    "answer": [
+      "Sí,",
+      "es difícil",
+      "porque el trabajo",
+      "pide mucho",
+      "y la familia también."
+    ],
+    "patterns": [
+      "work",
+      "family",
+      "ser + adjective"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "ser",
+      "pedir"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "Yes, it is difficult because work asks a lot and family does too."
+  },
+  {
+    "id": "nanny-1-078-work-regret",
+    "prompt_es": "¿Te arrepientes de trabajar demasiado?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "de haber trabajado",
+      "en algunos años.",
+      "me arrepiento",
+      "Sí,",
+      "demasiado"
+    ],
+    "answer": [
+      "Sí,",
+      "me arrepiento",
+      "de haber trabajado",
+      "demasiado",
+      "en algunos años."
+    ],
+    "patterns": [
+      "work",
+      "regrets",
+      "arrepentirse de haber + participle"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "arrepentirse",
+      "haber",
+      "trabajar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Yes, I regret having worked too much in some years."
+  },
+  {
+    "id": "nanny-1-079-work-pride",
+    "prompt_es": "¿De qué estás orgulloso?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Estoy orgulloso",
+      "estaba perdido.",
+      "adelante",
+      "de haber seguido",
+      "incluso cuando"
+    ],
+    "answer": [
+      "Estoy orgulloso",
+      "de haber seguido",
+      "adelante",
+      "incluso cuando",
+      "estaba perdido."
+    ],
+    "patterns": [
+      "work",
+      "estar orgulloso de",
+      "haber + participle",
+      "estar imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "estar",
+      "haber",
+      "seguir"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "I am proud of having kept going even when I was lost."
+  },
+  {
+    "id": "nanny-1-080-hopes-family",
+    "prompt_es": "¿Qué esperas para tu familia?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "mi familia tenga",
+      "y más tiempo juntos.",
+      "Espero que",
+      "más paz,",
+      "más humor"
+    ],
+    "answer": [
+      "Espero que",
+      "mi familia tenga",
+      "más paz,",
+      "más humor",
+      "y más tiempo juntos."
+    ],
+    "patterns": [
+      "hopes",
+      "esperar que",
+      "tener subjunctive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "esperar",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I hope my family has more peace, more humour, and more time together."
+  },
+  {
+    "id": "nanny-1-081-dream-simple",
+    "prompt_es": "¿Cuál es un sueño sencillo que tienes?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Un sueño sencillo",
+      "que tengo",
+      "es vivir",
+      "y escribir cada día.",
+      "cerca del mar"
+    ],
+    "answer": [
+      "Un sueño sencillo",
+      "que tengo",
+      "es vivir",
+      "cerca del mar",
+      "y escribir cada día."
+    ],
+    "patterns": [
+      "hopes and dreams",
+      "tener",
+      "ser + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "tener",
+      "ser",
+      "vivir",
+      "escribir"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "A simple dream I have is to live near the sea and write every day."
+  },
+  {
+    "id": "nanny-1-082-future-self",
+    "prompt_es": "¿Cómo quieres ser dentro de diez años?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "más tranquilo,",
+      "más honesto",
+      "conmigo mismo.",
+      "Quiero ser",
+      "y menos duro"
+    ],
+    "answer": [
+      "Quiero ser",
+      "más tranquilo,",
+      "más honesto",
+      "y menos duro",
+      "conmigo mismo."
+    ],
+    "patterns": [
+      "hopes",
+      "querer ser",
+      "future idea"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "querer",
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I want to be calmer, more honest, and less hard on myself."
+  },
+  {
+    "id": "nanny-1-083-look-back",
+    "prompt_es": "¿Cómo quieres mirar tu pasado?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Quiero mirar",
+      "con más compasión",
+      "vergüenza.",
+      "mi pasado",
+      "y menos"
+    ],
+    "answer": [
+      "Quiero mirar",
+      "mi pasado",
+      "con más compasión",
+      "y menos",
+      "vergüenza."
+    ],
+    "patterns": [
+      "memories",
+      "querer + infinitive",
+      "past perspective"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "querer",
+      "mirar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I want to look at my past with more compassion and less shame."
+  },
+  {
+    "id": "nanny-1-084-accept-past",
+    "prompt_es": "¿Has aceptado tu pasado?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "algunas partes",
+      "todavía me duelen.",
+      "He aceptado",
+      "de mi pasado,",
+      "pero otras"
+    ],
+    "answer": [
+      "He aceptado",
+      "algunas partes",
+      "de mi pasado,",
+      "pero otras",
+      "todavía me duelen."
+    ],
+    "patterns": [
+      "memories",
+      "present perfect",
+      "doler"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "haber",
+      "aceptar",
+      "doler"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "I have accepted some parts of my past, but others still hurt me."
+  },
+  {
+    "id": "nanny-1-085-talk-about-ex",
+    "prompt_es": "¿Puedes hablar de tu ex sin enfadarte?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Puedo hablar",
+      "sin enfadarme,",
+      "de mi ex",
+      "hacerlo despacio.",
+      "pero necesito"
+    ],
+    "answer": [
+      "Puedo hablar",
+      "de mi ex",
+      "sin enfadarme,",
+      "pero necesito",
+      "hacerlo despacio."
+    ],
+    "patterns": [
+      "ex wives and husbands",
+      "sin + infinitive",
+      "necesitar + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "poder",
+      "hablar",
+      "enfadarse",
+      "necesitar",
+      "hacer"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I can talk about my ex without getting angry, but I need to do it slowly."
+  },
+  {
+    "id": "nanny-1-086-new-partner",
+    "prompt_es": "¿Qué aprendiste de relaciones anteriores?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "una relación necesita",
+      "muy incómodas.",
+      "respeto, deseo",
+      "Aprendí que",
+      "y conversaciones"
+    ],
+    "answer": [
+      "Aprendí que",
+      "una relación necesita",
+      "respeto, deseo",
+      "y conversaciones",
+      "muy incómodas."
+    ],
+    "patterns": [
+      "relationships",
+      "preterite",
+      "necesitar"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "aprender",
+      "necesitar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "I learned that a relationship needs respect, desire, and very uncomfortable conversations."
+  },
+  {
+    "id": "nanny-1-087-loneliness",
+    "prompt_es": "¿Te has sentido solo?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Sí,",
+      "incluso estando",
+      "que me quería.",
+      "me he sentido solo",
+      "con gente"
+    ],
+    "answer": [
+      "Sí,",
+      "me he sentido solo",
+      "incluso estando",
+      "con gente",
+      "que me quería."
+    ],
+    "patterns": [
+      "depression",
+      "present perfect",
+      "estar gerund",
+      "querer imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "sentirse",
+      "estar",
+      "querer"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "Yes, I have felt lonely even while being with people who loved me."
+  },
+  {
+    "id": "nanny-1-088-hope-after-dark",
+    "prompt_es": "¿Qué esperanza tienes después de épocas oscuras?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "de que después",
+      "Tengo la esperanza",
+      "venir algo bueno.",
+      "de épocas oscuras",
+      "todavía puede"
+    ],
+    "answer": [
+      "Tengo la esperanza",
+      "de que después",
+      "de épocas oscuras",
+      "todavía puede",
+      "venir algo bueno."
+    ],
+    "patterns": [
+      "hopes",
+      "tener esperanza de que",
+      "poder + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "tener",
+      "poder",
+      "venir"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I have the hope that after dark periods something good can still come."
+  },
+  {
+    "id": "nanny-1-089-honest-boundary",
+    "prompt_es": "¿Cómo pones un límite con honestidad?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "con calma",
+      "diciendo la verdad",
+      "Pongo un límite",
+      "a la otra persona.",
+      "y sin atacar"
+    ],
+    "answer": [
+      "Pongo un límite",
+      "diciendo la verdad",
+      "con calma",
+      "y sin atacar",
+      "a la otra persona."
+    ],
+    "patterns": [
+      "honesty",
+      "boundaries",
+      "sin + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "poner",
+      "decir",
+      "atacar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I set a boundary by telling the truth calmly and without attacking the other person."
+  },
+  {
+    "id": "nanny-1-090-challenge-now",
+    "prompt_es": "¿Cuál es tu desafío ahora?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "es estar presente",
+      "por los demás.",
+      "sin perder",
+      "Mi desafío ahora",
+      "mi propia paz"
+    ],
+    "answer": [
+      "Mi desafío ahora",
+      "es estar presente",
+      "sin perder",
+      "mi propia paz",
+      "por los demás."
+    ],
+    "patterns": [
+      "challenges",
+      "estar present",
+      "sin + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "ser",
+      "estar",
+      "perder"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "My challenge now is to be present without losing my own peace for others."
+  },
+  {
+    "id": "nanny-1-091-wish-child",
+    "prompt_es": "¿Qué le dirías al niño que eras?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "que no tenía",
+      "para ser querido.",
+      "Le diría",
+      "al niño que era",
+      "que ser perfecto"
+    ],
+    "answer": [
+      "Le diría",
+      "al niño que era",
+      "que no tenía",
+      "que ser perfecto",
+      "para ser querido."
+    ],
+    "patterns": [
+      "childhood",
+      "conditional",
+      "tener que",
+      "ser"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "decir",
+      "ser",
+      "tener",
+      "querer"
+    ],
+    "person": "yo",
+    "tense": "conditional",
+    "time_family": "conditional",
+    "tense_construction": "conditional",
+    "level": "A2",
+    "answer_en": "I would tell the child I was that he did not have to be perfect to be loved."
+  },
+  {
+    "id": "nanny-1-092-wish-mother",
+    "prompt_es": "¿Qué te gustaría decirle a tu madre?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "su miedo.",
+      "Me gustaría decirle",
+      "que entiendo mejor",
+      "su cansancio",
+      "y también"
+    ],
+    "answer": [
+      "Me gustaría decirle",
+      "que entiendo mejor",
+      "su cansancio",
+      "y también",
+      "su miedo."
+    ],
+    "patterns": [
+      "family",
+      "me gustaría",
+      "entender"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "gustar",
+      "decir",
+      "entender"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I would like to tell her that I understand her tiredness better and also her fear."
+  },
+  {
+    "id": "nanny-1-093-wish-father",
+    "prompt_es": "¿Qué te gustaría decirle a tu padre?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "más palabras",
+      "que necesitaba",
+      "Me gustaría decirle",
+      "silencio.",
+      "y menos"
+    ],
+    "answer": [
+      "Me gustaría decirle",
+      "que necesitaba",
+      "más palabras",
+      "y menos",
+      "silencio."
+    ],
+    "patterns": [
+      "family",
+      "me gustaría",
+      "necesitar imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "gustar",
+      "decir",
+      "necesitar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "I would like to tell him that I needed more words and less silence."
+  },
+  {
+    "id": "nanny-1-094-after-argument",
+    "prompt_es": "¿Qué haces después de una discusión?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "con calma",
+      "qué pasó de verdad.",
+      "intento volver",
+      "Después de una discusión,",
+      "y preguntar"
+    ],
+    "answer": [
+      "Después de una discusión,",
+      "intento volver",
+      "con calma",
+      "y preguntar",
+      "qué pasó de verdad."
+    ],
+    "patterns": [
+      "anger",
+      "intentar + infinitive",
+      "preterite question"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "intentar",
+      "volver",
+      "preguntar",
+      "pasar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "After an argument, I try to come back calmly and ask what really happened."
+  },
+  {
+    "id": "nanny-1-095-parent-memory",
+    "prompt_es": "¿Qué momento con tus hijos recuerdas?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Recuerdo una mañana",
+      "que estaba feliz.",
+      "me miró",
+      "en que mi hijo",
+      "y dijo"
+    ],
+    "answer": [
+      "Recuerdo una mañana",
+      "en que mi hijo",
+      "me miró",
+      "y dijo",
+      "que estaba feliz."
+    ],
+    "patterns": [
+      "parenthood",
+      "memories",
+      "preterite",
+      "estar imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "recordar",
+      "mirar",
+      "decir",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "I remember a morning when my son looked at me and said he was happy."
+  },
+  {
+    "id": "nanny-1-096-parent-regret",
+    "prompt_es": "¿Qué te duele como padre?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "haber estado",
+      "necesitaban mi atención.",
+      "Me duele",
+      "distraído",
+      "cuando mis hijos"
+    ],
+    "answer": [
+      "Me duele",
+      "haber estado",
+      "distraído",
+      "cuando mis hijos",
+      "necesitaban mi atención."
+    ],
+    "patterns": [
+      "parenthood",
+      "regrets",
+      "haber + participle",
+      "necesitar imperfect"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "doler",
+      "haber",
+      "estar",
+      "necesitar"
+    ],
+    "person": "yo",
+    "tense": "past",
+    "time_family": "past",
+    "tense_construction": "past",
+    "level": "A2",
+    "answer_en": "It hurts me to have been distracted when my children needed my attention."
+  },
+  {
+    "id": "nanny-1-097-parent-hope",
+    "prompt_es": "¿Qué esperas como padre?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Espero que",
+      "mis hijos sepan",
+      "que los quiero",
+      "cometo errores.",
+      "incluso cuando"
+    ],
+    "answer": [
+      "Espero que",
+      "mis hijos sepan",
+      "que los quiero",
+      "incluso cuando",
+      "cometo errores."
+    ],
+    "patterns": [
+      "parenthood",
+      "hopes",
+      "esperar que",
+      "querer"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "esperar",
+      "saber",
+      "querer",
+      "cometer"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I hope my children know that I love them even when I make mistakes."
+  },
+  {
+    "id": "nanny-1-098-aging-family",
+    "prompt_es": "¿Qué cambia cuando la familia envejece?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "cambian los papeles",
+      "y a veces",
+      "a los padres.",
+      "Cuando la familia envejece,",
+      "los hijos cuidan"
+    ],
+    "answer": [
+      "Cuando la familia envejece,",
+      "cambian los papeles",
+      "y a veces",
+      "los hijos cuidan",
+      "a los padres."
+    ],
+    "patterns": [
+      "growing old",
+      "family",
+      "a veces"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "envejecer",
+      "cambiar",
+      "cuidar"
+    ],
+    "person": "él/ella",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "When the family gets older, roles change and sometimes children care for the parents."
+  },
+  {
+    "id": "nanny-1-099-final-perspective",
+    "prompt_es": "¿Qué perspectiva quieres tener?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Quiero tener",
+      "más amplia,",
+      "dolor y amor.",
+      "una perspectiva",
+      "donde caben"
+    ],
+    "answer": [
+      "Quiero tener",
+      "una perspectiva",
+      "más amplia,",
+      "donde caben",
+      "dolor y amor."
+    ],
+    "patterns": [
+      "perspectives",
+      "querer tener",
+      "emotions"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "querer",
+      "tener",
+      "caber"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I want to have a broader perspective where pain and love both fit."
+  },
+  {
+    "id": "nanny-1-100-final-honesty",
+    "prompt_es": "¿Qué quieres practicar en esta lección?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "hablar de cosas difíciles",
+      "y palabras sencillas.",
+      "Quiero practicar",
+      "con honestidad,",
+      "pasado claro"
+    ],
+    "answer": [
+      "Quiero practicar",
+      "hablar de cosas difíciles",
+      "con honestidad,",
+      "pasado claro",
+      "y palabras sencillas."
+    ],
+    "patterns": [
+      "honesty",
+      "lesson goal",
+      "querer + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [],
+    "lesson_family": "nanny",
+    "nanny_lesson": "Nanny 1",
+    "verbs": [
+      "querer",
+      "practicar",
+      "hablar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "time_family": "present",
+    "tense_construction": "present",
+    "level": "A2",
+    "answer_en": "I want to practise talking about difficult things with honesty, clear past tense, and simple words."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "quick-catch-up-survival-spanish-a2",
+    "name": "1. Quick Catch-up - survival Spanish - A2",
+    "description": "Beginner and travel survival practice for urgent real-life situations.",
+    "file": "./data/lessons/quick-catch-up-survival-spanish-a2.json"
+  },
+  {
+    "id": "starter-conversation-prototype-a2",
+    "name": "2. Starter conversation prototype - A1/A2",
+    "description": "The original small prototype set for basic conversational answers.",
+    "file": "./data/lessons/starter-conversation-prototype-a2.json"
+  },
+  {
+    "id": "nanny-1-a2",
+    "name": "Nanny 1 - A2 - 100 exercises",
+    "description": "Personal conversation practice for emotions, family, parenting, memories, stress, depression, hopes, regrets, and past-tense core verbs.",
+    "file": "./data/lessons/nanny-1-a2.json"
+  }
+]

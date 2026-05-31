@@ -1,0 +1,4119 @@
+[
+  {
+    "id": "quick-catch-up-001-soy-de-inglaterra",
+    "prompt_es": "¿De dónde eres?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Soy",
+      "pero ahora",
+      "de Inglaterra,",
+      "por España.",
+      "estoy de viaje"
+    ],
+    "answer": [
+      "Soy",
+      "de Inglaterra,",
+      "pero ahora",
+      "estoy de viaje",
+      "por España."
+    ],
+    "patterns": [
+      "ser: soy, eres, es",
+      "estar: estoy, estás, está"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "ser: soy, eres, es",
+      "estar: estoy, estás, está"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I am from England, but now I am travelling around Spain."
+  },
+  {
+    "id": "quick-catch-up-002-estoy-en-el-hotel",
+    "prompt_es": "¿Dónde estás ahora?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "estoy",
+      "esperando a un amigo.",
+      "en el hotel,",
+      "Ahora",
+      "cerca del centro,"
+    ],
+    "answer": [
+      "Ahora",
+      "estoy",
+      "en el hotel,",
+      "cerca del centro,",
+      "esperando a un amigo."
+    ],
+    "patterns": [
+      "estar: estoy, estás, está"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "estar: estoy, estás, está"
+    ],
+    "verbs": [
+      "estar",
+      "esperar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Now I am in the hotel, near the centre, waiting for a friend."
+  },
+  {
+    "id": "quick-catch-up-003-tengo-una-reserva",
+    "prompt_es": "¿Tiene usted una reserva?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "para esta noche,",
+      "por favor.",
+      "Sí,",
+      "tengo una reserva",
+      "a nombre de Cooper,"
+    ],
+    "answer": [
+      "Sí,",
+      "tengo una reserva",
+      "para esta noche,",
+      "a nombre de Cooper,",
+      "por favor."
+    ],
+    "patterns": [
+      "tener: tengo, tienes, tiene",
+      "tengo una reserva",
+      "por favor"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "tener: tengo, tienes, tiene",
+      "tengo una reserva",
+      "por favor"
+    ],
+    "verbs": [
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Yes, I have a reservation for tonight under the name Cooper, please."
+  },
+  {
+    "id": "quick-catch-up-004-quiero-un-cafe",
+    "prompt_es": "¿Qué quiere tomar?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "un café con leche",
+      "Quiero",
+      "si puede ser.",
+      "y un vaso de agua,",
+      "por favor,"
+    ],
+    "answer": [
+      "Quiero",
+      "un café con leche",
+      "y un vaso de agua,",
+      "por favor,",
+      "si puede ser."
+    ],
+    "patterns": [
+      "querer: quiero, quieres, quiere",
+      "por favor"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "querer: quiero, quieres, quiere",
+      "por favor"
+    ],
+    "verbs": [
+      "querer",
+      "poder"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I want a coffee with milk and a glass of water, please, if possible."
+  },
+  {
+    "id": "quick-catch-up-005-puedo-pagar-tarjeta",
+    "prompt_es": "¿Cómo quiere pagar?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "por favor,",
+      "con tarjeta,",
+      "¿Puedo pagar",
+      "pagar en efectivo?",
+      "o tengo que"
+    ],
+    "answer": [
+      "¿Puedo pagar",
+      "con tarjeta,",
+      "por favor,",
+      "o tengo que",
+      "pagar en efectivo?"
+    ],
+    "patterns": [
+      "poder: puedo, puedes, puede",
+      "¿Aceptan tarjeta?",
+      "tener que + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "poder: puedo, puedes, puede",
+      "¿Aceptan tarjeta?",
+      "tener que + infinitive"
+    ],
+    "verbs": [
+      "poder",
+      "tener",
+      "pagar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Can I pay by card, please, or do I have to pay in cash?"
+  },
+  {
+    "id": "quick-catch-up-006-voy-al-centro",
+    "prompt_es": "¿A dónde vas ahora?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "para buscar",
+      "cerca de aquí.",
+      "al centro",
+      "Voy",
+      "una farmacia"
+    ],
+    "answer": [
+      "Voy",
+      "al centro",
+      "para buscar",
+      "una farmacia",
+      "cerca de aquí."
+    ],
+    "patterns": [
+      "ir: voy, vas, va",
+      "buscar: busco"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "ir: voy, vas, va",
+      "buscar: busco"
+    ],
+    "verbs": [
+      "ir",
+      "buscar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I am going to the centre to look for a pharmacy near here."
+  },
+  {
+    "id": "quick-catch-up-007-que-hago-si-me-pierdo",
+    "prompt_es": "¿Qué haces si te pierdes?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Si me pierdo,",
+      "dónde está el hotel.",
+      "una estación",
+      "busco",
+      "y pregunto"
+    ],
+    "answer": [
+      "Si me pierdo,",
+      "busco",
+      "una estación",
+      "y pregunto",
+      "dónde está el hotel."
+    ],
+    "patterns": [
+      "hacer: hago, haces, hace",
+      "buscar: busco",
+      "¿Dónde está...?"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "hacer: hago, haces, hace",
+      "buscar: busco",
+      "¿Dónde está...?"
+    ],
+    "verbs": [
+      "perderse",
+      "buscar",
+      "preguntar",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "If I get lost, I look for a station and ask where the hotel is."
+  },
+  {
+    "id": "quick-catch-up-008-hay-farmacia-cerca",
+    "prompt_es": "¿Qué necesitas encontrar?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "porque no me encuentro bien.",
+      "Necesito saber",
+      "si hay",
+      "una farmacia",
+      "cerca de aquí"
+    ],
+    "answer": [
+      "Necesito saber",
+      "si hay",
+      "una farmacia",
+      "cerca de aquí",
+      "porque no me encuentro bien."
+    ],
+    "patterns": [
+      "haber: hay",
+      "necesitar: necesito",
+      "saber: sé, no sé"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "haber: hay",
+      "necesitar: necesito",
+      "saber: sé, no sé"
+    ],
+    "verbs": [
+      "necesitar",
+      "saber",
+      "haber",
+      "encontrarse"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I need to know if there is a pharmacy near here because I do not feel well."
+  },
+  {
+    "id": "quick-catch-up-009-necesito-ayuda",
+    "prompt_es": "¿Necesitas algo?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Sí,",
+      "necesito ayuda",
+      "porque no entiendo",
+      "la máquina.",
+      "lo que dice"
+    ],
+    "answer": [
+      "Sí,",
+      "necesito ayuda",
+      "porque no entiendo",
+      "lo que dice",
+      "la máquina."
+    ],
+    "patterns": [
+      "necesitar: necesito",
+      "entender: entiendo, no entiendo",
+      "lo que + clause"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "necesitar: necesito",
+      "entender: entiendo, no entiendo"
+    ],
+    "verbs": [
+      "necesitar",
+      "entender",
+      "decir"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Yes, I need help because I do not understand what the machine says."
+  },
+  {
+    "id": "quick-catch-up-010-busco-la-estacion",
+    "prompt_es": "¿Qué buscas?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "la estación de tren,",
+      "pero no sé",
+      "muy lejos.",
+      "Busco",
+      "si está"
+    ],
+    "answer": [
+      "Busco",
+      "la estación de tren,",
+      "pero no sé",
+      "si está",
+      "muy lejos."
+    ],
+    "patterns": [
+      "buscar: busco",
+      "saber: sé, no sé",
+      "estar: estoy, estás, está"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "buscar: busco",
+      "saber: sé, no sé",
+      "estar: estoy, estás, está"
+    ],
+    "verbs": [
+      "buscar",
+      "saber",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I am looking for the train station, but I do not know if it is very far."
+  },
+  {
+    "id": "quick-catch-up-011-no-se-donde-esta",
+    "prompt_es": "¿Sabes dónde está el baño?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "No sé",
+      "por favor?",
+      "perdón,",
+      "dónde está,",
+      "¿puede indicármelo,"
+    ],
+    "answer": [
+      "No sé",
+      "dónde está,",
+      "perdón,",
+      "¿puede indicármelo,",
+      "por favor?"
+    ],
+    "patterns": [
+      "saber: sé, no sé",
+      "¿Dónde está...?",
+      "perdón / disculpa",
+      "por favor"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "saber: sé, no sé",
+      "¿Dónde está...?",
+      "perdón / disculpa",
+      "por favor"
+    ],
+    "verbs": [
+      "saber",
+      "estar",
+      "poder"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I do not know where it is, sorry, can you show me, please?"
+  },
+  {
+    "id": "quick-catch-up-012-no-entiendo-el-menu",
+    "prompt_es": "¿Entiendes el menú?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "todo el menú,",
+      "si habla despacio.",
+      "No entiendo",
+      "pero entiendo",
+      "un poco"
+    ],
+    "answer": [
+      "No entiendo",
+      "todo el menú,",
+      "pero entiendo",
+      "un poco",
+      "si habla despacio."
+    ],
+    "patterns": [
+      "entender: entiendo, no entiendo",
+      "más despacio, por favor",
+      "hablar: hablo, habla"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "entender: entiendo, no entiendo",
+      "más despacio, por favor",
+      "hablar: hablo, habla"
+    ],
+    "verbs": [
+      "entender",
+      "hablar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I do not understand the whole menu, but I understand a little if you speak slowly."
+  },
+  {
+    "id": "quick-catch-up-013-hablo-un-poco",
+    "prompt_es": "¿Hablas español?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Hablo",
+      "pero necesito",
+      "un poco de español,",
+      "más despacio, por favor.",
+      "que hable"
+    ],
+    "answer": [
+      "Hablo",
+      "un poco de español,",
+      "pero necesito",
+      "que hable",
+      "más despacio, por favor."
+    ],
+    "patterns": [
+      "hablar: hablo, habla",
+      "necesitar: necesito",
+      "más despacio, por favor"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "hablar: hablo, habla",
+      "necesitar: necesito",
+      "más despacio, por favor"
+    ],
+    "verbs": [
+      "hablar",
+      "necesitar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I speak a little Spanish, but I need you to speak more slowly, please."
+  },
+  {
+    "id": "quick-catch-up-014-donde-esta-el-bano",
+    "prompt_es": "¿Qué quieres preguntar?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "¿dónde está",
+      "el baño,",
+      "Lo necesito ahora.",
+      "Perdón,",
+      "por favor?"
+    ],
+    "answer": [
+      "Perdón,",
+      "¿dónde está",
+      "el baño,",
+      "por favor?",
+      "Lo necesito ahora."
+    ],
+    "patterns": [
+      "¿Dónde está...?",
+      "perdón / disculpa",
+      "por favor",
+      "necesitar: necesito"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "¿Dónde está...?",
+      "perdón / disculpa",
+      "por favor",
+      "necesitar: necesito"
+    ],
+    "verbs": [
+      "estar",
+      "necesitar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, where is the bathroom, please? I need it now."
+  },
+  {
+    "id": "quick-catch-up-015-cuanto-cuesta-billete",
+    "prompt_es": "¿Qué quieres saber antes de comprar el billete?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Quiero saber",
+      "un billete",
+      "antes de comprarlo.",
+      "cuánto cuesta",
+      "al centro"
+    ],
+    "answer": [
+      "Quiero saber",
+      "cuánto cuesta",
+      "un billete",
+      "al centro",
+      "antes de comprarlo."
+    ],
+    "patterns": [
+      "querer: quiero, quieres, quiere",
+      "saber: sé, no sé",
+      "¿Cuánto cuesta?"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "querer: quiero, quieres, quiere",
+      "saber: sé, no sé",
+      "¿Cuánto cuesta?"
+    ],
+    "verbs": [
+      "querer",
+      "saber",
+      "costar",
+      "comprar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I want to know how much a ticket to the centre costs before buying it."
+  },
+  {
+    "id": "quick-catch-up-016-a-que-hora-sale",
+    "prompt_es": "¿Qué necesitas saber del tren?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "a qué hora sale",
+      "Necesito saber",
+      "al aeropuerto.",
+      "el tren",
+      "porque voy"
+    ],
+    "answer": [
+      "Necesito saber",
+      "a qué hora sale",
+      "el tren",
+      "porque voy",
+      "al aeropuerto."
+    ],
+    "patterns": [
+      "necesitar: necesito",
+      "¿A qué hora...?",
+      "ir: voy, vas, va"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "necesitar: necesito",
+      "¿A qué hora...?",
+      "ir: voy, vas, va"
+    ],
+    "verbs": [
+      "necesitar",
+      "saber",
+      "salir",
+      "ir"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I need to know what time the train leaves because I am going to the airport."
+  },
+  {
+    "id": "quick-catch-up-017-puede-repetir",
+    "prompt_es": "¿Qué dices si no entiendes?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Perdón,",
+      "¿puede repetir",
+      "no entiendo bien,",
+      "por favor?",
+      "más despacio,"
+    ],
+    "answer": [
+      "Perdón,",
+      "no entiendo bien,",
+      "¿puede repetir",
+      "más despacio,",
+      "por favor?"
+    ],
+    "patterns": [
+      "¿Puede repetir, por favor?",
+      "más despacio, por favor",
+      "entender: entiendo, no entiendo",
+      "perdón / disculpa"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "¿Puede repetir, por favor?",
+      "más despacio, por favor",
+      "entender: entiendo, no entiendo",
+      "perdón / disculpa"
+    ],
+    "verbs": [
+      "entender",
+      "poder",
+      "repetir"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Sorry, I do not understand well, can you repeat more slowly, please?"
+  },
+  {
+    "id": "quick-catch-up-018-habla-mas-despacio",
+    "prompt_es": "¿Cómo pides que alguien hable más lento?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "hablo un poco,",
+      "más despacio, por favor.",
+      "pero necesito",
+      "Disculpa,",
+      "que hable"
+    ],
+    "answer": [
+      "Disculpa,",
+      "hablo un poco,",
+      "pero necesito",
+      "que hable",
+      "más despacio, por favor."
+    ],
+    "patterns": [
+      "hablar: hablo, habla",
+      "necesitar: necesito",
+      "más despacio, por favor",
+      "perdón / disculpa"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "hablar: hablo, habla",
+      "necesitar: necesito",
+      "más despacio, por favor",
+      "perdón / disculpa"
+    ],
+    "verbs": [
+      "hablar",
+      "necesitar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, I speak a little, but I need you to speak more slowly, please."
+  },
+  {
+    "id": "quick-catch-up-019-perdon-busco-hotel",
+    "prompt_es": "¿Qué dices para pedir ayuda en la calle?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "y no sé",
+      "cerca o lejos.",
+      "Perdón,",
+      "busco este hotel",
+      "si estoy"
+    ],
+    "answer": [
+      "Perdón,",
+      "busco este hotel",
+      "y no sé",
+      "si estoy",
+      "cerca o lejos."
+    ],
+    "patterns": [
+      "perdón / disculpa",
+      "buscar: busco",
+      "saber: sé, no sé",
+      "estar: estoy, estás, está"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "perdón / disculpa",
+      "buscar: busco",
+      "saber: sé, no sé",
+      "estar: estoy, estás, está"
+    ],
+    "verbs": [
+      "buscar",
+      "saber",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, I am looking for this hotel and I do not know if I am near or far."
+  },
+  {
+    "id": "quick-catch-up-020-gracias-por-ayuda",
+    "prompt_es": "¿Qué dices cuando alguien te ayuda?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "por la ayuda,",
+      "Gracias",
+      "dónde tengo que ir.",
+      "de verdad,",
+      "ahora entiendo"
+    ],
+    "answer": [
+      "Gracias",
+      "por la ayuda,",
+      "de verdad,",
+      "ahora entiendo",
+      "dónde tengo que ir."
+    ],
+    "patterns": [
+      "gracias / de nada",
+      "entender: entiendo, no entiendo",
+      "tener que + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "gracias / de nada",
+      "entender: entiendo, no entiendo",
+      "tener que + infinitive"
+    ],
+    "verbs": [
+      "entender",
+      "tener",
+      "ir"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Thank you for the help, really, now I understand where I have to go."
+  },
+  {
+    "id": "quick-catch-up-021-por-favor-un-agua",
+    "prompt_es": "¿Qué pides en un bar?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "para comer,",
+      "y algo pequeño",
+      "Un agua",
+      "si tiene.",
+      "por favor,"
+    ],
+    "answer": [
+      "Un agua",
+      "y algo pequeño",
+      "para comer,",
+      "por favor,",
+      "si tiene."
+    ],
+    "patterns": [
+      "por favor",
+      "tener: tengo, tienes, tiene"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "por favor",
+      "tener: tengo, tienes, tiene"
+    ],
+    "verbs": [
+      "comer",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "A water and something small to eat, please, if you have it."
+  },
+  {
+    "id": "quick-catch-up-022-la-cuenta-por-favor",
+    "prompt_es": "¿Qué dices al final de la comida?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "la cuenta, por favor,",
+      "con tarjeta.",
+      "me trae",
+      "Cuando pueda,",
+      "y pago"
+    ],
+    "answer": [
+      "Cuando pueda,",
+      "me trae",
+      "la cuenta, por favor,",
+      "y pago",
+      "con tarjeta."
+    ],
+    "patterns": [
+      "la cuenta, por favor",
+      "¿Aceptan tarjeta?",
+      "poder: puedo, puedes, puede"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "la cuenta, por favor",
+      "¿Aceptan tarjeta?"
+    ],
+    "verbs": [
+      "poder",
+      "traer",
+      "pagar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "When you can, bring me the bill, please, and I will pay by card."
+  },
+  {
+    "id": "quick-catch-up-023-mesa-para-dos",
+    "prompt_es": "¿Qué dices al entrar en un restaurante?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "por favor,",
+      "sitio fuera.",
+      "Hola,",
+      "una mesa para dos,",
+      "si hay"
+    ],
+    "answer": [
+      "Hola,",
+      "una mesa para dos,",
+      "por favor,",
+      "si hay",
+      "sitio fuera."
+    ],
+    "patterns": [
+      "una mesa para dos",
+      "por favor",
+      "haber: hay"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "una mesa para dos",
+      "por favor",
+      "haber: hay"
+    ],
+    "verbs": [
+      "haber"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Hello, a table for two, please, if there is space outside."
+  },
+  {
+    "id": "quick-catch-up-024-reserva-nombre-cooper",
+    "prompt_es": "¿Qué dices en recepción?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "por favor.",
+      "Buenas,",
+      "tengo una reserva",
+      "para dos noches",
+      "a nombre de Cooper,"
+    ],
+    "answer": [
+      "Buenas,",
+      "tengo una reserva",
+      "para dos noches",
+      "a nombre de Cooper,",
+      "por favor."
+    ],
+    "patterns": [
+      "tengo una reserva",
+      "tener: tengo, tienes, tiene",
+      "por favor"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "tengo una reserva",
+      "tener: tengo, tienes, tiene",
+      "por favor"
+    ],
+    "verbs": [
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Hello, I have a reservation for two nights under the name Cooper, please."
+  },
+  {
+    "id": "quick-catch-up-025-quiero-reservar-mesa",
+    "prompt_es": "¿Qué quieres hacer para esta noche?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Quiero reservar",
+      "una mesa para dos",
+      "esta noche,",
+      "a las nueve.",
+      "si es posible,"
+    ],
+    "answer": [
+      "Quiero reservar",
+      "una mesa para dos",
+      "esta noche,",
+      "si es posible,",
+      "a las nueve."
+    ],
+    "patterns": [
+      "quiero reservar",
+      "querer: quiero, quieres, quiere",
+      "una mesa para dos"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "quiero reservar",
+      "querer: quiero, quieres, quiere",
+      "una mesa para dos"
+    ],
+    "verbs": [
+      "querer",
+      "reservar",
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I want to book a table for two tonight, if possible, at nine."
+  },
+  {
+    "id": "quick-catch-up-026-aceptan-tarjeta",
+    "prompt_es": "¿Qué preguntas antes de pagar?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "¿aceptan tarjeta",
+      "o necesito",
+      "en efectivo?",
+      "Perdón,",
+      "pagar"
+    ],
+    "answer": [
+      "Perdón,",
+      "¿aceptan tarjeta",
+      "o necesito",
+      "pagar",
+      "en efectivo?"
+    ],
+    "patterns": [
+      "¿Aceptan tarjeta?",
+      "necesitar: necesito",
+      "perdón / disculpa"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "¿Aceptan tarjeta?",
+      "necesitar: necesito",
+      "perdón / disculpa"
+    ],
+    "verbs": [
+      "aceptar",
+      "necesitar",
+      "pagar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, do you accept card or do I need to pay in cash?"
+  },
+  {
+    "id": "quick-catch-up-027-sin-cebolla",
+    "prompt_es": "¿Cómo pides cambiar un plato?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Para mí,",
+      "comerla.",
+      "por favor,",
+      "sin cebolla,",
+      "porque no puedo"
+    ],
+    "answer": [
+      "Para mí,",
+      "sin cebolla,",
+      "por favor,",
+      "porque no puedo",
+      "comerla."
+    ],
+    "patterns": [
+      "sin...",
+      "por favor",
+      "poder: puedo, puedes, puede"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "sin...",
+      "por favor",
+      "poder: puedo, puedes, puede"
+    ],
+    "verbs": [
+      "poder",
+      "comer"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "For me, without onion, please, because I cannot eat it."
+  },
+  {
+    "id": "quick-catch-up-028-soy-alergico",
+    "prompt_es": "¿Qué dices si tienes una alergia?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "a los frutos secos,",
+      "sin frutos secos.",
+      "Soy alérgico",
+      "así que necesito",
+      "un plato"
+    ],
+    "answer": [
+      "Soy alérgico",
+      "a los frutos secos,",
+      "así que necesito",
+      "un plato",
+      "sin frutos secos."
+    ],
+    "patterns": [
+      "soy alérgico/a a...",
+      "sin...",
+      "necesitar: necesito"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "soy alérgico/a a...",
+      "sin...",
+      "necesitar: necesito"
+    ],
+    "verbs": [
+      "ser",
+      "necesitar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I am allergic to nuts, so I need a dish without nuts."
+  },
+  {
+    "id": "quick-catch-up-029-me-gustaria-cambiar-reserva",
+    "prompt_es": "¿Qué quieres pedir en el hotel?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Me gustaría",
+      "si se puede,",
+      "cambiar la reserva",
+      "una noche más.",
+      "porque necesito"
+    ],
+    "answer": [
+      "Me gustaría",
+      "cambiar la reserva",
+      "si se puede,",
+      "porque necesito",
+      "una noche más."
+    ],
+    "patterns": [
+      "me gustaría...",
+      "se puede + infinitive",
+      "necesitar: necesito"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "me gustaría...",
+      "se puede + infinitive",
+      "necesitar: necesito"
+    ],
+    "verbs": [
+      "gustar",
+      "cambiar",
+      "poder",
+      "necesitar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I would like to change the reservation if possible, because I need one more night."
+  },
+  {
+    "id": "quick-catch-up-030-voy-a-volver-manana",
+    "prompt_es": "¿Vuelves hoy a la tienda?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "voy a volver",
+      "mañana por la mañana",
+      "no tengo tiempo.",
+      "No,",
+      "porque ahora"
+    ],
+    "answer": [
+      "No,",
+      "voy a volver",
+      "mañana por la mañana",
+      "porque ahora",
+      "no tengo tiempo."
+    ],
+    "patterns": [
+      "voy a + infinitive",
+      "tener: tengo, tienes, tiene"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "voy a + infinitive",
+      "tener: tengo, tienes, tiene"
+    ],
+    "verbs": [
+      "ir",
+      "volver",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "No, I am going to come back tomorrow morning because now I do not have time."
+  },
+  {
+    "id": "quick-catch-up-031-tengo-que-irme",
+    "prompt_es": "¿Por qué te vas ya?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Tengo que irme",
+      "porque voy",
+      "el último tren.",
+      "ahora",
+      "a coger"
+    ],
+    "answer": [
+      "Tengo que irme",
+      "ahora",
+      "porque voy",
+      "a coger",
+      "el último tren."
+    ],
+    "patterns": [
+      "tener que + infinitive",
+      "voy a + infinitive",
+      "ir: voy, vas, va"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "tener que + infinitive",
+      "voy a + infinitive",
+      "ir: voy, vas, va"
+    ],
+    "verbs": [
+      "tener",
+      "irse",
+      "ir",
+      "coger"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I have to leave now because I am going to catch the last train."
+  },
+  {
+    "id": "quick-catch-up-032-hay-que-esperar",
+    "prompt_es": "¿Qué dice el empleado?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "hay que esperar",
+      "Dice que",
+      "llamen mi número.",
+      "aquí",
+      "hasta que"
+    ],
+    "answer": [
+      "Dice que",
+      "hay que esperar",
+      "aquí",
+      "hasta que",
+      "llamen mi número."
+    ],
+    "patterns": [
+      "hay que + infinitive",
+      "hacer: hago, haces, hace"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "hay que + infinitive"
+    ],
+    "verbs": [
+      "decir",
+      "haber",
+      "esperar",
+      "llamar"
+    ],
+    "person": "él/ella",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "He says that it is necessary to wait here until they call my number."
+  },
+  {
+    "id": "quick-catch-up-033-se-puede-entrar",
+    "prompt_es": "¿Qué preguntas en la puerta?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Perdón,",
+      "ya,",
+      "¿se puede entrar",
+      "fuera?",
+      "o hay que esperar"
+    ],
+    "answer": [
+      "Perdón,",
+      "¿se puede entrar",
+      "ya,",
+      "o hay que esperar",
+      "fuera?"
+    ],
+    "patterns": [
+      "se puede + infinitive",
+      "hay que + infinitive",
+      "perdón / disculpa"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "se puede + infinitive",
+      "hay que + infinitive",
+      "perdón / disculpa"
+    ],
+    "verbs": [
+      "poder",
+      "entrar",
+      "haber",
+      "esperar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, can one enter now, or is it necessary to wait outside?"
+  },
+  {
+    "id": "quick-catch-up-034-no-pasa-nada",
+    "prompt_es": "¿Qué dices si alguien se equivoca?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "de verdad,",
+      "sin problema.",
+      "puedo esperar",
+      "No pasa nada,",
+      "un momento"
+    ],
+    "answer": [
+      "No pasa nada,",
+      "de verdad,",
+      "puedo esperar",
+      "un momento",
+      "sin problema."
+    ],
+    "patterns": [
+      "no pasa nada",
+      "poder: puedo, puedes, puede"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "no pasa nada",
+      "poder: puedo, puedes, puede"
+    ],
+    "verbs": [
+      "pasar",
+      "poder",
+      "esperar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "No worries, really, I can wait a moment without a problem."
+  },
+  {
+    "id": "quick-catch-up-035-vale-hasta-luego",
+    "prompt_es": "¿Qué dices al despedirte?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "por todo,",
+      "y buen día.",
+      "Vale,",
+      "muchas gracias",
+      "hasta luego"
+    ],
+    "answer": [
+      "Vale,",
+      "muchas gracias",
+      "por todo,",
+      "hasta luego",
+      "y buen día."
+    ],
+    "patterns": [
+      "vale",
+      "gracias / de nada",
+      "hasta luego"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "vale",
+      "gracias / de nada",
+      "hasta luego"
+    ],
+    "verbs": [],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Okay, thank you very much for everything, see you later and have a good day."
+  },
+  {
+    "id": "quick-catch-up-036-eres-de-aqui",
+    "prompt_es": "¿Eres de aquí?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "soy de fuera,",
+      "No,",
+      "en la ciudad.",
+      "pero estoy",
+      "unos días"
+    ],
+    "answer": [
+      "No,",
+      "soy de fuera,",
+      "pero estoy",
+      "unos días",
+      "en la ciudad."
+    ],
+    "patterns": [
+      "ser: soy, eres, es",
+      "estar: estoy, estás, está"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "ser: soy, eres, es",
+      "estar: estoy, estás, está"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "No, I am from elsewhere, but I am in the city for a few days."
+  },
+  {
+    "id": "quick-catch-up-037-esta-abierto",
+    "prompt_es": "¿Está abierto el museo?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "pero puedo",
+      "si está abierto,",
+      "No sé",
+      "en la entrada.",
+      "preguntar"
+    ],
+    "answer": [
+      "No sé",
+      "si está abierto,",
+      "pero puedo",
+      "preguntar",
+      "en la entrada."
+    ],
+    "patterns": [
+      "saber: sé, no sé",
+      "estar: estoy, estás, está",
+      "poder: puedo, puedes, puede"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "saber: sé, no sé",
+      "estar: estoy, estás, está",
+      "poder: puedo, puedes, puede"
+    ],
+    "verbs": [
+      "saber",
+      "estar",
+      "poder",
+      "preguntar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I do not know if it is open, but I can ask at the entrance."
+  },
+  {
+    "id": "quick-catch-up-038-tienes-agua",
+    "prompt_es": "¿Tienes agua?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "en la mochila,",
+      "comprar otra.",
+      "tengo agua",
+      "Sí,",
+      "pero quiero"
+    ],
+    "answer": [
+      "Sí,",
+      "tengo agua",
+      "en la mochila,",
+      "pero quiero",
+      "comprar otra."
+    ],
+    "patterns": [
+      "tener: tengo, tienes, tiene",
+      "querer: quiero, quieres, quiere"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "tener: tengo, tienes, tiene",
+      "querer: quiero, quieres, quiere"
+    ],
+    "verbs": [
+      "tener",
+      "querer",
+      "comprar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Yes, I have water in my backpack, but I want to buy another one."
+  },
+  {
+    "id": "quick-catch-up-039-quiere-ayuda",
+    "prompt_es": "¿Juan quiere ayuda?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "porque no entiende",
+      "la aplicación.",
+      "Sí,",
+      "quiere ayuda",
+      "cómo usar"
+    ],
+    "answer": [
+      "Sí,",
+      "quiere ayuda",
+      "porque no entiende",
+      "cómo usar",
+      "la aplicación."
+    ],
+    "patterns": [
+      "querer: quiero, quieres, quiere",
+      "entender: entiendo, no entiendo"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "querer: quiero, quieres, quiere",
+      "entender: entiendo, no entiendo"
+    ],
+    "verbs": [
+      "querer",
+      "entender",
+      "usar"
+    ],
+    "person": "él/ella",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Yes, he wants help because he does not understand how to use the app."
+  },
+  {
+    "id": "quick-catch-up-040-puedes-venir",
+    "prompt_es": "¿Puedes venir ahora?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "si tengo tiempo.",
+      "No puedo",
+      "venir ahora,",
+      "pero voy a ir",
+      "más tarde"
+    ],
+    "answer": [
+      "No puedo",
+      "venir ahora,",
+      "pero voy a ir",
+      "más tarde",
+      "si tengo tiempo."
+    ],
+    "patterns": [
+      "poder: puedo, puedes, puede",
+      "voy a + infinitive",
+      "tener: tengo, tienes, tiene"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "poder: puedo, puedes, puede",
+      "voy a + infinitive",
+      "tener: tengo, tienes, tiene"
+    ],
+    "verbs": [
+      "poder",
+      "venir",
+      "ir",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I cannot come now, but I am going to go later if I have time."
+  },
+  {
+    "id": "quick-catch-up-041-vas-al-aeropuerto",
+    "prompt_es": "¿Vas al aeropuerto?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Sí,",
+      "voy al aeropuerto",
+      "en metro",
+      "más barato.",
+      "porque es"
+    ],
+    "answer": [
+      "Sí,",
+      "voy al aeropuerto",
+      "en metro",
+      "porque es",
+      "más barato."
+    ],
+    "patterns": [
+      "ir: voy, vas, va",
+      "ser: soy, eres, es"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "ir: voy, vas, va",
+      "ser: soy, eres, es"
+    ],
+    "verbs": [
+      "ir",
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Yes, I am going to the airport by metro because it is cheaper."
+  },
+  {
+    "id": "quick-catch-up-042-hace-frio",
+    "prompt_es": "¿Qué tiempo hace?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "así que necesito",
+      "una chaqueta.",
+      "esta mañana,",
+      "Hace frío",
+      "comprar"
+    ],
+    "answer": [
+      "Hace frío",
+      "esta mañana,",
+      "así que necesito",
+      "comprar",
+      "una chaqueta."
+    ],
+    "patterns": [
+      "hacer: hago, haces, hace",
+      "necesitar: necesito"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "hacer: hago, haces, hace",
+      "necesitar: necesito"
+    ],
+    "verbs": [
+      "hacer",
+      "necesitar",
+      "comprar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "It is cold this morning, so I need to buy a jacket."
+  },
+  {
+    "id": "quick-catch-up-043-hay-sitio",
+    "prompt_es": "¿Hay sitio en la terraza?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "No sé",
+      "antes de sentarnos.",
+      "pero podemos",
+      "si hay sitio,",
+      "preguntar"
+    ],
+    "answer": [
+      "No sé",
+      "si hay sitio,",
+      "pero podemos",
+      "preguntar",
+      "antes de sentarnos."
+    ],
+    "patterns": [
+      "haber: hay",
+      "saber: sé, no sé",
+      "poder: puedo, puedes, puede"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "haber: hay",
+      "saber: sé, no sé",
+      "poder: puedo, puedes, puede"
+    ],
+    "verbs": [
+      "saber",
+      "haber",
+      "poder",
+      "preguntar",
+      "sentarse"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I do not know if there is space, but we can ask before sitting down."
+  },
+  {
+    "id": "quick-catch-up-044-necesitas-taxi",
+    "prompt_es": "¿Necesitas un taxi?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "necesito un taxi",
+      "cuanto antes.",
+      "Sí,",
+      "para ir",
+      "a la estación"
+    ],
+    "answer": [
+      "Sí,",
+      "necesito un taxi",
+      "para ir",
+      "a la estación",
+      "cuanto antes."
+    ],
+    "patterns": [
+      "necesitar: necesito",
+      "ir: voy, vas, va"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "necesitar: necesito",
+      "ir: voy, vas, va"
+    ],
+    "verbs": [
+      "necesitar",
+      "ir"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Yes, I need a taxi to go to the station as soon as possible."
+  },
+  {
+    "id": "quick-catch-up-045-buscas-entrada",
+    "prompt_es": "¿Buscas la entrada?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Sí,",
+      "principal,",
+      "busco la entrada",
+      "que está al fondo.",
+      "pero creo"
+    ],
+    "answer": [
+      "Sí,",
+      "busco la entrada",
+      "principal,",
+      "pero creo",
+      "que está al fondo."
+    ],
+    "patterns": [
+      "buscar: busco",
+      "estar: estoy, estás, está"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "buscar: busco",
+      "estar: estoy, estás, está"
+    ],
+    "verbs": [
+      "buscar",
+      "creer",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Yes, I am looking for the main entrance, but I think it is at the back."
+  },
+  {
+    "id": "quick-catch-up-046-sabes-la-direccion",
+    "prompt_es": "¿Sabes la dirección?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "la dirección exacta,",
+      "pero tengo",
+      "del hotel.",
+      "No sé",
+      "el nombre"
+    ],
+    "answer": [
+      "No sé",
+      "la dirección exacta,",
+      "pero tengo",
+      "el nombre",
+      "del hotel."
+    ],
+    "patterns": [
+      "saber: sé, no sé",
+      "tener: tengo, tienes, tiene"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "saber: sé, no sé",
+      "tener: tengo, tienes, tiene"
+    ],
+    "verbs": [
+      "saber",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I do not know the exact address, but I have the name of the hotel."
+  },
+  {
+    "id": "quick-catch-up-047-entiendes-al-camarero",
+    "prompt_es": "¿Entiendes al camarero?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Entiendo",
+      "pero necesito",
+      "la última parte.",
+      "un poco,",
+      "que repita"
+    ],
+    "answer": [
+      "Entiendo",
+      "un poco,",
+      "pero necesito",
+      "que repita",
+      "la última parte."
+    ],
+    "patterns": [
+      "entender: entiendo, no entiendo",
+      "necesitar: necesito",
+      "¿Puede repetir, por favor?"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "entender: entiendo, no entiendo",
+      "necesitar: necesito",
+      "¿Puede repetir, por favor?"
+    ],
+    "verbs": [
+      "entender",
+      "necesitar",
+      "repetir"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I understand a little, but I need him to repeat the last part."
+  },
+  {
+    "id": "quick-catch-up-048-hablas-con-recepcion",
+    "prompt_es": "¿Con quién hablas si hay un problema?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "con recepción",
+      "Hablo",
+      "con la habitación.",
+      "si tengo",
+      "un problema"
+    ],
+    "answer": [
+      "Hablo",
+      "con recepción",
+      "si tengo",
+      "un problema",
+      "con la habitación."
+    ],
+    "patterns": [
+      "hablar: hablo, habla",
+      "tener: tengo, tienes, tiene"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "hablar: hablo, habla",
+      "tener: tengo, tienes, tiene"
+    ],
+    "verbs": [
+      "hablar",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I speak with reception if I have a problem with the room."
+  },
+  {
+    "id": "quick-catch-up-049-donde-esta-parada",
+    "prompt_es": "¿Dónde está la parada de autobús?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Perdón,",
+      "la parada de autobús",
+      "¿dónde está",
+      "por favor?",
+      "más cercana,"
+    ],
+    "answer": [
+      "Perdón,",
+      "¿dónde está",
+      "la parada de autobús",
+      "más cercana,",
+      "por favor?"
+    ],
+    "patterns": [
+      "¿Dónde está...?",
+      "perdón / disculpa",
+      "por favor"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "¿Dónde está...?",
+      "perdón / disculpa",
+      "por favor"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, where is the nearest bus stop, please?"
+  },
+  {
+    "id": "quick-catch-up-050-cuanto-cuesta-taxi",
+    "prompt_es": "¿Qué preguntas al taxista?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "¿cuánto cuesta",
+      "desde aquí?",
+      "ir al centro",
+      "Perdón,",
+      "más o menos"
+    ],
+    "answer": [
+      "Perdón,",
+      "¿cuánto cuesta",
+      "ir al centro",
+      "más o menos",
+      "desde aquí?"
+    ],
+    "patterns": [
+      "¿Cuánto cuesta?",
+      "perdón / disculpa",
+      "ir: voy, vas, va"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "¿Cuánto cuesta?",
+      "perdón / disculpa",
+      "ir: voy, vas, va"
+    ],
+    "verbs": [
+      "costar",
+      "ir"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, how much does it cost to go to the centre more or less from here?"
+  },
+  {
+    "id": "quick-catch-up-051-a-que-hora-abre",
+    "prompt_es": "¿Qué quieres saber de la farmacia?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "la farmacia",
+      "comprar medicina.",
+      "Quiero saber",
+      "a qué hora abre",
+      "porque necesito"
+    ],
+    "answer": [
+      "Quiero saber",
+      "a qué hora abre",
+      "la farmacia",
+      "porque necesito",
+      "comprar medicina."
+    ],
+    "patterns": [
+      "querer: quiero, quieres, quiere",
+      "¿A qué hora...?",
+      "necesitar: necesito"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "querer: quiero, quieres, quiere",
+      "¿A qué hora...?",
+      "necesitar: necesito"
+    ],
+    "verbs": [
+      "querer",
+      "saber",
+      "abrir",
+      "necesitar",
+      "comprar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I want to know what time the pharmacy opens because I need to buy medicine."
+  },
+  {
+    "id": "quick-catch-up-052-puede-repetir-numero",
+    "prompt_es": "¿Qué dices si no oyes el número?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "¿puede repetir",
+      "Perdón,",
+      "por favor?",
+      "el número",
+      "más despacio,"
+    ],
+    "answer": [
+      "Perdón,",
+      "¿puede repetir",
+      "el número",
+      "más despacio,",
+      "por favor?"
+    ],
+    "patterns": [
+      "¿Puede repetir, por favor?",
+      "más despacio, por favor",
+      "perdón / disculpa"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "¿Puede repetir, por favor?",
+      "más despacio, por favor",
+      "perdón / disculpa"
+    ],
+    "verbs": [
+      "poder",
+      "repetir"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, can you repeat the number more slowly, please?"
+  },
+  {
+    "id": "quick-catch-up-053-despacio-direccion",
+    "prompt_es": "¿Qué dices si te explican una dirección muy rápido?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "más despacio, por favor?",
+      "¿puede decirlo",
+      "Disculpa,",
+      "la dirección.",
+      "No entiendo"
+    ],
+    "answer": [
+      "Disculpa,",
+      "¿puede decirlo",
+      "más despacio, por favor?",
+      "No entiendo",
+      "la dirección."
+    ],
+    "patterns": [
+      "más despacio, por favor",
+      "entender: entiendo, no entiendo",
+      "perdón / disculpa"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "más despacio, por favor",
+      "entender: entiendo, no entiendo",
+      "perdón / disculpa"
+    ],
+    "verbs": [
+      "poder",
+      "decir",
+      "entender"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, can you say it more slowly, please? I do not understand the directions."
+  },
+  {
+    "id": "quick-catch-up-054-disculpa-tienes-mapa",
+    "prompt_es": "¿Qué preguntas a un empleado?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "de la ciudad",
+      "dónde puedo comprar uno?",
+      "¿tienes un mapa",
+      "Disculpa,",
+      "o sabes"
+    ],
+    "answer": [
+      "Disculpa,",
+      "¿tienes un mapa",
+      "de la ciudad",
+      "o sabes",
+      "dónde puedo comprar uno?"
+    ],
+    "patterns": [
+      "perdón / disculpa",
+      "tener: tengo, tienes, tiene",
+      "saber: sé, no sé",
+      "poder: puedo, puedes, puede"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "perdón / disculpa",
+      "tener: tengo, tienes, tiene",
+      "saber: sé, no sé",
+      "poder: puedo, puedes, puede"
+    ],
+    "verbs": [
+      "tener",
+      "saber",
+      "poder",
+      "comprar"
+    ],
+    "person": "tú",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, do you have a map of the city or do you know where I can buy one?"
+  },
+  {
+    "id": "quick-catch-up-055-gracias-hasta-luego",
+    "prompt_es": "¿Qué dices al salir de la tienda?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "hasta luego,",
+      "mañana.",
+      "Vale,",
+      "gracias por todo,",
+      "voy a volver"
+    ],
+    "answer": [
+      "Vale,",
+      "gracias por todo,",
+      "hasta luego,",
+      "voy a volver",
+      "mañana."
+    ],
+    "patterns": [
+      "vale",
+      "gracias / de nada",
+      "hasta luego",
+      "voy a + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "vale",
+      "gracias / de nada",
+      "hasta luego",
+      "voy a + infinitive"
+    ],
+    "verbs": [
+      "ir",
+      "volver"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Okay, thank you for everything, see you later, I am going to come back tomorrow."
+  },
+  {
+    "id": "quick-catch-up-056-dos-cafes-por-favor",
+    "prompt_es": "¿Qué pides para dos personas?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "para llevar.",
+      "Dos cafés",
+      "y una botella",
+      "de agua,",
+      "por favor,"
+    ],
+    "answer": [
+      "Dos cafés",
+      "y una botella",
+      "de agua,",
+      "por favor,",
+      "para llevar."
+    ],
+    "patterns": [
+      "por favor"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "por favor"
+    ],
+    "verbs": [
+      "llevar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Two coffees and a bottle of water, please, to go."
+  },
+  {
+    "id": "quick-catch-up-057-cuenta-separada",
+    "prompt_es": "¿Qué preguntas antes de pagar en grupo?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Perdón,",
+      "¿se puede pagar",
+      "por separado,",
+      "todo junto?",
+      "o tiene que ser"
+    ],
+    "answer": [
+      "Perdón,",
+      "¿se puede pagar",
+      "por separado,",
+      "o tiene que ser",
+      "todo junto?"
+    ],
+    "patterns": [
+      "se puede + infinitive",
+      "tener que + infinitive",
+      "perdón / disculpa"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "se puede + infinitive",
+      "tener que + infinitive",
+      "perdón / disculpa"
+    ],
+    "verbs": [
+      "poder",
+      "pagar",
+      "tener",
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, can we pay separately, or does it have to be all together?"
+  },
+  {
+    "id": "quick-catch-up-058-mesa-para-uno",
+    "prompt_es": "¿Vienes solo al restaurante?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "por favor,",
+      "sitio dentro.",
+      "una mesa para uno,",
+      "Sí,",
+      "si hay"
+    ],
+    "answer": [
+      "Sí,",
+      "una mesa para uno,",
+      "por favor,",
+      "si hay",
+      "sitio dentro."
+    ],
+    "patterns": [
+      "una mesa para dos",
+      "por favor",
+      "haber: hay"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "una mesa para dos",
+      "por favor",
+      "haber: hay"
+    ],
+    "verbs": [
+      "haber"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Yes, a table for one, please, if there is space inside."
+  },
+  {
+    "id": "quick-catch-up-059-reserva-dos-noches",
+    "prompt_es": "¿Cuántas noches tienes reservadas?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Tengo una reserva",
+      "una noche más.",
+      "pero quiero",
+      "para dos noches,",
+      "añadir"
+    ],
+    "answer": [
+      "Tengo una reserva",
+      "para dos noches,",
+      "pero quiero",
+      "añadir",
+      "una noche más."
+    ],
+    "patterns": [
+      "tengo una reserva",
+      "tener: tengo, tienes, tiene",
+      "querer: quiero, quieres, quiere"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "tengo una reserva",
+      "tener: tengo, tienes, tiene",
+      "querer: quiero, quieres, quiere"
+    ],
+    "verbs": [
+      "tener",
+      "querer",
+      "añadir"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I have a reservation for two nights, but I want to add one more night."
+  },
+  {
+    "id": "quick-catch-up-060-reservar-habitacion",
+    "prompt_es": "¿Qué quieres reservar?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "una habitación",
+      "algo libre.",
+      "Quiero reservar",
+      "para esta noche",
+      "si tiene"
+    ],
+    "answer": [
+      "Quiero reservar",
+      "una habitación",
+      "para esta noche",
+      "si tiene",
+      "algo libre."
+    ],
+    "patterns": [
+      "quiero reservar",
+      "querer: quiero, quieres, quiere",
+      "tener: tengo, tienes, tiene"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "quiero reservar",
+      "querer: quiero, quieres, quiere",
+      "tener: tengo, tienes, tiene"
+    ],
+    "verbs": [
+      "querer",
+      "reservar",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I want to book a room for tonight if you have something available."
+  },
+  {
+    "id": "quick-catch-up-061-pagar-con-tarjeta",
+    "prompt_es": "¿Aceptan tarjeta aquí?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "No sé",
+      "si aceptan tarjeta,",
+      "pero necesito",
+      "con tarjeta.",
+      "pagar"
+    ],
+    "answer": [
+      "No sé",
+      "si aceptan tarjeta,",
+      "pero necesito",
+      "pagar",
+      "con tarjeta."
+    ],
+    "patterns": [
+      "¿Aceptan tarjeta?",
+      "saber: sé, no sé",
+      "necesitar: necesito"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "¿Aceptan tarjeta?",
+      "saber: sé, no sé",
+      "necesitar: necesito"
+    ],
+    "verbs": [
+      "saber",
+      "aceptar",
+      "necesitar",
+      "pagar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I do not know if they accept card, but I need to pay by card."
+  },
+  {
+    "id": "quick-catch-up-062-sin-gluten",
+    "prompt_es": "¿Cómo pides comida si tienes una restricción?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "algo sin gluten,",
+      "por favor,",
+      "opciones.",
+      "Para mí,",
+      "si tiene"
+    ],
+    "answer": [
+      "Para mí,",
+      "algo sin gluten,",
+      "por favor,",
+      "si tiene",
+      "opciones."
+    ],
+    "patterns": [
+      "sin...",
+      "por favor",
+      "tener: tengo, tienes, tiene"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "sin...",
+      "por favor",
+      "tener: tengo, tienes, tiene"
+    ],
+    "verbs": [
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "For me, something gluten-free, please, if you have options."
+  },
+  {
+    "id": "quick-catch-up-063-alergico-marisco",
+    "prompt_es": "¿Qué tienes que decir antes de pedir?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Tengo que decir",
+      "al marisco,",
+      "algo sin marisco.",
+      "que soy alérgico",
+      "así que necesito"
+    ],
+    "answer": [
+      "Tengo que decir",
+      "que soy alérgico",
+      "al marisco,",
+      "así que necesito",
+      "algo sin marisco."
+    ],
+    "patterns": [
+      "soy alérgico/a a...",
+      "tener que + infinitive",
+      "sin...",
+      "necesitar: necesito"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "soy alérgico/a a...",
+      "tener que + infinitive",
+      "sin...",
+      "necesitar: necesito"
+    ],
+    "verbs": [
+      "tener",
+      "decir",
+      "ser",
+      "necesitar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I have to say that I am allergic to seafood, so I need something without seafood."
+  },
+  {
+    "id": "quick-catch-up-064-me-gustaria-un-taxi",
+    "prompt_es": "¿Qué pides en recepción?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "pedir un taxi",
+      "Me gustaría",
+      "a las seis.",
+      "para ir",
+      "al aeropuerto"
+    ],
+    "answer": [
+      "Me gustaría",
+      "pedir un taxi",
+      "para ir",
+      "al aeropuerto",
+      "a las seis."
+    ],
+    "patterns": [
+      "me gustaría...",
+      "ir: voy, vas, va"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "me gustaría...",
+      "ir: voy, vas, va"
+    ],
+    "verbs": [
+      "gustar",
+      "pedir",
+      "ir"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I would like to order a taxi to go to the airport at six."
+  },
+  {
+    "id": "quick-catch-up-065-voy-a-comer",
+    "prompt_es": "¿Qué vas a hacer ahora?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Voy a comer",
+      "porque tengo hambre",
+      "algo rápido",
+      "voy al museo.",
+      "y después"
+    ],
+    "answer": [
+      "Voy a comer",
+      "algo rápido",
+      "porque tengo hambre",
+      "y después",
+      "voy al museo."
+    ],
+    "patterns": [
+      "voy a + infinitive",
+      "tener: tengo, tienes, tiene",
+      "ir: voy, vas, va"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "voy a + infinitive",
+      "tener: tengo, tienes, tiene",
+      "ir: voy, vas, va"
+    ],
+    "verbs": [
+      "ir",
+      "comer",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I am going to eat something quick because I am hungry and afterwards I am going to the museum."
+  },
+  {
+    "id": "quick-catch-up-066-tengo-que-cambiar",
+    "prompt_es": "¿Qué tienes que hacer en la estación?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "el billete",
+      "más tarde.",
+      "porque voy",
+      "Tengo que cambiar",
+      "a salir"
+    ],
+    "answer": [
+      "Tengo que cambiar",
+      "el billete",
+      "porque voy",
+      "a salir",
+      "más tarde."
+    ],
+    "patterns": [
+      "tener que + infinitive",
+      "voy a + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "tener que + infinitive",
+      "voy a + infinitive"
+    ],
+    "verbs": [
+      "tener",
+      "cambiar",
+      "ir",
+      "salir"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I have to change the ticket because I am going to leave later."
+  },
+  {
+    "id": "quick-catch-up-067-hay-que-pagar-aqui",
+    "prompt_es": "¿Dónde se paga?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "aquí primero",
+      "se puede entrar.",
+      "Creo que",
+      "hay que pagar",
+      "y después"
+    ],
+    "answer": [
+      "Creo que",
+      "hay que pagar",
+      "aquí primero",
+      "y después",
+      "se puede entrar."
+    ],
+    "patterns": [
+      "hay que + infinitive",
+      "se puede + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "hay que + infinitive",
+      "se puede + infinitive"
+    ],
+    "verbs": [
+      "creer",
+      "haber",
+      "pagar",
+      "poder",
+      "entrar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I think it is necessary to pay here first and afterwards one can enter."
+  },
+  {
+    "id": "quick-catch-up-068-se-puede-cambiar",
+    "prompt_es": "¿Qué preguntas si el billete está mal?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "¿se puede cambiar",
+      "Perdón,",
+      "comprar otro?",
+      "este billete",
+      "o tengo que"
+    ],
+    "answer": [
+      "Perdón,",
+      "¿se puede cambiar",
+      "este billete",
+      "o tengo que",
+      "comprar otro?"
+    ],
+    "patterns": [
+      "se puede + infinitive",
+      "tener que + infinitive",
+      "perdón / disculpa"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "se puede + infinitive",
+      "tener que + infinitive",
+      "perdón / disculpa"
+    ],
+    "verbs": [
+      "poder",
+      "cambiar",
+      "tener",
+      "comprar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, can this ticket be changed or do I have to buy another one?"
+  },
+  {
+    "id": "quick-catch-up-069-no-pasa-nada-espero",
+    "prompt_es": "¿Qué dices si tardan un poco?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "aquí",
+      "puedo esperar",
+      "No pasa nada,",
+      "sin problema.",
+      "unos minutos"
+    ],
+    "answer": [
+      "No pasa nada,",
+      "puedo esperar",
+      "aquí",
+      "unos minutos",
+      "sin problema."
+    ],
+    "patterns": [
+      "no pasa nada",
+      "poder: puedo, puedes, puede"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "no pasa nada",
+      "poder: puedo, puedes, puede"
+    ],
+    "verbs": [
+      "pasar",
+      "poder",
+      "esperar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "No worries, I can wait here a few minutes without a problem."
+  },
+  {
+    "id": "quick-catch-up-070-vale-nos-vemos",
+    "prompt_es": "¿Qué dices cuando aceptas un plan?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "en la entrada",
+      "hasta luego.",
+      "nos vemos",
+      "Vale,",
+      "a las ocho,"
+    ],
+    "answer": [
+      "Vale,",
+      "nos vemos",
+      "en la entrada",
+      "a las ocho,",
+      "hasta luego."
+    ],
+    "patterns": [
+      "vale",
+      "hasta luego"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "vale",
+      "hasta luego"
+    ],
+    "verbs": [
+      "ver"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Okay, see you at the entrance at eight, see you later."
+  },
+  {
+    "id": "quick-catch-up-071-hasta-luego-recepcion",
+    "prompt_es": "¿Qué dices al salir del hotel?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "voy a volver",
+      "por la llave.",
+      "Gracias,",
+      "hasta luego,",
+      "esta tarde"
+    ],
+    "answer": [
+      "Gracias,",
+      "hasta luego,",
+      "voy a volver",
+      "esta tarde",
+      "por la llave."
+    ],
+    "patterns": [
+      "gracias / de nada",
+      "hasta luego",
+      "voy a + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "gracias / de nada",
+      "hasta luego",
+      "voy a + infinitive"
+    ],
+    "verbs": [
+      "ir",
+      "volver"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Thanks, see you later, I am going to come back this afternoon for the key."
+  },
+  {
+    "id": "quick-catch-up-072-es-mi-primera-vez",
+    "prompt_es": "¿Conoces esta ciudad?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "un poco de ayuda.",
+      "No,",
+      "es mi primera vez",
+      "aquí,",
+      "así que necesito"
+    ],
+    "answer": [
+      "No,",
+      "es mi primera vez",
+      "aquí,",
+      "así que necesito",
+      "un poco de ayuda."
+    ],
+    "patterns": [
+      "ser: soy, eres, es",
+      "necesitar: necesito"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "ser: soy, eres, es",
+      "necesitar: necesito"
+    ],
+    "verbs": [
+      "ser",
+      "necesitar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "No, it is my first time here, so I need a little help."
+  },
+  {
+    "id": "quick-catch-up-073-estoy-cansado",
+    "prompt_es": "¿Cómo estás después del viaje?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Estoy cansado",
+      "por el viaje,",
+      "pero quiero",
+      "a cenar.",
+      "salir un rato"
+    ],
+    "answer": [
+      "Estoy cansado",
+      "por el viaje,",
+      "pero quiero",
+      "salir un rato",
+      "a cenar."
+    ],
+    "patterns": [
+      "estar: estoy, estás, está",
+      "querer: quiero, quieres, quiere"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "estar: estoy, estás, está",
+      "querer: quiero, quieres, quiere"
+    ],
+    "verbs": [
+      "estar",
+      "querer",
+      "salir",
+      "cenar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I am tired from the journey, but I want to go out for a while to have dinner."
+  },
+  {
+    "id": "quick-catch-up-074-tengo-prisa",
+    "prompt_es": "¿Por qué preguntas rápido?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "que coger",
+      "en veinte minutos.",
+      "porque tengo",
+      "Tengo prisa",
+      "un tren"
+    ],
+    "answer": [
+      "Tengo prisa",
+      "porque tengo",
+      "que coger",
+      "un tren",
+      "en veinte minutos."
+    ],
+    "patterns": [
+      "tener: tengo, tienes, tiene",
+      "tener que + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "tener: tengo, tienes, tiene",
+      "tener que + infinitive"
+    ],
+    "verbs": [
+      "tener",
+      "coger"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I am in a hurry because I have to catch a train in twenty minutes."
+  },
+  {
+    "id": "quick-catch-up-075-quiero-algo-rapido",
+    "prompt_es": "¿Qué quieres comer?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Quiero algo rápido",
+      "poco tiempo.",
+      "por favor,",
+      "y sencillo,",
+      "porque tengo"
+    ],
+    "answer": [
+      "Quiero algo rápido",
+      "y sencillo,",
+      "por favor,",
+      "porque tengo",
+      "poco tiempo."
+    ],
+    "patterns": [
+      "querer: quiero, quieres, quiere",
+      "por favor",
+      "tener: tengo, tienes, tiene"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "querer: quiero, quieres, quiere",
+      "por favor",
+      "tener: tengo, tienes, tiene"
+    ],
+    "verbs": [
+      "querer",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I want something quick and simple, please, because I have little time."
+  },
+  {
+    "id": "quick-catch-up-076-puedo-sentarme",
+    "prompt_es": "¿Qué preguntas en la terraza?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "¿puedo sentarme",
+      "reservado?",
+      "Perdón,",
+      "aquí",
+      "o está"
+    ],
+    "answer": [
+      "Perdón,",
+      "¿puedo sentarme",
+      "aquí",
+      "o está",
+      "reservado?"
+    ],
+    "patterns": [
+      "poder: puedo, puedes, puede",
+      "estar: estoy, estás, está",
+      "perdón / disculpa"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "poder: puedo, puedes, puede",
+      "estar: estoy, estás, está",
+      "perdón / disculpa"
+    ],
+    "verbs": [
+      "poder",
+      "sentarse",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, can I sit here or is it reserved?"
+  },
+  {
+    "id": "quick-catch-up-077-voy-a-la-playa",
+    "prompt_es": "¿Qué haces esta tarde?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Voy a la playa",
+      "esta tarde",
+      "si hace sol",
+      "tiempo.",
+      "y tengo"
+    ],
+    "answer": [
+      "Voy a la playa",
+      "esta tarde",
+      "si hace sol",
+      "y tengo",
+      "tiempo."
+    ],
+    "patterns": [
+      "ir: voy, vas, va",
+      "hacer: hago, haces, hace",
+      "tener: tengo, tienes, tiene"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "ir: voy, vas, va",
+      "hacer: hago, haces, hace",
+      "tener: tengo, tienes, tiene"
+    ],
+    "verbs": [
+      "ir",
+      "hacer",
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I am going to the beach this afternoon if it is sunny and I have time."
+  },
+  {
+    "id": "quick-catch-up-078-hace-calor-agua",
+    "prompt_es": "¿Qué necesitas si hace calor?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "necesito agua",
+      "y busco",
+      "con sombra.",
+      "Si hace calor,",
+      "un sitio"
+    ],
+    "answer": [
+      "Si hace calor,",
+      "necesito agua",
+      "y busco",
+      "un sitio",
+      "con sombra."
+    ],
+    "patterns": [
+      "hacer: hago, haces, hace",
+      "necesitar: necesito",
+      "buscar: busco"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "hacer: hago, haces, hace",
+      "necesitar: necesito",
+      "buscar: busco"
+    ],
+    "verbs": [
+      "hacer",
+      "necesitar",
+      "buscar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "If it is hot, I need water and I look for a place with shade."
+  },
+  {
+    "id": "quick-catch-up-079-hay-problema-habitacion",
+    "prompt_es": "¿Hay un problema con la habitación?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Sí,",
+      "con la ducha",
+      "hablar con recepción.",
+      "hay un problema",
+      "y necesito"
+    ],
+    "answer": [
+      "Sí,",
+      "hay un problema",
+      "con la ducha",
+      "y necesito",
+      "hablar con recepción."
+    ],
+    "patterns": [
+      "haber: hay",
+      "necesitar: necesito",
+      "hablar: hablo, habla"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "haber: hay",
+      "necesitar: necesito",
+      "hablar: hablo, habla"
+    ],
+    "verbs": [
+      "haber",
+      "necesitar",
+      "hablar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Yes, there is a problem with the shower and I need to speak with reception."
+  },
+  {
+    "id": "quick-catch-up-080-busco-supermercado",
+    "prompt_es": "¿Qué buscas cerca del hotel?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "un supermercado",
+      "agua y fruta.",
+      "Busco",
+      "cerca del hotel",
+      "para comprar"
+    ],
+    "answer": [
+      "Busco",
+      "un supermercado",
+      "cerca del hotel",
+      "para comprar",
+      "agua y fruta."
+    ],
+    "patterns": [
+      "buscar: busco"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "buscar: busco"
+    ],
+    "verbs": [
+      "buscar",
+      "comprar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I am looking for a supermarket near the hotel to buy water and fruit."
+  },
+  {
+    "id": "quick-catch-up-081-no-se-que-pedir",
+    "prompt_es": "¿Sabes qué pedir?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "No sé",
+      "pero quiero",
+      "qué pedir,",
+      "de aquí.",
+      "algo típico"
+    ],
+    "answer": [
+      "No sé",
+      "qué pedir,",
+      "pero quiero",
+      "algo típico",
+      "de aquí."
+    ],
+    "patterns": [
+      "saber: sé, no sé",
+      "querer: quiero, quieres, quiere"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "saber: sé, no sé",
+      "querer: quiero, quieres, quiere"
+    ],
+    "verbs": [
+      "saber",
+      "pedir",
+      "querer"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I do not know what to order, but I want something typical from here."
+  },
+  {
+    "id": "quick-catch-up-082-no-entiendo-ticket",
+    "prompt_es": "¿Entiendes el ticket?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "el ticket,",
+      "por favor?",
+      "¿puede explicarlo",
+      "No entiendo",
+      "más despacio,"
+    ],
+    "answer": [
+      "No entiendo",
+      "el ticket,",
+      "¿puede explicarlo",
+      "más despacio,",
+      "por favor?"
+    ],
+    "patterns": [
+      "entender: entiendo, no entiendo",
+      "más despacio, por favor",
+      "por favor"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "entender: entiendo, no entiendo",
+      "más despacio, por favor",
+      "por favor"
+    ],
+    "verbs": [
+      "entender",
+      "poder",
+      "explicar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I do not understand the ticket, can you explain it more slowly, please?"
+  },
+  {
+    "id": "quick-catch-up-083-hablo-ingles",
+    "prompt_es": "¿Qué idioma hablas?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "de español,",
+      "hablar español.",
+      "Hablo inglés",
+      "y un poco",
+      "pero intento"
+    ],
+    "answer": [
+      "Hablo inglés",
+      "y un poco",
+      "de español,",
+      "pero intento",
+      "hablar español."
+    ],
+    "patterns": [
+      "hablar: hablo, habla"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "hablar: hablo, habla"
+    ],
+    "verbs": [
+      "hablar",
+      "intentar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I speak English and a little Spanish, but I try to speak Spanish."
+  },
+  {
+    "id": "quick-catch-up-084-donde-esta-salida",
+    "prompt_es": "¿Qué preguntas en una estación?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "¿dónde está",
+      "Perdón,",
+      "por favor?",
+      "la salida",
+      "para taxis,"
+    ],
+    "answer": [
+      "Perdón,",
+      "¿dónde está",
+      "la salida",
+      "para taxis,",
+      "por favor?"
+    ],
+    "patterns": [
+      "¿Dónde está...?",
+      "perdón / disculpa",
+      "por favor"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "¿Dónde está...?",
+      "perdón / disculpa",
+      "por favor"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, where is the exit for taxis, please?"
+  },
+  {
+    "id": "quick-catch-up-085-cuanto-cuesta-menu",
+    "prompt_es": "¿Qué preguntas en el restaurante?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "el menú del día",
+      "¿cuánto cuesta",
+      "Perdón,",
+      "incluida?",
+      "con bebida"
+    ],
+    "answer": [
+      "Perdón,",
+      "¿cuánto cuesta",
+      "el menú del día",
+      "con bebida",
+      "incluida?"
+    ],
+    "patterns": [
+      "¿Cuánto cuesta?",
+      "perdón / disculpa"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "¿Cuánto cuesta?",
+      "perdón / disculpa"
+    ],
+    "verbs": [
+      "costar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, how much does the daily menu cost with a drink included?"
+  },
+  {
+    "id": "quick-catch-up-086-a-que-hora-cierra",
+    "prompt_es": "¿Qué necesitas saber de la tienda?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "la tienda",
+      "volver luego.",
+      "a qué hora cierra",
+      "Necesito saber",
+      "porque quiero"
+    ],
+    "answer": [
+      "Necesito saber",
+      "a qué hora cierra",
+      "la tienda",
+      "porque quiero",
+      "volver luego."
+    ],
+    "patterns": [
+      "necesitar: necesito",
+      "¿A qué hora...?",
+      "querer: quiero, quieres, quiere"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "necesitar: necesito",
+      "¿A qué hora...?",
+      "querer: quiero, quieres, quiere"
+    ],
+    "verbs": [
+      "necesitar",
+      "saber",
+      "cerrar",
+      "querer",
+      "volver"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I need to know what time the shop closes because I want to come back later."
+  },
+  {
+    "id": "quick-catch-up-087-repite-la-direccion",
+    "prompt_es": "¿Qué dices si no has entendido la dirección?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "la dirección,",
+      "No la entiendo.",
+      "Perdón,",
+      "¿puede repetir",
+      "por favor?"
+    ],
+    "answer": [
+      "Perdón,",
+      "¿puede repetir",
+      "la dirección,",
+      "por favor?",
+      "No la entiendo."
+    ],
+    "patterns": [
+      "¿Puede repetir, por favor?",
+      "perdón / disculpa",
+      "por favor",
+      "entender: entiendo, no entiendo"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "¿Puede repetir, por favor?",
+      "perdón / disculpa",
+      "por favor",
+      "entender: entiendo, no entiendo"
+    ],
+    "verbs": [
+      "poder",
+      "repetir",
+      "entender"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, can you repeat the address, please? I do not understand it."
+  },
+  {
+    "id": "quick-catch-up-088-mas-despacio-ticket",
+    "prompt_es": "¿Qué dices en la taquilla?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "comprar.",
+      "Más despacio, por favor,",
+      "porque no entiendo",
+      "qué billete",
+      "tengo que"
+    ],
+    "answer": [
+      "Más despacio, por favor,",
+      "porque no entiendo",
+      "qué billete",
+      "tengo que",
+      "comprar."
+    ],
+    "patterns": [
+      "más despacio, por favor",
+      "entender: entiendo, no entiendo",
+      "tener que + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "más despacio, por favor",
+      "entender: entiendo, no entiendo",
+      "tener que + infinitive"
+    ],
+    "verbs": [
+      "entender",
+      "tener",
+      "comprar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "More slowly, please, because I do not understand which ticket I have to buy."
+  },
+  {
+    "id": "quick-catch-up-089-disculpa-ayuda",
+    "prompt_es": "¿Cómo pides ayuda de forma simple?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Disculpa,",
+      "necesito ayuda",
+      "con esto",
+      "qué hacer.",
+      "porque no sé"
+    ],
+    "answer": [
+      "Disculpa,",
+      "necesito ayuda",
+      "con esto",
+      "porque no sé",
+      "qué hacer."
+    ],
+    "patterns": [
+      "perdón / disculpa",
+      "necesitar: necesito",
+      "saber: sé, no sé",
+      "hacer: hago, haces, hace"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "perdón / disculpa",
+      "necesitar: necesito",
+      "saber: sé, no sé",
+      "hacer: hago, haces, hace"
+    ],
+    "verbs": [
+      "necesitar",
+      "saber",
+      "hacer"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Excuse me, I need help with this because I do not know what to do."
+  },
+  {
+    "id": "quick-catch-up-090-gracias-de-nada",
+    "prompt_es": "¿Qué dices después de recibir indicaciones?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "tan claro,",
+      "llegar solo.",
+      "por explicarlo",
+      "Gracias",
+      "ahora puedo"
+    ],
+    "answer": [
+      "Gracias",
+      "por explicarlo",
+      "tan claro,",
+      "ahora puedo",
+      "llegar solo."
+    ],
+    "patterns": [
+      "gracias / de nada",
+      "poder: puedo, puedes, puede"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "gracias / de nada",
+      "poder: puedo, puedes, puede"
+    ],
+    "verbs": [
+      "explicar",
+      "poder",
+      "llegar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Thank you for explaining it so clearly, now I can arrive by myself."
+  },
+  {
+    "id": "quick-catch-up-091-la-cuenta-tarjeta",
+    "prompt_es": "¿Qué dices cuando terminas de cenar?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "con tarjeta.",
+      "La cuenta, por favor,",
+      "y si se puede,",
+      "quiero pagar",
+      "cuando pueda,"
+    ],
+    "answer": [
+      "La cuenta, por favor,",
+      "cuando pueda,",
+      "y si se puede,",
+      "quiero pagar",
+      "con tarjeta."
+    ],
+    "patterns": [
+      "la cuenta, por favor",
+      "se puede + infinitive",
+      "¿Aceptan tarjeta?",
+      "querer: quiero, quieres, quiere"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "la cuenta, por favor",
+      "se puede + infinitive",
+      "¿Aceptan tarjeta?",
+      "querer: quiero, quieres, quiere"
+    ],
+    "verbs": [
+      "poder",
+      "querer",
+      "pagar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "The bill, please, when you can, and if possible, I want to pay by card."
+  },
+  {
+    "id": "quick-catch-up-092-mesa-con-reserva",
+    "prompt_es": "¿Tienes mesa reservada?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "tengo una reserva",
+      "a las ocho.",
+      "Sí,",
+      "para una mesa",
+      "para dos"
+    ],
+    "answer": [
+      "Sí,",
+      "tengo una reserva",
+      "para una mesa",
+      "para dos",
+      "a las ocho."
+    ],
+    "patterns": [
+      "tengo una reserva",
+      "una mesa para dos",
+      "tener: tengo, tienes, tiene"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "tengo una reserva",
+      "una mesa para dos",
+      "tener: tengo, tienes, tiene"
+    ],
+    "verbs": [
+      "tener"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Yes, I have a reservation for a table for two at eight."
+  },
+  {
+    "id": "quick-catch-up-093-quiero-reservar-tour",
+    "prompt_es": "¿Qué quieres reservar para mañana?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Quiero reservar",
+      "un tour",
+      "para mañana",
+      "hay plazas.",
+      "si todavía"
+    ],
+    "answer": [
+      "Quiero reservar",
+      "un tour",
+      "para mañana",
+      "si todavía",
+      "hay plazas."
+    ],
+    "patterns": [
+      "quiero reservar",
+      "querer: quiero, quieres, quiere",
+      "haber: hay"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "quiero reservar",
+      "querer: quiero, quieres, quiere",
+      "haber: hay"
+    ],
+    "verbs": [
+      "querer",
+      "reservar",
+      "haber"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I want to book a tour for tomorrow if there are still places."
+  },
+  {
+    "id": "quick-catch-up-094-no-aceptan-tarjeta",
+    "prompt_es": "¿Qué haces si no aceptan tarjeta?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Si no aceptan tarjeta,",
+      "un cajero",
+      "cerca de aquí.",
+      "tengo que buscar",
+      "antes de volver."
+    ],
+    "answer": [
+      "Si no aceptan tarjeta,",
+      "tengo que buscar",
+      "un cajero",
+      "cerca de aquí.",
+      "antes de volver."
+    ],
+    "patterns": [
+      "¿Aceptan tarjeta?",
+      "tener que + infinitive",
+      "buscar: busco"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "¿Aceptan tarjeta?",
+      "tener que + infinitive",
+      "buscar: busco"
+    ],
+    "verbs": [
+      "aceptar",
+      "tener",
+      "buscar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "If they do not accept card, I have to look for a cash machine near here before going back."
+  },
+  {
+    "id": "quick-catch-up-095-sin-leche",
+    "prompt_es": "¿Cómo pides el café?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Un café",
+      "por favor,",
+      "tomar leche.",
+      "sin leche,",
+      "porque no puedo"
+    ],
+    "answer": [
+      "Un café",
+      "sin leche,",
+      "por favor,",
+      "porque no puedo",
+      "tomar leche."
+    ],
+    "patterns": [
+      "sin...",
+      "por favor",
+      "poder: puedo, puedes, puede"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "sin...",
+      "por favor",
+      "poder: puedo, puedes, puede"
+    ],
+    "verbs": [
+      "poder",
+      "tomar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "A coffee without milk, please, because I cannot have milk."
+  },
+  {
+    "id": "quick-catch-up-096-alergica-gluten",
+    "prompt_es": "¿Qué dices si tienes una alergia?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "al gluten,",
+      "sin gluten.",
+      "Soy alérgica",
+      "así que necesito",
+      "comida"
+    ],
+    "answer": [
+      "Soy alérgica",
+      "al gluten,",
+      "así que necesito",
+      "comida",
+      "sin gluten."
+    ],
+    "patterns": [
+      "soy alérgico/a a...",
+      "sin...",
+      "necesitar: necesito"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "soy alérgico/a a...",
+      "sin...",
+      "necesitar: necesito"
+    ],
+    "verbs": [
+      "ser",
+      "necesitar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I am allergic to gluten, so I need gluten-free food."
+  },
+  {
+    "id": "quick-catch-up-097-me-gustaria-habitacion",
+    "prompt_es": "¿Qué pides al llegar cansado?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Me gustaría",
+      "si se puede,",
+      "una habitación tranquila",
+      "muy cansado.",
+      "porque estoy"
+    ],
+    "answer": [
+      "Me gustaría",
+      "una habitación tranquila",
+      "si se puede,",
+      "porque estoy",
+      "muy cansado."
+    ],
+    "patterns": [
+      "me gustaría...",
+      "se puede + infinitive",
+      "estar: estoy, estás, está"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "me gustaría...",
+      "se puede + infinitive",
+      "estar: estoy, estás, está"
+    ],
+    "verbs": [
+      "gustar",
+      "poder",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I would like a quiet room if possible, because I am very tired."
+  },
+  {
+    "id": "quick-catch-up-098-voy-a-preguntar",
+    "prompt_es": "¿Qué haces si no sabes el camino?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "en recepción",
+      "al museo.",
+      "porque no sé",
+      "Voy a preguntar",
+      "cómo llegar"
+    ],
+    "answer": [
+      "Voy a preguntar",
+      "en recepción",
+      "porque no sé",
+      "cómo llegar",
+      "al museo."
+    ],
+    "patterns": [
+      "voy a + infinitive",
+      "saber: sé, no sé"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "voy a + infinitive",
+      "saber: sé, no sé"
+    ],
+    "verbs": [
+      "ir",
+      "preguntar",
+      "saber",
+      "llegar"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I am going to ask at reception because I do not know how to get to the museum."
+  },
+  {
+    "id": "quick-catch-up-099-tengo-que-comprar-medicina",
+    "prompt_es": "¿Por qué buscas una farmacia?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "Busco una farmacia",
+      "medicina",
+      "al hotel.",
+      "porque tengo que comprar",
+      "antes de volver"
+    ],
+    "answer": [
+      "Busco una farmacia",
+      "porque tengo que comprar",
+      "medicina",
+      "antes de volver",
+      "al hotel."
+    ],
+    "patterns": [
+      "buscar: busco",
+      "tener que + infinitive"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "buscar: busco",
+      "tener que + infinitive"
+    ],
+    "verbs": [
+      "buscar",
+      "tener",
+      "comprar",
+      "volver"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "I am looking for a pharmacy because I have to buy medicine before returning to the hotel."
+  },
+  {
+    "id": "quick-catch-up-100-vale-hasta-manana",
+    "prompt_es": "¿Qué dices al confirmar el plan?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "entonces nos vemos",
+      "Vale,",
+      "y hasta luego.",
+      "mañana por la mañana,",
+      "gracias"
+    ],
+    "answer": [
+      "Vale,",
+      "entonces nos vemos",
+      "mañana por la mañana,",
+      "gracias",
+      "y hasta luego."
+    ],
+    "patterns": [
+      "vale",
+      "gracias / de nada",
+      "hasta luego"
+    ],
+    "hacks": [],
+    "conversation_chunks": [],
+    "quick_catch_up": [
+      "vale",
+      "gracias / de nada",
+      "hasta luego"
+    ],
+    "verbs": [
+      "ver"
+    ],
+    "person": "yo",
+    "tense": "natural quick catch-up",
+    "time_family": "not verb-focused",
+    "tense_construction": "not verb-focused",
+    "level": "A2",
+    "answer_en": "Okay, then we will see each other tomorrow morning, thanks and see you later."
+  }
+]

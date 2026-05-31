@@ -1,0 +1,371 @@
+[
+  {
+    "id": "conversation-present-perfect-yo-001",
+    "prompt_es": "¿Has comido hoy?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "hoy",
+      "Sí,",
+      "he comido"
+    ],
+    "answer": [
+      "Sí,",
+      "he comido",
+      "hoy"
+    ],
+    "patterns": [
+      "haber + participle",
+      "present perfect"
+    ],
+    "verbs": [
+      "haber",
+      "comer"
+    ],
+    "person": "yo",
+    "tense": "present perfect",
+    "level": "A2"
+  },
+  {
+    "id": "conversation-preterite-object-yo-001",
+    "prompt_es": "¿Has visto a Emma?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "ayer",
+      "Sí,",
+      "la vi"
+    ],
+    "answer": [
+      "Sí,",
+      "la vi",
+      "ayer"
+    ],
+    "patterns": [
+      "direct object pronoun",
+      "preterite"
+    ],
+    "verbs": [
+      "ver"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "level": "A2"
+  },
+  {
+    "id": "conversation-estar-el-001",
+    "prompt_es": "¿Está Juan despierto?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "despierto",
+      "Sí,",
+      "está"
+    ],
+    "answer": [
+      "Sí,",
+      "está",
+      "despierto"
+    ],
+    "patterns": [
+      "estar + adjective"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "él/ella",
+    "tense": "present",
+    "level": "A1-A2"
+  },
+  {
+    "id": "conversation-querer-yo-001",
+    "prompt_es": "¿Quieres café?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "quiero",
+      "café",
+      "Sí,"
+    ],
+    "answer": [
+      "Sí,",
+      "quiero",
+      "café"
+    ],
+    "patterns": [
+      "querer + noun"
+    ],
+    "verbs": [
+      "querer"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A1-A2"
+  },
+  {
+    "id": "conversation-ir-a-yo-001",
+    "prompt_es": "¿Vas a estudiar hoy?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "voy a",
+      "hoy",
+      "Sí,",
+      "estudiar"
+    ],
+    "answer": [
+      "Sí,",
+      "voy a",
+      "estudiar",
+      "hoy"
+    ],
+    "patterns": [
+      "ir a + infinitive"
+    ],
+    "verbs": [
+      "ir",
+      "estudiar"
+    ],
+    "person": "yo",
+    "tense": "near future",
+    "level": "A1-A2"
+  },
+  {
+    "id": "conversation-tener-que-yo-001",
+    "prompt_es": "¿Tienes que trabajar mañana?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "tengo que",
+      "mañana",
+      "Sí,",
+      "trabajar"
+    ],
+    "answer": [
+      "Sí,",
+      "tengo que",
+      "trabajar",
+      "mañana"
+    ],
+    "patterns": [
+      "tener que + infinitive"
+    ],
+    "verbs": [
+      "tener",
+      "trabajar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A1-A2"
+  },
+  {
+    "id": "conversation-poder-el-001",
+    "prompt_es": "¿Puede venir María?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "venir",
+      "Sí,",
+      "puede"
+    ],
+    "answer": [
+      "Sí,",
+      "puede",
+      "venir"
+    ],
+    "patterns": [
+      "poder + infinitive"
+    ],
+    "verbs": [
+      "poder",
+      "venir"
+    ],
+    "person": "él/ella",
+    "tense": "present",
+    "level": "A1-A2"
+  },
+  {
+    "id": "conversation-lo-que-yo-001",
+    "prompt_es": "¿Sabes lo que quiere Juan?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "No,",
+      "no sé",
+      "lo que",
+      "quiere"
+    ],
+    "answer": [
+      "No,",
+      "no sé",
+      "lo que",
+      "quiere"
+    ],
+    "patterns": [
+      "lo que",
+      "indirect question"
+    ],
+    "verbs": [
+      "saber",
+      "querer"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A1-A2"
+  },
+  {
+    "id": "conversation-aunque-yo-001",
+    "prompt_es": "¿Quieres practicar aunque estás cansado?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "aunque",
+      "Sí,",
+      "estoy cansado",
+      "quiero practicar"
+    ],
+    "answer": [
+      "Sí,",
+      "quiero practicar",
+      "aunque",
+      "estoy cansado"
+    ],
+    "patterns": [
+      "aunque",
+      "querer + infinitive"
+    ],
+    "verbs": [
+      "querer",
+      "practicar",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2"
+  },
+  {
+    "id": "conversation-imperfect-yo-001",
+    "prompt_es": "¿Querías decir algo?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "quería",
+      "Sí,",
+      "algo",
+      "decir"
+    ],
+    "answer": [
+      "Sí,",
+      "quería",
+      "decir",
+      "algo"
+    ],
+    "patterns": [
+      "querer + infinitive",
+      "decir algo"
+    ],
+    "verbs": [
+      "querer",
+      "decir"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "level": "A2"
+  },
+  {
+    "id": "conversation-preterite-yo-002",
+    "prompt_es": "¿Tuviste que hacerlo ayer?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "hacerlo",
+      "ayer",
+      "Sí,",
+      "tuve que"
+    ],
+    "answer": [
+      "Sí,",
+      "tuve que",
+      "hacerlo",
+      "ayer"
+    ],
+    "patterns": [
+      "tener que + infinitive"
+    ],
+    "verbs": [
+      "tener",
+      "hacer"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "level": "A2"
+  },
+  {
+    "id": "conversation-direct-object-yo-002",
+    "prompt_es": "¿Compraste el pan?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "lo compré",
+      "Sí,",
+      "esta mañana"
+    ],
+    "answer": [
+      "Sí,",
+      "lo compré",
+      "esta mañana"
+    ],
+    "patterns": [
+      "direct object pronoun",
+      "preterite"
+    ],
+    "verbs": [
+      "comprar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "level": "A2"
+  },
+  {
+    "id": "conversation-imperfect-el-001",
+    "prompt_es": "¿Juan iba a llamarme?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "llamarte",
+      "Sí,",
+      "iba a"
+    ],
+    "answer": [
+      "Sí,",
+      "iba a",
+      "llamarte"
+    ],
+    "patterns": [
+      "ir a + infinitive"
+    ],
+    "verbs": [
+      "ir",
+      "llamar"
+    ],
+    "person": "él/ella",
+    "tense": "imperfect",
+    "level": "A2"
+  },
+  {
+    "id": "conversation-no-se-si-yo-001",
+    "prompt_es": "¿Sabes si Emma puede venir?",
+    "prompt_label": "Spanish question",
+    "chunks": [
+      "puede venir",
+      "No,",
+      "no sé si",
+      "Emma"
+    ],
+    "answer": [
+      "No,",
+      "no sé si",
+      "Emma",
+      "puede venir"
+    ],
+    "patterns": [
+      "no sé si",
+      "poder + infinitive"
+    ],
+    "verbs": [
+      "saber",
+      "poder",
+      "venir"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2"
+  }
+]
