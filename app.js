@@ -1,4 +1,5 @@
 const maxQuestions = 20;
+const accuracyTarget = 80;
 const accuracyWindows = [100, 200, 500, 1000];
 const lessonIndexFile = "./data/lesson-index.json";
 const storageKey = "spanish-pills-mobile-results";
@@ -265,6 +266,7 @@ function renderStats() {
   els.accuracyText.textContent = `${accuracy}%`;
   els.accuracyBox.style.setProperty("--accuracy-value", `${accuracy}%`);
   els.accuracyBox.style.setProperty("--accuracy-color", accuracyColor);
+  els.accuracyBox.classList.toggle("target-met", accuracy >= accuracyTarget);
   renderHistoryBars();
 }
 
