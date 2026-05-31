@@ -101,7 +101,7 @@ function accuracyRgb(accuracy) {
   const red = [223, 45, 45];
   const orange = [242, 132, 31];
   const yellow = [244, 211, 52];
-  const green = [28, 220, 96];
+  const green = [34, 197, 94];
 
   if (accuracy >= 75) return mixRgb(yellow, green, (accuracy - 75) / 25);
   if (accuracy >= 50) return mixRgb(orange, yellow, (accuracy - 50) / 25);
