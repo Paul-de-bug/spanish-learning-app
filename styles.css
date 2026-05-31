@@ -370,7 +370,7 @@ input {
 
 .xp-segment {
   border-radius: inherit;
-  background: transparent;
+  background: rgba(32, 37, 35, 0.08);
 }
 
 .xp-segment.filled {

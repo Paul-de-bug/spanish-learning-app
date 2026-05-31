@@ -30,6 +30,7 @@ const els = {
   xpPanel: document.querySelector("#xpPanel"),
   xpLevelText: document.querySelector("#xpLevelText"),
   xpText: document.querySelector("#xpText"),
+  xpTrack: document.querySelector(".xp-track"),
   xpSegments: document.querySelector("#xpSegments"),
   questionCounter: document.querySelector("#questionCounter"),
   promptText: document.querySelector("#promptText"),
@@ -335,6 +336,12 @@ function renderXp(xpValue = totalXp, flashSegment = null, holdBoundary = false) 
 
   els.xpLevelText.textContent = `Level ${level}`;
   els.xpText.textContent = `${levelXp} / ${xpPerLevel} XP`;
+  if (!els.xpSegments) {
+    els.xpSegments = document.createElement("div");
+    els.xpSegments.id = "xpSegments";
+    els.xpSegments.className = "xp-segments";
+    els.xpTrack?.append(els.xpSegments);
+  }
   els.xpSegments.innerHTML = "";
 
   for (let index = 0; index < xpSegmentsPerLevel; index += 1) {
@@ -746,6 +753,7 @@ function bindEvents() {
 }
 
 async function init() {
+  renderXp();
   lessons = await loadJson(lessonIndexFile);
   populateLessons();
   bindEvents();
