@@ -48,6 +48,7 @@ let selected = [];
 let selectedIndexes = new Set();
 let shuffledChunkOrder = [];
 let results = loadResults();
+let sessionResults = [];
 let savedWords = loadSavedWords();
 let awaitingNext = false;
 let audioContext;
@@ -233,6 +234,7 @@ async function loadLesson() {
 
 function startSession() {
   session = sample(exercises);
+  sessionResults = [];
   currentIndex = 0;
   selected = [];
   selectedIndexes = new Set();
@@ -245,10 +247,8 @@ function shuffleLesson() {
 }
 
 function renderStats() {
-  const lesson = currentLesson();
-  const lessonResults = results.filter((result) => result.lesson_id === lesson?.id);
-  const correct = lessonResults.filter((result) => result.correct).length;
-  const accuracy = lessonResults.length ? Math.round((correct / lessonResults.length) * 100) : 100;
+  const correct = sessionResults.filter((result) => result.correct).length;
+  const accuracy = sessionResults.length ? Math.round((correct / sessionResults.length) * 100) : 100;
   const progressPercent = session.length ? Math.round((Math.min(currentIndex + 1, session.length) / session.length) * 100) : 0;
   const accuracyColor = accuracyRgb(accuracy).join(", ");
 
@@ -389,6 +389,7 @@ function submitAnswer() {
   };
 
   results.push(result);
+  sessionResults.push(result);
   saveResults();
 
   if (correct) playCorrectSound();
