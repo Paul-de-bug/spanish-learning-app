@@ -6,6 +6,7 @@ const storageKey = "spanish-pills-mobile-results";
 const savedWordsKey = "spanish-pills-saved-words";
 
 const els = {
+  lessonTitle: document.querySelector("#lessonTitle"),
   lessonSelect: document.querySelector("#lessonSelect"),
   lessonDescription: document.querySelector("#lessonDescription"),
   openMenuButton: document.querySelector("#openMenuButton"),
@@ -15,8 +16,7 @@ const els = {
   shuffleButton: document.querySelector("#shuffleButton"),
   resetButton: document.querySelector("#resetButton"),
   progressBox: document.querySelector("#progressBox"),
-  progressText: document.querySelector("#progressText"),
-  correctText: document.querySelector("#correctText"),
+  progressPills: document.querySelector("#progressPills"),
   accuracyBox: document.querySelector("#accuracyBox"),
   accuracyText: document.querySelector("#accuracyText"),
   questionCounter: document.querySelector("#questionCounter"),
@@ -124,6 +124,22 @@ function currentLesson() {
 
 function currentExercise() {
   return session[currentIndex];
+}
+
+function currentLessonNumber() {
+  return Math.max(lessons.findIndex((lesson) => lesson.id === currentLesson()?.id), 0) + 1;
+}
+
+function shortLessonName(lesson) {
+  return (lesson?.name ?? "Lesson")
+    .replace(/^\d+\.\s*/, "")
+    .split(" - ")[0]
+    .trim();
+}
+
+function currentLessonTitle() {
+  const lesson = currentLesson();
+  return `${currentLessonNumber()}. ${shortLessonName(lesson)}`;
 }
 
 function lowerFirst(text) {
@@ -255,19 +271,38 @@ function shuffleLesson() {
 }
 
 function renderStats() {
-  const correct = sessionResults.filter((result) => result.correct).length;
   const accuracy = accuracySummary(sessionResults) ?? 100;
-  const progressPercent = session.length ? Math.round((Math.min(currentIndex + 1, session.length) / session.length) * 100) : 0;
   const accuracyColor = accuracyRgb(accuracy).join(", ");
 
-  els.progressText.textContent = `${Math.min(currentIndex + 1, session.length)} / ${session.length}`;
-  els.progressBox.style.setProperty("--progress-value", `${progressPercent}%`);
-  els.correctText.textContent = String(correct);
   els.accuracyText.textContent = `${accuracy}%`;
   els.accuracyBox.style.setProperty("--accuracy-value", `${accuracy}%`);
   els.accuracyBox.style.setProperty("--accuracy-color", accuracyColor);
   els.accuracyBox.classList.toggle("target-met", accuracy >= accuracyTarget);
+  renderProgressPills();
   renderHistoryBars();
+}
+
+function renderProgressPills() {
+  const resultsByIndex = new Map(sessionResults.map((result) => [result.question_index, result]));
+  els.progressPills.innerHTML = "";
+
+  for (let index = 0; index < maxQuestions; index += 1) {
+    const pill = document.createElement("span");
+    const result = resultsByIndex.get(index);
+    const classes = ["progress-pill"];
+
+    if (index >= session.length) {
+      classes.push("unused");
+    } else if (result) {
+      classes.push(result.correct ? "correct" : "incorrect");
+    } else if (index === currentIndex) {
+      classes.push("current");
+    }
+
+    pill.className = classes.join(" ");
+    pill.setAttribute("aria-label", `Question ${index + 1}`);
+    els.progressPills.append(pill);
+  }
 }
 
 function renderHistoryBars() {
@@ -351,6 +386,7 @@ function renderExercise() {
   awaitingNext = false;
   selected = [];
   selectedIndexes = new Set();
+  els.lessonTitle.textContent = currentLessonTitle();
   els.feedback.className = "feedback hidden";
   els.questionCounter.className = "";
   els.questionCounter.hidden = true;
@@ -416,6 +452,7 @@ function submitAnswer() {
     lesson_id: lesson.id,
     lesson_name: lesson.name,
     exercise_id: exercise.id,
+    question_index: currentIndex,
     correct,
     prompt: promptText(exercise),
     attempt,
@@ -485,7 +522,12 @@ function renderSaveChunkButtons(exercise, lesson) {
 }
 
 function nextExercise() {
-  currentIndex = (currentIndex + 1) % session.length;
+  if (currentIndex + 1 >= session.length) {
+    startSession();
+    return;
+  }
+
+  currentIndex += 1;
   renderExercise();
 }
 

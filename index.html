@@ -74,7 +74,7 @@
       <header class="topbar">
         <div>
           <p class="eyebrow">Spanish Pills</p>
-          <h1>Build the answer</h1>
+          <h1 id="lessonTitle">Loading</h1>
         </div>
         <button id="openMenuButton" class="icon-button menu-button" type="button" aria-label="Open menu" title="Open menu">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
@@ -85,12 +85,7 @@
 
       <section class="stats" aria-label="Session stats">
         <div id="progressBox" class="progress-stat">
-          <strong id="progressText">0 / 0</strong>
-          <span>progress</span>
-        </div>
-        <div>
-          <strong id="correctText">0</strong>
-          <span>correct</span>
+          <div id="progressPills" class="progress-pills" aria-label="Question progress"></div>
         </div>
         <div id="accuracyBox" class="accuracy-stat">
           <strong id="accuracyText">100%</strong>
