@@ -326,6 +326,49 @@ input {
   font-size: 1.25rem;
 }
 
+.xp-panel {
+  display: grid;
+  gap: 8px;
+  margin: 0 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface-strong);
+  padding: 10px 10px;
+}
+
+.xp-label {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.xp-label strong {
+  font-size: 0.98rem;
+}
+
+.xp-label span {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 850;
+}
+
+.xp-track {
+  overflow: hidden;
+  height: 12px;
+  border: 1px solid rgba(32, 37, 35, 0.12);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.78);
+}
+
+.xp-fill {
+  width: var(--xp-value, 0%);
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #2563eb, #38bdf8);
+  transition: width 260ms ease;
+}
+
 .card {
   padding: 14px;
 }

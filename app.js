@@ -1,9 +1,13 @@
 const maxQuestions = 10;
 const accuracyTarget = 80;
 const accuracyWindows = [100, 200, 500, 1000];
+const xpPerLevel = 105;
+const quizXp = 5;
+const quizTargetXp = 15;
 const lessonIndexFile = "./data/lesson-index.json";
 const storageKey = "spanish-pills-mobile-results";
 const savedWordsKey = "spanish-pills-saved-words";
+const xpStorageKey = "spanish-pills-total-xp";
 
 const els = {
   lessonTitle: document.querySelector("#lessonTitle"),
@@ -19,6 +23,9 @@ const els = {
   progressPills: document.querySelector("#progressPills"),
   accuracyBox: document.querySelector("#accuracyBox"),
   accuracyText: document.querySelector("#accuracyText"),
+  xpPanel: document.querySelector("#xpPanel"),
+  xpLevelText: document.querySelector("#xpLevelText"),
+  xpText: document.querySelector("#xpText"),
   questionCounter: document.querySelector("#questionCounter"),
   promptText: document.querySelector("#promptText"),
   answerLine: document.querySelector("#answerLine"),
@@ -53,6 +60,8 @@ let shuffledChunkOrder = [];
 let results = loadResults();
 let sessionResults = [];
 let savedWords = loadSavedWords();
+let totalXp = loadXp();
+let sessionAwarded = false;
 let awaitingNext = false;
 let audioContext;
 
@@ -78,8 +87,17 @@ function loadSavedWords() {
   }
 }
 
+function loadXp() {
+  const parsed = Number(localStorage.getItem(xpStorageKey));
+  return Number.isFinite(parsed) && parsed >= 0 ? parsed : 0;
+}
+
 function saveResults() {
   localStorage.setItem(storageKey, JSON.stringify(results));
+}
+
+function saveXp() {
+  localStorage.setItem(xpStorageKey, String(totalXp));
 }
 
 function saveSavedWords() {
@@ -111,6 +129,14 @@ function accuracyRgb(accuracy) {
 function accuracySummary(items) {
   const correct = items.filter((result) => result.correct).length;
   return items.length ? Math.round((correct / items.length) * 100) : null;
+}
+
+function currentLevel() {
+  return Math.floor(totalXp / xpPerLevel) + 1;
+}
+
+function currentLevelXp() {
+  return totalXp % xpPerLevel;
 }
 
 function sample(items) {
@@ -259,6 +285,7 @@ async function loadLesson() {
 function startSession() {
   session = sample(exercises);
   sessionResults = [];
+  sessionAwarded = false;
   currentIndex = 0;
   selected = [];
   selectedIndexes = new Set();
@@ -279,7 +306,27 @@ function renderStats() {
   els.accuracyBox.style.setProperty("--accuracy-color", accuracyColor);
   els.accuracyBox.classList.toggle("target-met", accuracy >= accuracyTarget);
   renderProgressPills();
+  renderXp();
   renderHistoryBars();
+}
+
+function renderXp() {
+  const levelXp = currentLevelXp();
+  const xpPercent = Math.round((levelXp / xpPerLevel) * 100);
+
+  els.xpLevelText.textContent = `Level ${currentLevel()}`;
+  els.xpText.textContent = `${levelXp} / ${xpPerLevel} XP`;
+  els.xpPanel.style.setProperty("--xp-value", `${xpPercent}%`);
+}
+
+function awardQuizXp() {
+  if (sessionAwarded || sessionResults.length < session.length) return;
+
+  const accuracy = accuracySummary(sessionResults) ?? 0;
+  totalXp += accuracy >= accuracyTarget ? quizTargetXp : quizXp;
+  sessionAwarded = true;
+  saveXp();
+  renderXp();
 }
 
 function renderProgressPills() {
@@ -467,6 +514,7 @@ function submitAnswer() {
   results.push(result);
   sessionResults.push(result);
   saveResults();
+  if (currentIndex + 1 >= session.length) awardQuizXp();
 
   if (correct) playCorrectSound();
   els.questionCounter.className = `answer-mark ${correct ? "correct" : "incorrect"}`;
