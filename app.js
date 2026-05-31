@@ -12,6 +12,7 @@ const els = {
   menuOverlay: document.querySelector("#menuOverlay"),
   shuffleButton: document.querySelector("#shuffleButton"),
   resetButton: document.querySelector("#resetButton"),
+  progressBox: document.querySelector("#progressBox"),
   progressText: document.querySelector("#progressText"),
   correctText: document.querySelector("#correctText"),
   accuracyText: document.querySelector("#accuracyText"),
@@ -233,8 +234,10 @@ function renderStats() {
   const lessonResults = results.filter((result) => result.lesson_id === lesson?.id);
   const correct = lessonResults.filter((result) => result.correct).length;
   const accuracy = lessonResults.length ? Math.round((correct / lessonResults.length) * 100) : 0;
+  const progressPercent = session.length ? Math.round((Math.min(currentIndex + 1, session.length) / session.length) * 100) : 0;
 
   els.progressText.textContent = `${Math.min(currentIndex + 1, session.length)} / ${session.length}`;
+  els.progressBox.style.setProperty("--progress-value", `${progressPercent}%`);
   els.correctText.textContent = String(correct);
   els.accuracyText.textContent = `${accuracy}%`;
 }
