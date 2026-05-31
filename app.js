@@ -6,6 +6,8 @@ const quizXp = 5;
 const quizTargetXp = 15;
 const streakTarget = 5;
 const streakXp = 5;
+const xpSegmentSize = 5;
+const xpSegmentsPerLevel = xpPerLevel / xpSegmentSize;
 const lessonIndexFile = "./data/lesson-index.json";
 const storageKey = "spanish-pills-mobile-results";
 const savedWordsKey = "spanish-pills-saved-words";
@@ -28,6 +30,7 @@ const els = {
   xpPanel: document.querySelector("#xpPanel"),
   xpLevelText: document.querySelector("#xpLevelText"),
   xpText: document.querySelector("#xpText"),
+  xpSegments: document.querySelector("#xpSegments"),
   questionCounter: document.querySelector("#questionCounter"),
   promptText: document.querySelector("#promptText"),
   answerLine: document.querySelector("#answerLine"),
@@ -65,6 +68,7 @@ let savedWords = loadSavedWords();
 let totalXp = loadXp();
 let sessionAwarded = false;
 let currentStreak = 0;
+let xpAnimationQueue = Promise.resolve();
 let awaitingNext = false;
 let audioContext;
 
@@ -134,12 +138,23 @@ function accuracySummary(items) {
   return items.length ? Math.round((correct / items.length) * 100) : null;
 }
 
-function currentLevel() {
-  return Math.floor(totalXp / xpPerLevel) + 1;
+function xpState(xpValue = totalXp, holdBoundary = false) {
+  if (holdBoundary && xpValue > 0 && xpValue % xpPerLevel === 0) {
+    return {
+      level: xpValue / xpPerLevel,
+      levelXp: xpPerLevel
+    };
+  }
+
+  return {
+    level: Math.floor(xpValue / xpPerLevel) + 1,
+    levelXp: xpValue % xpPerLevel
+  };
 }
 
-function currentLevelXp() {
-  return totalXp % xpPerLevel;
+function xpSegmentFor(levelXp) {
+  if (levelXp === 0) return null;
+  return Math.ceil(levelXp / xpSegmentSize) - 1;
 }
 
 function sample(items) {
@@ -314,32 +329,71 @@ function renderStats() {
   renderHistoryBars();
 }
 
-function renderXp() {
-  const levelXp = currentLevelXp();
-  const xpPercent = Math.round((levelXp / xpPerLevel) * 100);
+function renderXp(xpValue = totalXp, flashSegment = null, holdBoundary = false) {
+  const { level, levelXp } = xpState(xpValue, holdBoundary);
+  const activeSegments = Math.floor(levelXp / xpSegmentSize);
 
-  els.xpLevelText.textContent = `Level ${currentLevel()}`;
+  els.xpLevelText.textContent = `Level ${level}`;
   els.xpText.textContent = `${levelXp} / ${xpPerLevel} XP`;
-  els.xpPanel.style.setProperty("--xp-value", `${xpPercent}%`);
+  els.xpSegments.innerHTML = "";
+
+  for (let index = 0; index < xpSegmentsPerLevel; index += 1) {
+    const segment = document.createElement("span");
+    const classes = ["xp-segment"];
+
+    if (index < activeSegments) classes.push("filled");
+    if (index === flashSegment) classes.push("flash");
+
+    segment.className = classes.join(" ");
+    els.xpSegments.append(segment);
+  }
+}
+
+function addXp(amount) {
+  const startXp = totalXp;
+  totalXp += amount;
+  saveXp();
+  xpAnimationQueue = xpAnimationQueue.then(() => animateXpGain(startXp, totalXp));
+}
+
+function animateXpGain(startXp, endXp) {
+  const steps = Math.max(0, Math.floor((endXp - startXp) / xpSegmentSize));
+  const stepMs = 150;
+
+  if (steps === 0) {
+    renderXp();
+    return Promise.resolve();
+  }
+
+  return new Promise((resolve) => {
+    for (let step = 1; step <= steps; step += 1) {
+      window.setTimeout(() => {
+        const xpValue = startXp + step * xpSegmentSize;
+        const { levelXp } = xpState(xpValue, true);
+        renderXp(xpValue, xpSegmentFor(levelXp), true);
+      }, step * stepMs);
+    }
+
+    window.setTimeout(() => {
+      renderXp();
+      resolve();
+    }, (steps + 3) * stepMs);
+  });
 }
 
 function awardQuizXp() {
   if (sessionAwarded || sessionResults.length < session.length) return;
 
   const accuracy = accuracySummary(sessionResults) ?? 0;
-  totalXp += accuracy >= accuracyTarget ? quizTargetXp : quizXp;
+  addXp(accuracy >= accuracyTarget ? quizTargetXp : quizXp);
   sessionAwarded = true;
-  saveXp();
-  renderXp();
 }
 
 function awardStreakXp(correct) {
   currentStreak = correct ? currentStreak + 1 : 0;
   if (currentStreak === 0 || currentStreak % streakTarget !== 0) return;
 
-  totalXp += streakXp;
-  saveXp();
-  renderXp();
+  addXp(streakXp);
 }
 
 function renderProgressPills() {
