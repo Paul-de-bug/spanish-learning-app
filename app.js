@@ -4,6 +4,8 @@ const accuracyWindows = [100, 200, 500, 1000];
 const xpPerLevel = 105;
 const quizXp = 5;
 const quizTargetXp = 15;
+const streakTarget = 5;
+const streakXp = 5;
 const lessonIndexFile = "./data/lesson-index.json";
 const storageKey = "spanish-pills-mobile-results";
 const savedWordsKey = "spanish-pills-saved-words";
@@ -62,6 +64,7 @@ let sessionResults = [];
 let savedWords = loadSavedWords();
 let totalXp = loadXp();
 let sessionAwarded = false;
+let currentStreak = 0;
 let awaitingNext = false;
 let audioContext;
 
@@ -286,6 +289,7 @@ function startSession() {
   session = sample(exercises);
   sessionResults = [];
   sessionAwarded = false;
+  currentStreak = 0;
   currentIndex = 0;
   selected = [];
   selectedIndexes = new Set();
@@ -325,6 +329,15 @@ function awardQuizXp() {
   const accuracy = accuracySummary(sessionResults) ?? 0;
   totalXp += accuracy >= accuracyTarget ? quizTargetXp : quizXp;
   sessionAwarded = true;
+  saveXp();
+  renderXp();
+}
+
+function awardStreakXp(correct) {
+  currentStreak = correct ? currentStreak + 1 : 0;
+  if (currentStreak === 0 || currentStreak % streakTarget !== 0) return;
+
+  totalXp += streakXp;
   saveXp();
   renderXp();
 }
@@ -514,6 +527,7 @@ function submitAnswer() {
   results.push(result);
   sessionResults.push(result);
   saveResults();
+  awardStreakXp(correct);
   if (currentIndex + 1 >= session.length) awardQuizXp();
 
   if (correct) playCorrectSound();
