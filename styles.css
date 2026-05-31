@@ -171,9 +171,46 @@ input {
 
 .meta-row {
   display: flex;
+  align-items: center;
   justify-content: space-between;
   gap: 10px;
-  min-height: 20px;
+  min-height: 34px;
+}
+
+.answer-mark {
+  display: inline-grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 999px;
+  color: #fff;
+  font-size: 1.35rem;
+  font-weight: 950;
+  line-height: 1;
+  animation: mark-pop 360ms cubic-bezier(0.2, 1.35, 0.35, 1);
+}
+
+.answer-mark.correct {
+  background: var(--ok);
+}
+
+.answer-mark.incorrect {
+  background: var(--bad);
+}
+
+@keyframes mark-pop {
+  0% {
+    opacity: 0;
+    transform: scale(0.55) rotate(-10deg);
+  }
+  70% {
+    opacity: 1;
+    transform: scale(1.14) rotate(2deg);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) rotate(0);
+  }
 }
 
 .prompt-label {

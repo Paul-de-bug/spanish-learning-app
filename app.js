@@ -250,6 +250,7 @@ function renderExercise() {
   selected = [];
   selectedIndexes = new Set();
   els.feedback.className = "feedback hidden";
+  els.questionCounter.className = "";
 
   const exercise = currentExercise();
   if (!exercise) {
@@ -326,6 +327,8 @@ function submitAnswer() {
   results.push(result);
   saveResults();
 
+  els.questionCounter.className = `answer-mark ${correct ? "correct" : "incorrect"}`;
+  els.questionCounter.textContent = correct ? "✓" : "×";
   els.feedback.className = `feedback ${correct ? "correct" : "incorrect"}`;
   els.feedbackTitle.textContent = correct ? "Correct" : "Check the order";
   els.correctAnswer.textContent = polishedAnswer(exercise.answer);
