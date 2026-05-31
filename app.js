@@ -25,7 +25,6 @@ const els = {
   englishAnswer: document.querySelector("#englishAnswer"),
   attemptAnswer: document.querySelector("#attemptAnswer"),
   saveChunkList: document.querySelector("#saveChunkList"),
-  nextButton: document.querySelector("#nextButton"),
   savedCount: document.querySelector("#savedCount"),
   saveFrontInput: document.querySelector("#saveFrontInput"),
   saveBackInput: document.querySelector("#saveBackInput"),
@@ -45,6 +44,7 @@ let selectedIndexes = new Set();
 let shuffledChunkOrder = [];
 let results = loadResults();
 let savedWords = loadSavedWords();
+let awaitingNext = false;
 
 async function loadJson(path) {
   const response = await fetch(path, { cache: "no-store" });
@@ -243,14 +243,16 @@ function renderChunks() {
     els.chunkBank.append(button);
   });
 
-  els.submitButton.disabled = !exercise || selected.length === 0;
+  els.submitButton.disabled = !awaitingNext && (!exercise || selected.length === 0);
 }
 
 function renderExercise() {
+  awaitingNext = false;
   selected = [];
   selectedIndexes = new Set();
   els.feedback.className = "feedback hidden";
   els.questionCounter.className = "";
+  els.submitButton.textContent = "Submit";
 
   const exercise = currentExercise();
   if (!exercise) {
@@ -335,8 +337,18 @@ function submitAnswer() {
   els.englishAnswer.textContent = answerEnglish(exercise) || "No English translation saved.";
   els.attemptAnswer.textContent = polishedAnswer(attempt);
   renderSaveChunkButtons(exercise, lesson);
-  els.submitButton.disabled = true;
+  awaitingNext = true;
+  els.submitButton.textContent = "Next";
+  els.submitButton.disabled = false;
   renderStats();
+}
+
+function handlePrimaryAction() {
+  if (awaitingNext) {
+    nextExercise();
+    return;
+  }
+  submitAnswer();
 }
 
 function renderSaveChunkButtons(exercise, lesson) {
@@ -448,8 +460,7 @@ function bindEvents() {
   els.resetButton.addEventListener("click", resetResults);
   els.undoButton.addEventListener("click", undo);
   els.skipButton.addEventListener("click", skipExercise);
-  els.submitButton.addEventListener("click", submitAnswer);
-  els.nextButton.addEventListener("click", nextExercise);
+  els.submitButton.addEventListener("click", handlePrimaryAction);
   els.saveManualButton.addEventListener("click", saveManualWord);
   els.exportCsvButton.addEventListener("click", exportSavedCsv);
   els.exportJsonButton.addEventListener("click", exportSavedJson);
