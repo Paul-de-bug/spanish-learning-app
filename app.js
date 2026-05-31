@@ -6,6 +6,10 @@ const savedWordsKey = "spanish-pills-saved-words";
 const els = {
   lessonSelect: document.querySelector("#lessonSelect"),
   lessonDescription: document.querySelector("#lessonDescription"),
+  openMenuButton: document.querySelector("#openMenuButton"),
+  closeMenuButton: document.querySelector("#closeMenuButton"),
+  mobileMenu: document.querySelector("#mobileMenu"),
+  menuOverlay: document.querySelector("#menuOverlay"),
   shuffleButton: document.querySelector("#shuffleButton"),
   resetButton: document.querySelector("#resetButton"),
   progressText: document.querySelector("#progressText"),
@@ -177,6 +181,7 @@ async function loadLesson() {
   els.lessonDescription.textContent = lesson.description ?? "";
   exercises = await loadJson(lesson.file);
   startSession();
+  closeMenu();
 }
 
 function startSession() {
@@ -185,6 +190,11 @@ function startSession() {
   selected = [];
   selectedIndexes = new Set();
   renderExercise();
+}
+
+function shuffleLesson() {
+  startSession();
+  closeMenu();
 }
 
 function renderStats() {
@@ -454,9 +464,24 @@ function clearSavedWords() {
   renderSavedWords();
 }
 
+function openMenu() {
+  els.mobileMenu.classList.add("open");
+  els.mobileMenu.setAttribute("aria-hidden", "false");
+  els.menuOverlay.classList.remove("hidden");
+}
+
+function closeMenu() {
+  els.mobileMenu.classList.remove("open");
+  els.mobileMenu.setAttribute("aria-hidden", "true");
+  els.menuOverlay.classList.add("hidden");
+}
+
 function bindEvents() {
   els.lessonSelect.addEventListener("change", loadLesson);
-  els.shuffleButton.addEventListener("click", startSession);
+  els.openMenuButton.addEventListener("click", openMenu);
+  els.closeMenuButton.addEventListener("click", closeMenu);
+  els.menuOverlay.addEventListener("click", closeMenu);
+  els.shuffleButton.addEventListener("click", shuffleLesson);
   els.resetButton.addEventListener("click", resetResults);
   els.undoButton.addEventListener("click", undo);
   els.skipButton.addEventListener("click", skipExercise);

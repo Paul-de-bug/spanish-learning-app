@@ -8,25 +8,70 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body>
+    <button id="menuOverlay" class="menu-overlay hidden" type="button" aria-label="Close menu"></button>
+    <aside id="mobileMenu" class="mobile-menu" aria-hidden="true">
+      <div class="menu-header">
+        <div>
+          <p class="eyebrow">Menu</p>
+          <h2>Lessons</h2>
+        </div>
+        <button id="closeMenuButton" class="icon-button" type="button" aria-label="Close menu">×</button>
+      </div>
+
+      <section class="menu-section">
+        <label class="field">
+          <span>Lesson</span>
+          <select id="lessonSelect"></select>
+        </label>
+        <p id="lessonDescription" class="menu-description"></p>
+        <div class="menu-action-row">
+          <button id="shuffleButton" class="text-button" type="button">Shuffle lesson</button>
+          <button id="resetButton" class="text-button" type="button">Reset stats</button>
+        </div>
+      </section>
+
+      <section class="menu-section">
+        <div class="saved-header">
+          <div>
+            <h2>Saved words</h2>
+            <p><span id="savedCount">0</span> saved on this device</p>
+          </div>
+          <button id="clearSavedButton" class="text-button" type="button">Clear</button>
+        </div>
+
+        <div class="save-form">
+          <label class="field">
+            <span>Spanish word or chunk</span>
+            <input id="saveFrontInput" type="text" autocomplete="off" placeholder="e.g. me cuesta">
+          </label>
+          <label class="field">
+            <span>Meaning or note</span>
+            <input id="saveBackInput" type="text" autocomplete="off" placeholder="I find it hard">
+          </label>
+          <button id="saveManualButton" class="secondary-button" type="button">Save word</button>
+        </div>
+
+        <div id="savedPreview" class="saved-preview"></div>
+
+        <div class="export-actions">
+          <button id="exportCsvButton" class="secondary-button" type="button">Export Anki TSV</button>
+          <button id="exportJsonButton" class="secondary-button" type="button">Export JSON</button>
+        </div>
+      </section>
+    </aside>
+
     <main class="app">
       <header class="topbar">
         <div>
           <p class="eyebrow">Spanish Pills</p>
           <h1>Build the answer</h1>
         </div>
-        <button id="resetButton" class="icon-button" type="button" aria-label="Reset session" title="Reset session">↻</button>
+        <button id="openMenuButton" class="icon-button menu-button" type="button" aria-label="Open menu" title="Open menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
       </header>
-
-      <section class="panel setup-panel">
-        <label class="field">
-          <span>Lesson</span>
-          <select id="lessonSelect"></select>
-        </label>
-        <div class="lesson-row">
-          <p id="lessonDescription"></p>
-          <button id="shuffleButton" class="text-button" type="button">Shuffle</button>
-        </div>
-      </section>
 
       <section class="stats" aria-label="Session stats">
         <div>
@@ -79,34 +124,6 @@
         </div>
       </section>
 
-      <section class="panel saved-panel">
-        <div class="saved-header">
-          <div>
-            <h2>Saved words</h2>
-            <p><span id="savedCount">0</span> saved on this device</p>
-          </div>
-          <button id="clearSavedButton" class="text-button" type="button">Clear</button>
-        </div>
-
-        <div class="save-form">
-          <label class="field">
-            <span>Spanish word or chunk</span>
-            <input id="saveFrontInput" type="text" autocomplete="off" placeholder="e.g. me cuesta">
-          </label>
-          <label class="field">
-            <span>Meaning or note</span>
-            <input id="saveBackInput" type="text" autocomplete="off" placeholder="I find it hard">
-          </label>
-          <button id="saveManualButton" class="secondary-button" type="button">Save word</button>
-        </div>
-
-        <div id="savedPreview" class="saved-preview"></div>
-
-        <div class="export-actions">
-          <button id="exportCsvButton" class="secondary-button" type="button">Export Anki TSV</button>
-          <button id="exportJsonButton" class="secondary-button" type="button">Export JSON</button>
-        </div>
-      </section>
     </main>
 
     <script src="./app.js" type="module"></script>
