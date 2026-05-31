@@ -180,7 +180,6 @@ h1 {
 }
 
 .field span,
-.prompt-label,
 .answer-header,
 .meta-row,
 .stats span {
@@ -255,9 +254,9 @@ input {
 .meta-row {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   gap: 10px;
-  min-height: 34px;
+  min-height: 0;
 }
 
 .answer-mark {
@@ -296,12 +295,8 @@ input {
   }
 }
 
-.prompt-label {
-  margin-top: 18px;
-}
-
 .prompt {
-  margin-top: 8px;
+  margin-top: 0;
   font-size: clamp(1.45rem, 7vw, 2.4rem);
   font-weight: 850;
   line-height: 1.08;
@@ -314,7 +309,7 @@ input {
 .answer-header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   gap: 10px;
 }
 

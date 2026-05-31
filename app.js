@@ -18,7 +18,6 @@ const els = {
   accuracyBox: document.querySelector("#accuracyBox"),
   accuracyText: document.querySelector("#accuracyText"),
   questionCounter: document.querySelector("#questionCounter"),
-  tagText: document.querySelector("#tagText"),
   promptText: document.querySelector("#promptText"),
   answerLine: document.querySelector("#answerLine"),
   chunkBank: document.querySelector("#chunkBank"),
@@ -315,12 +314,13 @@ function renderExercise() {
   selectedIndexes = new Set();
   els.feedback.className = "feedback hidden";
   els.questionCounter.className = "";
+  els.questionCounter.hidden = true;
   els.submitButton.textContent = "Submit";
 
   const exercise = currentExercise();
   if (!exercise) {
+    els.questionCounter.hidden = false;
     els.questionCounter.textContent = "No questions";
-    els.tagText.textContent = "";
     els.promptText.textContent = "No exercises found in this lesson.";
     els.answerLine.innerHTML = "";
     els.chunkBank.innerHTML = "";
@@ -330,8 +330,7 @@ function renderExercise() {
   }
 
   shuffledChunkOrder = shuffle(exercise.chunks.map((chunk, index) => ({ chunk, index })));
-  els.questionCounter.textContent = `Question ${currentIndex + 1} of ${session.length}`;
-  els.tagText.textContent = [exercise.tense, exercise.person, exercise.level].filter(Boolean).join(" · ");
+  els.questionCounter.textContent = "";
   els.promptText.textContent = promptText(exercise);
   renderAnswer();
   renderChunks();
@@ -394,6 +393,7 @@ function submitAnswer() {
 
   if (correct) playCorrectSound();
   els.questionCounter.className = `answer-mark ${correct ? "correct" : "incorrect"}`;
+  els.questionCounter.hidden = false;
   els.questionCounter.textContent = correct ? "✓" : "×";
   els.feedback.className = `feedback ${correct ? "correct" : "incorrect"}`;
   els.feedbackTitle.textContent = correct ? "Correct" : "Check the order";
