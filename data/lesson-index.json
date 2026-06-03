@@ -24,5 +24,13 @@
     "file": "./data/lessons/random-conjugation-switching-a2.json",
     "lesson_type": "switchboard-pill-translation",
     "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-a2",
+    "name": "Reflexive switchboard - A2/B1",
+    "description": "Switchboard pill translation for 20 common reflexive verbs with distractor pronouns and conjugations.",
+    "file": "./data/lessons/reflexive-switchboard-a2.json",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
   }
 ]
