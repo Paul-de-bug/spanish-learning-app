@@ -32,5 +32,13 @@
     "file": "./data/lessons/reflexive-switchboard-a2.json",
     "lesson_type": "switchboard-pill-translation",
     "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-a2",
+    "name": "Uses of \"I was\" - A2/B1 - 100 exercises",
+    "description": "Switchboard pill translation for choosing between fui, era, estuve, and estaba in single-tense I-was sentences.",
+    "file": "./data/lessons/i-was-switchboard-a2.json",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
   }
 ]

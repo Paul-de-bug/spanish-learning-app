@@ -1,0 +1,3696 @@
+[
+  {
+    "id": "i-was-switchboard-001-fui-el-primero-en-llegar",
+    "prompt_en": "I was the first to arrive.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el primero",
+      "en llegar."
+    ],
+    "answer": [
+      "fui",
+      "el primero",
+      "en llegar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the first to arrive.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-002-era-muy-timido-de-nino",
+    "prompt_en": "I was very shy as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "muy tímido",
+      "de niño."
+    ],
+    "answer": [
+      "era",
+      "muy tímido",
+      "de niño."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was very shy as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-003-estuve-en-la-oficina-ayer-por-la-manana",
+    "prompt_en": "I was at the office yesterday morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "answer": [
+      "estuve",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was at the office yesterday morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-004-estaba-en-casa-cuando-llamaste",
+    "prompt_en": "I was at home when you called.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en casa",
+      "cuando llamaste."
+    ],
+    "answer": [
+      "estaba",
+      "en casa",
+      "cuando llamaste."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was at home when you called.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-005-fui-responsable-de-la-reserva",
+    "prompt_en": "I was responsible for the booking.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "responsable",
+      "de la reserva."
+    ],
+    "answer": [
+      "fui",
+      "responsable",
+      "de la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was responsible for the booking.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-006-estaba-cansado-cuando-llegue-a-casa",
+    "prompt_en": "I was tired when I got home.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "cansado",
+      "cuando llegué a casa."
+    ],
+    "answer": [
+      "estaba",
+      "cansado",
+      "cuando llegué a casa."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was tired when I got home.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-007-era-un-estudiante-tranquilo",
+    "prompt_en": "I was a quiet student.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "un estudiante tranquilo."
+    ],
+    "answer": [
+      "era",
+      "un estudiante tranquilo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a quiet student.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-008-estuve-enfermo-durante-tres-dias",
+    "prompt_en": "I was sick for three days.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "enfermo",
+      "durante tres días."
+    ],
+    "answer": [
+      "estuve",
+      "enfermo",
+      "durante tres días."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was sick for three days.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-009-fui-el-ultimo-en-la-cola",
+    "prompt_en": "I was the last in the queue.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el último",
+      "en la cola."
+    ],
+    "answer": [
+      "fui",
+      "el último",
+      "en la cola."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the last in the queue.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-010-estaba-nervioso-antes-de-la-entrevista",
+    "prompt_en": "I was nervous before the interview.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "nervioso",
+      "antes de la entrevista."
+    ],
+    "answer": [
+      "estaba",
+      "nervioso",
+      "antes de la entrevista."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was nervous before the interview.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-011-era-mas-pequeno-que-mi-hermano",
+    "prompt_en": "I was smaller than my brother.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "más pequeño",
+      "que mi hermano."
+    ],
+    "answer": [
+      "era",
+      "más pequeño",
+      "que mi hermano."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was smaller than my brother.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-012-estuve-en-madrid-el-fin-de-semana-pasado",
+    "prompt_en": "I was in Madrid last weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "answer": [
+      "estuve",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in Madrid last weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-013-fui-el-ganador-del-juego",
+    "prompt_en": "I was the winner of the game.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el ganador",
+      "del juego."
+    ],
+    "answer": [
+      "fui",
+      "el ganador",
+      "del juego."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the winner of the game.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-014-era-un-nino-muy-curioso",
+    "prompt_en": "I was a very curious child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "un niño muy curioso."
+    ],
+    "answer": [
+      "era",
+      "un niño muy curioso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a very curious child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-015-estaba-leyendo-cuando-llego-el-mensaje",
+    "prompt_en": "I was reading when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estaba",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was reading when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-016-estuve-tranquilo-durante-la-reunion",
+    "prompt_en": "I was calm during the meeting.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "tranquilo",
+      "durante la reunión."
+    ],
+    "answer": [
+      "estuve",
+      "tranquilo",
+      "durante la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was calm during the meeting.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-017-fui-la-persona-que-llamo",
+    "prompt_en": "I was the person who called.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "la persona",
+      "que llamó."
+    ],
+    "answer": [
+      "fui",
+      "la persona",
+      "que llamó."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the person who called.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-018-era-malo-en-matematicas-en-el-colegio",
+    "prompt_en": "I was bad at maths at school.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "malo",
+      "en matemáticas en el colegio."
+    ],
+    "answer": [
+      "era",
+      "malo",
+      "en matemáticas en el colegio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was bad at maths at school.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-019-estuve-ocupado-toda-la-tarde",
+    "prompt_en": "I was busy all afternoon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "ocupado",
+      "toda la tarde."
+    ],
+    "answer": [
+      "estuve",
+      "ocupado",
+      "toda la tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was busy all afternoon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-020-estaba-ocupado-cuando-ella-llego",
+    "prompt_en": "I was busy when she arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "ocupado",
+      "cuando ella llegó."
+    ],
+    "answer": [
+      "estaba",
+      "ocupado",
+      "cuando ella llegó."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was busy when she arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-021-fui-un-buen-amigo-para-el",
+    "prompt_en": "I was a good friend to him.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "un buen amigo",
+      "para él."
+    ],
+    "answer": [
+      "fui",
+      "un buen amigo",
+      "para él."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was a good friend to him.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-022-era-mas-paciente-antes",
+    "prompt_en": "I was more patient before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "más paciente",
+      "antes."
+    ],
+    "answer": [
+      "era",
+      "más paciente",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was more patient before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-023-estuve-fuera-durante-una-hora",
+    "prompt_en": "I was outside for an hour.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "fuera",
+      "durante una hora."
+    ],
+    "answer": [
+      "estuve",
+      "fuera",
+      "durante una hora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was outside for an hour.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-024-estaba-fuera-cuando-empezo-a-llover",
+    "prompt_en": "I was outside when it started raining.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "answer": [
+      "estaba",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was outside when it started raining.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-025-fui-el-unico-que-contesto",
+    "prompt_en": "I was the only one who answered.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el único",
+      "que contestó."
+    ],
+    "answer": [
+      "fui",
+      "el único",
+      "que contestó."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the only one who answered.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-026-era-miedoso-con-la-oscuridad-de-nino",
+    "prompt_en": "I was afraid of the dark as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "miedoso",
+      "con la oscuridad de niño."
+    ],
+    "answer": [
+      "era",
+      "miedoso",
+      "con la oscuridad de niño."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was afraid of the dark as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-027-estuve-en-el-hospital-el-mes-pasado",
+    "prompt_en": "I was in hospital last month.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "answer": [
+      "estuve",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in hospital last month.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-028-estaba-en-el-hospital-cuando-me-visitaste",
+    "prompt_en": "I was in hospital when you visited me.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en el hospital",
+      "cuando me visitaste."
+    ],
+    "answer": [
+      "estaba",
+      "en el hospital",
+      "cuando me visitaste."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was in hospital when you visited me.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-029-fui-el-dueno-de-ese-coche",
+    "prompt_en": "I was the owner of that car.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el dueño",
+      "de ese coche."
+    ],
+    "answer": [
+      "fui",
+      "el dueño",
+      "de ese coche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the owner of that car.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-030-era-el-mas-joven-de-la-familia",
+    "prompt_en": "I was the youngest in the family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el más joven",
+      "de la familia."
+    ],
+    "answer": [
+      "era",
+      "el más joven",
+      "de la familia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was the youngest in the family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-031-estuve-enfadado-un-rato",
+    "prompt_en": "I was angry for a while.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "enfadado",
+      "un rato."
+    ],
+    "answer": [
+      "estuve",
+      "enfadado",
+      "un rato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was angry for a while.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-032-estaba-enfadado-cuando-mande-el-mensaje",
+    "prompt_en": "I was angry when I sent the message.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "enfadado",
+      "cuando mandé el mensaje."
+    ],
+    "answer": [
+      "estaba",
+      "enfadado",
+      "cuando mandé el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was angry when I sent the message.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-033-fui-el-organizador-de-la-cena",
+    "prompt_en": "I was the organizer of the dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el organizador",
+      "de la cena."
+    ],
+    "answer": [
+      "fui",
+      "el organizador",
+      "de la cena."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the organizer of the dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-034-era-una-persona-que-evitaba-los-conflictos",
+    "prompt_en": "I was the kind of person who avoided conflict.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "una persona",
+      "que evitaba los conflictos."
+    ],
+    "answer": [
+      "era",
+      "una persona",
+      "que evitaba los conflictos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was the kind of person who avoided conflict.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-035-estuve-en-el-banco-esta-manana",
+    "prompt_en": "I was at the bank this morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en el banco",
+      "esta mañana."
+    ],
+    "answer": [
+      "estuve",
+      "en el banco",
+      "esta mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was at the bank this morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-036-estaba-en-el-banco-cuando-se-fue-la-luz",
+    "prompt_en": "I was at the bank when the power went out.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "answer": [
+      "estaba",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was at the bank when the power went out.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-037-fui-profesor-durante-un-ano",
+    "prompt_en": "I was a teacher for one year.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "profesor",
+      "durante un año."
+    ],
+    "answer": [
+      "fui",
+      "profesor",
+      "durante un año."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was a teacher for one year.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-038-era-profesor-antes-de-cambiar-de-carrera",
+    "prompt_en": "I was a teacher before changing careers.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "profesor",
+      "antes de cambiar de carrera."
+    ],
+    "answer": [
+      "era",
+      "profesor",
+      "antes de cambiar de carrera."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a teacher before changing careers.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-039-estuve-feliz-todo-el-dia",
+    "prompt_en": "I was happy all day.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "feliz",
+      "todo el día."
+    ],
+    "answer": [
+      "estuve",
+      "feliz",
+      "todo el día."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was happy all day.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-040-estaba-feliz-cuando-escuche-la-noticia",
+    "prompt_en": "I was happy when I heard the news.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "feliz",
+      "cuando escuché la noticia."
+    ],
+    "answer": [
+      "estaba",
+      "feliz",
+      "cuando escuché la noticia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was happy when I heard the news.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-041-fui-el-contacto-principal-para-el-cliente",
+    "prompt_en": "I was the main contact for the client.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el contacto principal",
+      "para el cliente."
+    ],
+    "answer": [
+      "fui",
+      "el contacto principal",
+      "para el cliente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the main contact for the client.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-042-era-muy-serio-cuando-era-joven",
+    "prompt_en": "I was very serious when I was young.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "muy serio",
+      "cuando era joven."
+    ],
+    "answer": [
+      "era",
+      "muy serio",
+      "cuando era joven."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was very serious when I was young.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-043-estuve-de-vacaciones-en-galicia",
+    "prompt_en": "I was on holiday in Galicia.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "answer": [
+      "estuve",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was on holiday in Galicia.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-044-estaba-de-vacaciones-cuando-ocurrio-el-problema",
+    "prompt_en": "I was on holiday when the problem happened.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "answer": [
+      "estaba",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was on holiday when the problem happened.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-045-fui-el-lider-del-grupo",
+    "prompt_en": "I was the leader of the group.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el líder",
+      "del grupo."
+    ],
+    "answer": [
+      "fui",
+      "el líder",
+      "del grupo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the leader of the group.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-046-era-parte-de-una-familia-grande",
+    "prompt_en": "I was part of a big family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "parte",
+      "de una familia grande."
+    ],
+    "answer": [
+      "era",
+      "parte",
+      "de una familia grande."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was part of a big family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-047-estuve-estresado-toda-la-semana",
+    "prompt_en": "I was stressed all week.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "estresado",
+      "toda la semana."
+    ],
+    "answer": [
+      "estuve",
+      "estresado",
+      "toda la semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was stressed all week.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-048-estaba-estresado-porque-el-tren-llegaba-tarde",
+    "prompt_en": "I was stressed because the train was late.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "estresado",
+      "porque el tren llegaba tarde."
+    ],
+    "answer": [
+      "estaba",
+      "estresado",
+      "porque el tren llegaba tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was stressed because the train was late.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-049-fui-la-persona-encargada-ayer",
+    "prompt_en": "I was the person in charge yesterday.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "la persona encargada",
+      "ayer."
+    ],
+    "answer": [
+      "fui",
+      "la persona encargada",
+      "ayer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the person in charge yesterday.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-050-era-mas-optimista-en-aquella-epoca",
+    "prompt_en": "I was more optimistic back then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "más optimista",
+      "en aquella época."
+    ],
+    "answer": [
+      "era",
+      "más optimista",
+      "en aquella época."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was more optimistic back then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-051-estuve-en-la-cocina-durante-dos-horas",
+    "prompt_en": "I was in the kitchen for two hours.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "answer": [
+      "estuve",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in the kitchen for two hours.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-052-estaba-en-la-cocina-cuando-llegaron-los-invitados",
+    "prompt_en": "I was in the kitchen when the guests arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "answer": [
+      "estaba",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was in the kitchen when the guests arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-053-fui-el-autor-de-ese-correo",
+    "prompt_en": "I was the author of that email.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el autor",
+      "de ese correo."
+    ],
+    "answer": [
+      "fui",
+      "el autor",
+      "de ese correo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the author of that email.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-054-era-un-poco-ingenuo-a-esa-edad",
+    "prompt_en": "I was a bit naive at that age.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "un poco ingenuo",
+      "a esa edad."
+    ],
+    "answer": [
+      "era",
+      "un poco ingenuo",
+      "a esa edad."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a bit naive at that age.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-055-estuve-disponible-despues-de-comer",
+    "prompt_en": "I was available after lunch.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "disponible",
+      "después de comer."
+    ],
+    "answer": [
+      "estuve",
+      "disponible",
+      "después de comer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was available after lunch.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-056-estaba-disponible-cuando-necesitabas-ayuda",
+    "prompt_en": "I was available when you needed help.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "disponible",
+      "cuando necesitabas ayuda."
+    ],
+    "answer": [
+      "estaba",
+      "disponible",
+      "cuando necesitabas ayuda."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was available when you needed help.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-057-fui-voluntario-en-ese-proyecto",
+    "prompt_en": "I was a volunteer in that project.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "voluntario",
+      "en ese proyecto."
+    ],
+    "answer": [
+      "fui",
+      "voluntario",
+      "en ese proyecto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was a volunteer in that project.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-058-era-muy-cercano-a-mis-abuelos",
+    "prompt_en": "I was very close to my grandparents.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "muy cercano",
+      "a mis abuelos."
+    ],
+    "answer": [
+      "era",
+      "muy cercano",
+      "a mis abuelos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was very close to my grandparents.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-059-estuve-de-mal-humor-ayer",
+    "prompt_en": "I was in a bad mood yesterday.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "de mal humor",
+      "ayer."
+    ],
+    "answer": [
+      "estuve",
+      "de mal humor",
+      "ayer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in a bad mood yesterday.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-060-estaba-de-mal-humor-cuando-respondi",
+    "prompt_en": "I was in a bad mood when I answered.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "de mal humor",
+      "cuando respondí."
+    ],
+    "answer": [
+      "estaba",
+      "de mal humor",
+      "cuando respondí."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was in a bad mood when I answered.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-061-fui-la-causa-del-retraso",
+    "prompt_en": "I was the cause of the delay.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "la causa",
+      "del retraso."
+    ],
+    "answer": [
+      "fui",
+      "la causa",
+      "del retraso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the cause of the delay.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-062-era-siempre-el-prudente",
+    "prompt_en": "I was always the cautious one.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "siempre",
+      "el prudente."
+    ],
+    "answer": [
+      "era",
+      "siempre",
+      "el prudente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was always the cautious one.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-063-estuve-en-la-tienda-durante-diez-minutos",
+    "prompt_en": "I was in the shop for ten minutes.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en la tienda",
+      "durante diez minutos."
+    ],
+    "answer": [
+      "estuve",
+      "en la tienda",
+      "durante diez minutos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in the shop for ten minutes.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-064-estaba-en-la-tienda-cuando-lo-vi",
+    "prompt_en": "I was in the shop when I saw him.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en la tienda",
+      "cuando lo vi."
+    ],
+    "answer": [
+      "estaba",
+      "en la tienda",
+      "cuando lo vi."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was in the shop when I saw him.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-065-fui-el-problema-en-ese-momento",
+    "prompt_en": "I was the problem at that moment.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el problema",
+      "en ese momento."
+    ],
+    "answer": [
+      "fui",
+      "el problema",
+      "en ese momento."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the problem at that moment.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-066-era-bueno-escuchando",
+    "prompt_en": "I was a good listener.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "bueno",
+      "escuchando."
+    ],
+    "answer": [
+      "era",
+      "bueno",
+      "escuchando."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a good listener.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-067-estuve-solo-todo-el-fin-de-semana",
+    "prompt_en": "I was alone for the whole weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "solo",
+      "todo el fin de semana."
+    ],
+    "answer": [
+      "estuve",
+      "solo",
+      "todo el fin de semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was alone for the whole weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-068-estaba-solo-cuando-tome-la-decision",
+    "prompt_en": "I was alone when I made the decision.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "solo",
+      "cuando tomé la decisión."
+    ],
+    "answer": [
+      "estaba",
+      "solo",
+      "cuando tomé la decisión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was alone when I made the decision.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-069-fui-el-mejor-candidato",
+    "prompt_en": "I was the best candidate.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el mejor candidato."
+    ],
+    "answer": [
+      "fui",
+      "el mejor candidato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the best candidate.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-070-era-poco-seguro-antes",
+    "prompt_en": "I was not very confident before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "poco seguro",
+      "antes."
+    ],
+    "answer": [
+      "era",
+      "poco seguro",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was not very confident before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-071-estuve-cerca-de-la-estacion-anoche",
+    "prompt_en": "I was near the station last night.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "answer": [
+      "estuve",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was near the station last night.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-072-estaba-cerca-de-la-estacion-cuando-perdi-el-movil",
+    "prompt_en": "I was near the station when I lost my phone.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "cerca de la estación",
+      "cuando perdí el móvil."
+    ],
+    "answer": [
+      "estaba",
+      "cerca de la estación",
+      "cuando perdí el móvil."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was near the station when I lost my phone.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-073-fui-la-primera-persona-en-saberlo",
+    "prompt_en": "I was the first person to know.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "la primera persona",
+      "en saberlo."
+    ],
+    "answer": [
+      "fui",
+      "la primera persona",
+      "en saberlo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the first person to know.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-074-era-muy-disciplinado-de-adolescente",
+    "prompt_en": "I was very disciplined as a teenager.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "muy disciplinado",
+      "de adolescente."
+    ],
+    "answer": [
+      "era",
+      "muy disciplinado",
+      "de adolescente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was very disciplined as a teenager.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-075-estuve-preocupado-hasta-medianoche",
+    "prompt_en": "I was worried until midnight.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "preocupado",
+      "hasta medianoche."
+    ],
+    "answer": [
+      "estuve",
+      "preocupado",
+      "hasta medianoche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was worried until midnight.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-076-estaba-preocupado-mientras-esperaba",
+    "prompt_en": "I was worried while I waited.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "preocupado",
+      "mientras esperaba."
+    ],
+    "answer": [
+      "estaba",
+      "preocupado",
+      "mientras esperaba."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was worried while I waited.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-077-fui-su-asistente-durante-dos-meses",
+    "prompt_en": "I was his assistant for two months.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "su asistente",
+      "durante dos meses."
+    ],
+    "answer": [
+      "fui",
+      "su asistente",
+      "durante dos meses."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was his assistant for two months.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-078-era-la-persona-en-la-que-todos-confiaban",
+    "prompt_en": "I was the person everyone trusted.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "la persona",
+      "en la que todos confiaban."
+    ],
+    "answer": [
+      "era",
+      "la persona",
+      "en la que todos confiaban."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was the person everyone trusted.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-079-estuve-en-la-reunion-de-nueve-a-diez",
+    "prompt_en": "I was in the meeting from nine to ten.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en la reunión",
+      "de nueve a diez."
+    ],
+    "answer": [
+      "estuve",
+      "en la reunión",
+      "de nueve a diez."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in the meeting from nine to ten.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-080-estaba-en-la-reunion-cuando-me-escribiste",
+    "prompt_en": "I was in the meeting when you texted me.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en la reunión",
+      "cuando me escribiste."
+    ],
+    "answer": [
+      "estaba",
+      "en la reunión",
+      "cuando me escribiste."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was in the meeting when you texted me.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-081-fui-quien-cometio-el-error",
+    "prompt_en": "I was the one who made the mistake.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "quien cometió",
+      "el error."
+    ],
+    "answer": [
+      "fui",
+      "quien cometió",
+      "el error."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the one who made the mistake.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-082-era-mas-independiente-entonces",
+    "prompt_en": "I was more independent then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "más independiente",
+      "entonces."
+    ],
+    "answer": [
+      "era",
+      "más independiente",
+      "entonces."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was more independent then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-083-estuve-incomodo-durante-la-conversacion",
+    "prompt_en": "I was uncomfortable during the conversation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "incómodo",
+      "durante la conversación."
+    ],
+    "answer": [
+      "estuve",
+      "incómodo",
+      "durante la conversación."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was uncomfortable during the conversation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-084-estaba-incomodo-porque-todos-me-miraban",
+    "prompt_en": "I was uncomfortable because everyone was looking at me.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "incómodo",
+      "porque todos me miraban."
+    ],
+    "answer": [
+      "estaba",
+      "incómodo",
+      "porque todos me miraban."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was uncomfortable because everyone was looking at me.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-085-fui-el-ejemplo-para-el-resto-del-equipo",
+    "prompt_en": "I was the example for the rest of the team.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el ejemplo",
+      "para el resto del equipo."
+    ],
+    "answer": [
+      "fui",
+      "el ejemplo",
+      "para el resto del equipo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the example for the rest of the team.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-086-era-muy-cercano-a-mi-hermana",
+    "prompt_en": "I was very close to my sister.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "muy cercano",
+      "a mi hermana."
+    ],
+    "answer": [
+      "era",
+      "muy cercano",
+      "a mi hermana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was very close to my sister.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-087-estuve-en-valencia-por-trabajo",
+    "prompt_en": "I was in Valencia for work.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en Valencia",
+      "por trabajo."
+    ],
+    "answer": [
+      "estuve",
+      "en Valencia",
+      "por trabajo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in Valencia for work.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-088-estaba-en-valencia-cuando-empezo-la-tormenta",
+    "prompt_en": "I was in Valencia when the storm started.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en Valencia",
+      "cuando empezó la tormenta."
+    ],
+    "answer": [
+      "estaba",
+      "en Valencia",
+      "cuando empezó la tormenta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was in Valencia when the storm started.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-089-fui-la-persona-elegida-para-el-puesto",
+    "prompt_en": "I was the person selected for the role.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "la persona elegida",
+      "para el puesto."
+    ],
+    "answer": [
+      "fui",
+      "la persona elegida",
+      "para el puesto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the person selected for the role.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-090-era-cliente-habitual-alli",
+    "prompt_en": "I was a regular customer there.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "cliente habitual",
+      "allí."
+    ],
+    "answer": [
+      "era",
+      "cliente habitual",
+      "allí."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a regular customer there.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-091-estuve-agradecido-despues-de-la-llamada",
+    "prompt_en": "I was grateful after the call.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "agradecido",
+      "después de la llamada."
+    ],
+    "answer": [
+      "estuve",
+      "agradecido",
+      "después de la llamada."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was grateful after the call.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-092-estaba-agradecido-cuando-ofrecieron-ayuda",
+    "prompt_en": "I was grateful when they offered help.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "agradecido",
+      "cuando ofrecieron ayuda."
+    ],
+    "answer": [
+      "estaba",
+      "agradecido",
+      "cuando ofrecieron ayuda."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was grateful when they offered help.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-093-fui-el-narrador-de-la-historia",
+    "prompt_en": "I was the narrator of the story.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el narrador",
+      "de la historia."
+    ],
+    "answer": [
+      "fui",
+      "el narrador",
+      "de la historia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the narrator of the story.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-094-era-un-sonador-cuando-era-joven",
+    "prompt_en": "I was a dreamer when I was young.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "un soñador",
+      "cuando era joven."
+    ],
+    "answer": [
+      "era",
+      "un soñador",
+      "cuando era joven."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a dreamer when I was young.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-095-estuve-preparado-antes-que-los-demas",
+    "prompt_en": "I was ready before everyone else.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "preparado",
+      "antes que los demás."
+    ],
+    "answer": [
+      "estuve",
+      "preparado",
+      "antes que los demás."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was ready before everyone else.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-096-estaba-preparado-cuando-llego-el-taxi",
+    "prompt_en": "I was ready when the taxi arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "preparado",
+      "cuando llegó el taxi."
+    ],
+    "answer": [
+      "estaba",
+      "preparado",
+      "cuando llegó el taxi."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was ready when the taxi arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-097-fui-testigo-del-accidente",
+    "prompt_en": "I was a witness to the accident.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "testigo",
+      "del accidente."
+    ],
+    "answer": [
+      "fui",
+      "testigo",
+      "del accidente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser preterite",
+      "completed role or identity"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was a witness to the accident.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-098-era-el-tipico-nino-que-preguntaba-todo",
+    "prompt_en": "I was the typical child who asked everything.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "el típico niño",
+      "que preguntaba todo."
+    ],
+    "answer": [
+      "era",
+      "el típico niño",
+      "que preguntaba todo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "ser imperfect",
+      "background identity or description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was the typical child who asked everything.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-099-estuve-en-silencio-mucho-tiempo",
+    "prompt_en": "I was in silence for a long time.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en silencio",
+      "mucho tiempo."
+    ],
+    "answer": [
+      "estuve",
+      "en silencio",
+      "mucho tiempo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar preterite",
+      "bounded state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in silence for a long time.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "i-was-switchboard-100-estaba-en-silencio-porque-no-sabia-que-decir",
+    "prompt_en": "I was in silence because I did not know what to say.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "era",
+      "estuve",
+      "estaba",
+      "en silencio",
+      "porque no sabía qué decir."
+    ],
+    "answer": [
+      "estaba",
+      "en silencio",
+      "porque no sabía qué decir."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "I was",
+      "estar imperfect",
+      "background state or location"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was in silence because I did not know what to say.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  }
+]
