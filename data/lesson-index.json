@@ -27,8 +27,8 @@
   },
   {
     "id": "reflexive-switchboard-a2",
-    "name": "Reflexive switchboard - A2/B1",
-    "description": "Switchboard pill translation for 20 common reflexive verbs with distractor pronouns and conjugations.",
+    "name": "Reflexive switchboard - A2/B1 - 100 exercises",
+    "description": "Switchboard pill translation for reflexive verbs, reflexive pronouns, and se me / se te / se le constructions.",
     "file": "./data/lessons/reflexive-switchboard-a2.json",
     "lesson_type": "switchboard-pill-translation",
     "lesson_type_name": "Switchboard Pill Translation"

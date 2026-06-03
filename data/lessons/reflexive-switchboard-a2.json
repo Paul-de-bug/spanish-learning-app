@@ -1,6 +1,6 @@
 [
   {
-    "id": "reflexive-switchboard-001-me-voy",
+    "id": "reflexive-switchboard-001-me-voy-ahora",
     "prompt_en": "I am leaving now.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -10,9 +10,11 @@
       "Te",
       "Se",
       "Nos",
+      "Os",
       "vas",
       "va",
       "vamos",
+      "vais",
       "van"
     ],
     "answer": [
@@ -38,7 +40,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-002-se-levanta",
+    "id": "reflexive-switchboard-002-te-vas-pronto",
+    "prompt_en": "You are leaving soon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Te",
+      "vas",
+      "pronto.",
+      "Me",
+      "Se",
+      "Nos",
+      "Os",
+      "voy",
+      "va",
+      "vamos",
+      "vais",
+      "van"
+    ],
+    "answer": [
+      "Te",
+      "vas",
+      "pronto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "irse"
+    ],
+    "person": "tu",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "You are leaving soon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-003-os-vais-despues-de-cenar",
+    "prompt_en": "You all are leaving after dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Os",
+      "vais",
+      "después de cenar.",
+      "Me",
+      "Te",
+      "Se",
+      "Nos",
+      "vamos",
+      "voy",
+      "vas",
+      "va",
+      "van"
+    ],
+    "answer": [
+      "Os",
+      "vais",
+      "después de cenar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "irse"
+    ],
+    "person": "vosotros/vosotras",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "You all are leaving after dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-004-se-levanta-temprano",
     "prompt_en": "She gets up early.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -48,9 +130,11 @@
       "Me",
       "Te",
       "Nos",
+      "Os",
       "levanto",
       "levantas",
       "levantamos",
+      "levantáis",
       "levantan"
     ],
     "answer": [
@@ -76,7 +160,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-003-te-despiertas",
+    "id": "reflexive-switchboard-005-me-levanto-a-las-siete",
+    "prompt_en": "I get up at seven.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "levanto",
+      "a las siete.",
+      "Te",
+      "Se",
+      "Nos",
+      "Os",
+      "levantas",
+      "levanta",
+      "levantamos",
+      "levantáis",
+      "levantan"
+    ],
+    "answer": [
+      "Me",
+      "levanto",
+      "a las siete."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "levantarse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I get up at seven.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-006-se-levantan-antes-de-trabajar",
+    "prompt_en": "They get up before work.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se",
+      "levantan",
+      "antes de trabajar.",
+      "Me",
+      "Te",
+      "Nos",
+      "Os",
+      "levanto",
+      "levantas",
+      "levanta",
+      "levantamos",
+      "levantáis"
+    ],
+    "answer": [
+      "Se",
+      "levantan",
+      "antes de trabajar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "levantarse"
+    ],
+    "person": "ellos/ellas",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "They get up before work.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-007-te-despiertas-tarde",
     "prompt_en": "You wake up late.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -86,9 +250,11 @@
       "Me",
       "Se",
       "Nos",
+      "Os",
       "despierto",
       "despierta",
       "despertamos",
+      "despertáis",
       "despiertan"
     ],
     "answer": [
@@ -114,7 +280,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-004-nos-duchamos",
+    "id": "reflexive-switchboard-008-se-despierta-nervioso",
+    "prompt_en": "He wakes up nervous.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se",
+      "despierta",
+      "nervioso.",
+      "Me",
+      "Te",
+      "Nos",
+      "Os",
+      "despierto",
+      "despiertas",
+      "despertamos",
+      "despertáis",
+      "despiertan"
+    ],
+    "answer": [
+      "Se",
+      "despierta",
+      "nervioso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "despertarse"
+    ],
+    "person": "el/ella",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "He wakes up nervous.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-009-nos-despertamos-sin-alarma",
+    "prompt_en": "We wake up without an alarm.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Nos",
+      "despertamos",
+      "sin alarma.",
+      "Me",
+      "Te",
+      "Se",
+      "Os",
+      "despierto",
+      "despiertas",
+      "despierta",
+      "despertáis",
+      "despiertan"
+    ],
+    "answer": [
+      "Nos",
+      "despertamos",
+      "sin alarma."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "despertarse"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "We wake up without an alarm.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-010-nos-duchamos-por-la-manana",
     "prompt_en": "We shower in the morning.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -124,9 +370,11 @@
       "Me",
       "Te",
       "Se",
+      "Os",
       "ducho",
       "duchas",
       "ducha",
+      "ducháis",
       "duchan"
     ],
     "answer": [
@@ -152,7 +400,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-005-se-visten",
+    "id": "reflexive-switchboard-011-me-ducho-despues-de-correr",
+    "prompt_en": "I shower after running.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "ducho",
+      "después de correr.",
+      "Te",
+      "Se",
+      "Nos",
+      "Os",
+      "duchas",
+      "ducha",
+      "duchamos",
+      "ducháis",
+      "duchan"
+    ],
+    "answer": [
+      "Me",
+      "ducho",
+      "después de correr."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "ducharse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I shower after running.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-012-os-duchais-rapido",
+    "prompt_en": "You all shower quickly.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Os",
+      "ducháis",
+      "rápido.",
+      "Me",
+      "Te",
+      "Se",
+      "Nos",
+      "duchas",
+      "ducho",
+      "ducha",
+      "duchamos",
+      "duchan"
+    ],
+    "answer": [
+      "Os",
+      "ducháis",
+      "rápido."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "ducharse"
+    ],
+    "person": "vosotros/vosotras",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "You all shower quickly.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-013-se-visten-rapido",
     "prompt_en": "They get dressed quickly.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -162,10 +490,12 @@
       "Me",
       "Te",
       "Nos",
+      "Os",
       "visto",
       "vistes",
       "viste",
-      "vestimos"
+      "vestimos",
+      "vestís"
     ],
     "answer": [
       "Se",
@@ -190,7 +520,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-006-me-pongo",
+    "id": "reflexive-switchboard-014-me-visto-antes-de-desayunar",
+    "prompt_en": "I get dressed before breakfast.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "visto",
+      "antes de desayunar.",
+      "Te",
+      "Se",
+      "Nos",
+      "Os",
+      "vistes",
+      "viste",
+      "vestimos",
+      "vestís",
+      "visten"
+    ],
+    "answer": [
+      "Me",
+      "visto",
+      "antes de desayunar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "vestirse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I get dressed before breakfast.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-015-se-viste-para-trabajar",
+    "prompt_en": "She gets dressed for work.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se",
+      "viste",
+      "para trabajar.",
+      "Me",
+      "Te",
+      "Nos",
+      "Os",
+      "visto",
+      "vistes",
+      "vestimos",
+      "vestís",
+      "visten"
+    ],
+    "answer": [
+      "Se",
+      "viste",
+      "para trabajar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "vestirse"
+    ],
+    "person": "el/ella",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "She gets dressed for work.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-016-me-pongo-la-chaqueta",
     "prompt_en": "I put on my jacket.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -200,9 +610,11 @@
       "Te",
       "Se",
       "Nos",
+      "Os",
       "pones",
       "pone",
       "ponemos",
+      "ponéis",
       "ponen"
     ],
     "answer": [
@@ -228,7 +640,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-007-te-sientas",
+    "id": "reflexive-switchboard-017-te-pones-los-zapatos",
+    "prompt_en": "You put on your shoes.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Te",
+      "pones",
+      "los zapatos.",
+      "Me",
+      "Se",
+      "Nos",
+      "Os",
+      "pongo",
+      "pone",
+      "ponemos",
+      "ponéis",
+      "ponen"
+    ],
+    "answer": [
+      "Te",
+      "pones",
+      "los zapatos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "ponerse"
+    ],
+    "person": "tu",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "You put on your shoes.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-018-se-ponen-crema-solar",
+    "prompt_en": "They put on sunscreen.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se",
+      "ponen",
+      "crema solar.",
+      "Me",
+      "Te",
+      "Nos",
+      "Os",
+      "pongo",
+      "pones",
+      "pone",
+      "ponemos",
+      "ponéis"
+    ],
+    "answer": [
+      "Se",
+      "ponen",
+      "crema solar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "ponerse"
+    ],
+    "person": "ellos/ellas",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "They put on sunscreen.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-019-te-sientas-cerca-de-la-puerta",
     "prompt_en": "You sit near the door.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -238,9 +730,11 @@
       "Me",
       "Se",
       "Nos",
+      "Os",
       "siento",
       "sienta",
       "sentamos",
+      "sentáis",
       "sientan"
     ],
     "answer": [
@@ -266,7 +760,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-008-nos-acostamos",
+    "id": "reflexive-switchboard-020-nos-sentamos-en-la-mesa",
+    "prompt_en": "We sit at the table.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Nos",
+      "sentamos",
+      "en la mesa.",
+      "Me",
+      "Te",
+      "Se",
+      "Os",
+      "siento",
+      "sientas",
+      "sienta",
+      "sentáis",
+      "sientan"
+    ],
+    "answer": [
+      "Nos",
+      "sentamos",
+      "en la mesa."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "sentarse"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "We sit at the table.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-021-se-sienta-a-mi-lado",
+    "prompt_en": "He sits next to me.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se",
+      "sienta",
+      "a mi lado.",
+      "Me",
+      "Te",
+      "Nos",
+      "Os",
+      "siento",
+      "sientas",
+      "sentamos",
+      "sentáis",
+      "sientan"
+    ],
+    "answer": [
+      "Se",
+      "sienta",
+      "a mi lado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "sentarse"
+    ],
+    "person": "el/ella",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "He sits next to me.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-022-nos-acostamos-pronto",
     "prompt_en": "We go to bed early.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -276,9 +850,11 @@
       "Me",
       "Te",
       "Se",
+      "Os",
       "acuesto",
       "acuestas",
       "acuesta",
+      "acostáis",
       "acuestan"
     ],
     "answer": [
@@ -304,7 +880,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-009-se-duerme",
+    "id": "reflexive-switchboard-023-me-acuesto-muy-tarde",
+    "prompt_en": "I go to bed very late.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "acuesto",
+      "muy tarde.",
+      "Te",
+      "Se",
+      "Nos",
+      "Os",
+      "acuestas",
+      "acuesta",
+      "acostamos",
+      "acostáis",
+      "acuestan"
+    ],
+    "answer": [
+      "Me",
+      "acuesto",
+      "muy tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "acostarse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I go to bed very late.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-024-se-acuestan-a-las-nueve",
+    "prompt_en": "The children go to bed at nine.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se",
+      "acuestan",
+      "a las nueve.",
+      "Me",
+      "Te",
+      "Nos",
+      "Os",
+      "acuesto",
+      "acuestas",
+      "acuesta",
+      "acostamos",
+      "acostáis"
+    ],
+    "answer": [
+      "Se",
+      "acuestan",
+      "a las nueve."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "acostarse"
+    ],
+    "person": "ellos/ellas",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "The children go to bed at nine.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-025-se-duerme-en-el-sofa",
     "prompt_en": "He falls asleep on the sofa.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -314,9 +970,11 @@
       "Me",
       "Te",
       "Nos",
+      "Os",
       "duermo",
       "duermes",
       "dormimos",
+      "dormís",
       "duermen"
     ],
     "answer": [
@@ -342,7 +1000,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-010-nos-quedamos",
+    "id": "reflexive-switchboard-026-me-duermo-rapido",
+    "prompt_en": "I fall asleep quickly.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "duermo",
+      "rápido.",
+      "Te",
+      "Se",
+      "Nos",
+      "Os",
+      "duermes",
+      "duerme",
+      "dormimos",
+      "dormís",
+      "duermen"
+    ],
+    "answer": [
+      "Me",
+      "duermo",
+      "rápido."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "dormirse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I fall asleep quickly.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-027-te-duermes-durante-la-pelicula",
+    "prompt_en": "You fall asleep during the film.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Te",
+      "duermes",
+      "durante la película.",
+      "Me",
+      "Se",
+      "Nos",
+      "Os",
+      "duermo",
+      "duerme",
+      "dormimos",
+      "dormís",
+      "duermen"
+    ],
+    "answer": [
+      "Te",
+      "duermes",
+      "durante la película."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "dormirse"
+    ],
+    "person": "tu",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "You fall asleep during the film.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-028-nos-quedamos-en-casa",
     "prompt_en": "We are staying at home.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -352,9 +1090,11 @@
       "Me",
       "Te",
       "Se",
+      "Os",
       "quedo",
       "quedas",
       "queda",
+      "quedáis",
       "quedan"
     ],
     "answer": [
@@ -380,7 +1120,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-011-se-llaman",
+    "id": "reflexive-switchboard-029-me-quedo-aqui",
+    "prompt_en": "I am staying here.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "quedo",
+      "aquí.",
+      "Te",
+      "Se",
+      "Nos",
+      "Os",
+      "quedas",
+      "queda",
+      "quedamos",
+      "quedáis",
+      "quedan"
+    ],
+    "answer": [
+      "Me",
+      "quedo",
+      "aquí."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "quedarse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I am staying here.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-030-se-quedan-un-dia-mas",
+    "prompt_en": "They are staying one more day.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se",
+      "quedan",
+      "un día más.",
+      "Me",
+      "Te",
+      "Nos",
+      "Os",
+      "quedo",
+      "quedas",
+      "queda",
+      "quedamos",
+      "quedáis"
+    ],
+    "answer": [
+      "Se",
+      "quedan",
+      "un día más."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "quedarse"
+    ],
+    "person": "ellos/ellas",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "They are staying one more day.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-031-se-llaman-ana-y-luis",
     "prompt_en": "They are called Ana and Luis.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -390,10 +1210,12 @@
       "Me",
       "Te",
       "Nos",
+      "Os",
       "llamo",
       "llamas",
       "llama",
-      "llamamos"
+      "llamamos",
+      "llamáis"
     ],
     "answer": [
       "Se",
@@ -418,7 +1240,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-012-me-siento",
+    "id": "reflexive-switchboard-032-me-llamo-paul",
+    "prompt_en": "My name is Paul.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "llamo",
+      "Paul.",
+      "Te",
+      "Se",
+      "Nos",
+      "Os",
+      "llamas",
+      "llama",
+      "llamamos",
+      "llamáis",
+      "llaman"
+    ],
+    "answer": [
+      "Me",
+      "llamo",
+      "Paul."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "llamarse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "My name is Paul.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-033-te-llamas-carlos",
+    "prompt_en": "Your name is Carlos.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Te",
+      "llamas",
+      "Carlos.",
+      "Me",
+      "Se",
+      "Nos",
+      "Os",
+      "llamo",
+      "llama",
+      "llamamos",
+      "llamáis",
+      "llaman"
+    ],
+    "answer": [
+      "Te",
+      "llamas",
+      "Carlos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "llamarse"
+    ],
+    "person": "tu",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "Your name is Carlos.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-034-me-siento-un-poco-cansado",
     "prompt_en": "I feel a little tired.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -428,9 +1330,11 @@
       "Te",
       "Se",
       "Nos",
+      "Os",
       "sientes",
       "siente",
       "sentimos",
+      "sentís",
       "sienten"
     ],
     "answer": [
@@ -456,7 +1360,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-013-te-encuentras",
+    "id": "reflexive-switchboard-035-se-siente-mejor-hoy",
+    "prompt_en": "She feels better today.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se",
+      "siente",
+      "mejor hoy.",
+      "Me",
+      "Te",
+      "Nos",
+      "Os",
+      "siento",
+      "sientes",
+      "sentimos",
+      "sentís",
+      "sienten"
+    ],
+    "answer": [
+      "Se",
+      "siente",
+      "mejor hoy."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "sentirse"
+    ],
+    "person": "el/ella",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "She feels better today.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-036-nos-sentimos-preparados",
+    "prompt_en": "We feel ready.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Nos",
+      "sentimos",
+      "preparados.",
+      "Me",
+      "Te",
+      "Se",
+      "Os",
+      "siento",
+      "sientes",
+      "siente",
+      "sentís",
+      "sienten"
+    ],
+    "answer": [
+      "Nos",
+      "sentimos",
+      "preparados."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "sentirse"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "We feel ready.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-037-te-encuentras-bien-hoy",
     "prompt_en": "You feel well today.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -466,9 +1450,11 @@
       "Me",
       "Se",
       "Nos",
+      "Os",
       "encuentro",
       "encuentra",
       "encontramos",
+      "encontráis",
       "encuentran"
     ],
     "answer": [
@@ -494,7 +1480,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-014-me-doy-cuenta",
+    "id": "reflexive-switchboard-038-me-encuentro-un-poco-raro",
+    "prompt_en": "I feel a bit strange.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "encuentro",
+      "un poco raro.",
+      "Te",
+      "Se",
+      "Nos",
+      "Os",
+      "encuentras",
+      "encuentra",
+      "encontramos",
+      "encontráis",
+      "encuentran"
+    ],
+    "answer": [
+      "Me",
+      "encuentro",
+      "un poco raro."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "encontrarse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I feel a bit strange.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-039-se-encuentran-mejor-ahora",
+    "prompt_en": "They feel better now.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se",
+      "encuentran",
+      "mejor ahora.",
+      "Me",
+      "Te",
+      "Nos",
+      "Os",
+      "encuentro",
+      "encuentras",
+      "encuentra",
+      "encontramos",
+      "encontráis"
+    ],
+    "answer": [
+      "Se",
+      "encuentran",
+      "mejor ahora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "encontrarse"
+    ],
+    "person": "ellos/ellas",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "They feel better now.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-040-me-doy-cuenta-del-problema",
     "prompt_en": "I realize the problem.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -504,9 +1570,11 @@
       "Te",
       "Se",
       "Nos",
+      "Os",
       "das cuenta",
       "da cuenta",
       "damos cuenta",
+      "dais cuenta",
       "dan cuenta"
     ],
     "answer": [
@@ -532,7 +1600,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-015-te-acuerdas",
+    "id": "reflexive-switchboard-041-te-das-cuenta-de-la-verdad",
+    "prompt_en": "You realize the truth.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Te",
+      "das cuenta",
+      "de la verdad.",
+      "Me",
+      "Se",
+      "Nos",
+      "Os",
+      "doy cuenta",
+      "da cuenta",
+      "damos cuenta",
+      "dais cuenta",
+      "dan cuenta"
+    ],
+    "answer": [
+      "Te",
+      "das cuenta",
+      "de la verdad."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "darse cuenta"
+    ],
+    "person": "tu",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "You realize the truth.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-042-nos-damos-cuenta-demasiado-tarde",
+    "prompt_en": "We realize it too late.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Nos",
+      "damos cuenta",
+      "demasiado tarde.",
+      "Me",
+      "Te",
+      "Se",
+      "Os",
+      "doy cuenta",
+      "das cuenta",
+      "da cuenta",
+      "dais cuenta",
+      "dan cuenta"
+    ],
+    "answer": [
+      "Nos",
+      "damos cuenta",
+      "demasiado tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "darse cuenta"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "We realize it too late.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-043-te-acuerdas-del-plan",
     "prompt_en": "You remember the plan.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -542,9 +1690,11 @@
       "Me",
       "Se",
       "Nos",
+      "Os",
       "acuerdo",
       "acuerda",
       "acordamos",
+      "acordáis",
       "acuerdan"
     ],
     "answer": [
@@ -570,7 +1720,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-016-se-olvida",
+    "id": "reflexive-switchboard-044-me-acuerdo-de-su-nombre",
+    "prompt_en": "I remember her name.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "acuerdo",
+      "de su nombre.",
+      "Te",
+      "Se",
+      "Nos",
+      "Os",
+      "acuerdas",
+      "acuerda",
+      "acordamos",
+      "acordáis",
+      "acuerdan"
+    ],
+    "answer": [
+      "Me",
+      "acuerdo",
+      "de su nombre."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "acordarse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I remember her name.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-045-se-acuerdan-de-la-historia",
+    "prompt_en": "They remember the story.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se",
+      "acuerdan",
+      "de la historia.",
+      "Me",
+      "Te",
+      "Nos",
+      "Os",
+      "acuerdo",
+      "acuerdas",
+      "acuerda",
+      "acordamos",
+      "acordáis"
+    ],
+    "answer": [
+      "Se",
+      "acuerdan",
+      "de la historia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "acordarse"
+    ],
+    "person": "ellos/ellas",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "They remember the story.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-046-se-olvida-de-la-llave",
     "prompt_en": "She forgets the key.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -580,9 +1810,11 @@
       "Me",
       "Te",
       "Nos",
+      "Os",
       "olvido",
       "olvidas",
       "olvidamos",
+      "olvidáis",
       "olvidan"
     ],
     "answer": [
@@ -608,7 +1840,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-017-nos-preocupamos",
+    "id": "reflexive-switchboard-047-me-olvido-de-las-fechas",
+    "prompt_en": "I forget the dates.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "olvido",
+      "de las fechas.",
+      "Te",
+      "Se",
+      "Nos",
+      "Os",
+      "olvidas",
+      "olvida",
+      "olvidamos",
+      "olvidáis",
+      "olvidan"
+    ],
+    "answer": [
+      "Me",
+      "olvido",
+      "de las fechas."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "olvidarse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I forget the dates.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-048-nos-olvidamos-de-los-detalles",
+    "prompt_en": "We forget the details.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Nos",
+      "olvidamos",
+      "de los detalles.",
+      "Me",
+      "Te",
+      "Se",
+      "Os",
+      "olvido",
+      "olvidas",
+      "olvida",
+      "olvidáis",
+      "olvidan"
+    ],
+    "answer": [
+      "Nos",
+      "olvidamos",
+      "de los detalles."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "olvidarse"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "We forget the details.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-049-nos-preocupamos-por-los-ninos",
     "prompt_en": "We worry about the children.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -618,9 +1930,11 @@
       "Me",
       "Te",
       "Se",
+      "Os",
       "preocupo",
       "preocupas",
       "preocupa",
+      "preocupáis",
       "preocupan"
     ],
     "answer": [
@@ -646,7 +1960,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-018-se-despiden",
+    "id": "reflexive-switchboard-050-me-preocupo-demasiado",
+    "prompt_en": "I worry too much.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "preocupo",
+      "demasiado.",
+      "Te",
+      "Se",
+      "Nos",
+      "Os",
+      "preocupas",
+      "preocupa",
+      "preocupamos",
+      "preocupáis",
+      "preocupan"
+    ],
+    "answer": [
+      "Me",
+      "preocupo",
+      "demasiado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "preocuparse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I worry too much.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-051-se-preocupan-por-el-dinero",
+    "prompt_en": "They worry about money.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se",
+      "preocupan",
+      "por el dinero.",
+      "Me",
+      "Te",
+      "Nos",
+      "Os",
+      "preocupo",
+      "preocupas",
+      "preocupa",
+      "preocupamos",
+      "preocupáis"
+    ],
+    "answer": [
+      "Se",
+      "preocupan",
+      "por el dinero."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "preocuparse"
+    ],
+    "person": "ellos/ellas",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "They worry about money.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-052-se-despiden-en-la-estacion",
     "prompt_en": "They say goodbye at the station.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -656,10 +2050,12 @@
       "Me",
       "Te",
       "Nos",
+      "Os",
       "despido",
       "despides",
       "despide",
-      "despedimos"
+      "despedimos",
+      "despedís"
     ],
     "answer": [
       "Se",
@@ -684,7 +2080,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-019-se-divierten",
+    "id": "reflexive-switchboard-053-me-despido-antes-de-irme",
+    "prompt_en": "I say goodbye before leaving.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "despido",
+      "antes de irme.",
+      "Te",
+      "Se",
+      "Nos",
+      "Os",
+      "despides",
+      "despide",
+      "despedimos",
+      "despedís",
+      "despiden"
+    ],
+    "answer": [
+      "Me",
+      "despido",
+      "antes de irme."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "despedirse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I say goodbye before leaving.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-054-te-despides-de-todos",
+    "prompt_en": "You say goodbye to everyone.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Te",
+      "despides",
+      "de todos.",
+      "Me",
+      "Se",
+      "Nos",
+      "Os",
+      "despido",
+      "despide",
+      "despedimos",
+      "despedís",
+      "despiden"
+    ],
+    "answer": [
+      "Te",
+      "despides",
+      "de todos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "despedirse"
+    ],
+    "person": "tu",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "You say goodbye to everyone.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-055-se-divierten-en-la-fiesta",
     "prompt_en": "They have fun at the party.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -694,10 +2170,12 @@
       "Me",
       "Te",
       "Nos",
+      "Os",
       "divierto",
       "diviertes",
       "divierte",
-      "divertimos"
+      "divertimos",
+      "divertís"
     ],
     "answer": [
       "Se",
@@ -722,7 +2200,87 @@
     "lesson_type_name": "Switchboard Pill Translation"
   },
   {
-    "id": "reflexive-switchboard-020-me-aburro",
+    "id": "reflexive-switchboard-056-me-divierto-con-ellos",
+    "prompt_en": "I have fun with them.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "divierto",
+      "con ellos.",
+      "Te",
+      "Se",
+      "Nos",
+      "Os",
+      "diviertes",
+      "divierte",
+      "divertimos",
+      "divertís",
+      "divierten"
+    ],
+    "answer": [
+      "Me",
+      "divierto",
+      "con ellos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "divertirse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I have fun with them.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-057-nos-divertimos-juntos",
+    "prompt_en": "We have fun together.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Nos",
+      "divertimos",
+      "juntos.",
+      "Me",
+      "Te",
+      "Se",
+      "Os",
+      "divierto",
+      "diviertes",
+      "divierte",
+      "divertís",
+      "divierten"
+    ],
+    "answer": [
+      "Nos",
+      "divertimos",
+      "juntos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "divertirse"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "We have fun together.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-058-me-aburro-en-reuniones-largas",
     "prompt_en": "I get bored in long meetings.",
     "prompt_label": "English sentence",
     "chunks": [
@@ -732,9 +2290,11 @@
       "Te",
       "Se",
       "Nos",
+      "Os",
       "aburres",
       "aburre",
       "aburrimos",
+      "aburrís",
       "aburren"
     ],
     "answer": [
@@ -755,6 +2315,1646 @@
     "tense": "present",
     "level": "A2-B1",
     "answer_en": "I get bored in long meetings.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-059-te-aburres-en-casa",
+    "prompt_en": "You get bored at home.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Te",
+      "aburres",
+      "en casa.",
+      "Me",
+      "Se",
+      "Nos",
+      "Os",
+      "aburro",
+      "aburre",
+      "aburrimos",
+      "aburrís",
+      "aburren"
+    ],
+    "answer": [
+      "Te",
+      "aburres",
+      "en casa."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "aburrirse"
+    ],
+    "person": "tu",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "You get bored at home.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-060-se-aburren-facilmente",
+    "prompt_en": "They get bored easily.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se",
+      "aburren",
+      "fácilmente.",
+      "Me",
+      "Te",
+      "Nos",
+      "Os",
+      "aburro",
+      "aburres",
+      "aburre",
+      "aburrimos",
+      "aburrís"
+    ],
+    "answer": [
+      "Se",
+      "aburren",
+      "fácilmente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "reflexive verbs",
+      "reflexive pronouns",
+      "present"
+    ],
+    "verbs": [
+      "aburrirse"
+    ],
+    "person": "ellos/ellas",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "They get bored easily.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-061-se-me-olvida-el-nombre",
+    "prompt_en": "I forget the name.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se me",
+      "olvida",
+      "el nombre.",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "olvidan",
+      "olvidó",
+      "olvidaron"
+    ],
+    "answer": [
+      "Se me",
+      "olvida",
+      "el nombre."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "olvidarse accidental"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I forget the name.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-062-se-te-olvida-la-cita",
+    "prompt_en": "You forget the appointment.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se te",
+      "olvida",
+      "la cita.",
+      "Se me",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "olvidan",
+      "olvidó",
+      "olvidaron"
+    ],
+    "answer": [
+      "Se te",
+      "olvida",
+      "la cita."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "olvidarse accidental"
+    ],
+    "person": "tu",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "You forget the appointment.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-063-se-le-olvidan-las-llaves",
+    "prompt_en": "He forgets the keys.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se le",
+      "olvidan",
+      "las llaves.",
+      "Se me",
+      "Se te",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "olvida",
+      "olvidó",
+      "olvidaron"
+    ],
+    "answer": [
+      "Se le",
+      "olvidan",
+      "las llaves."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "olvidarse accidental"
+    ],
+    "person": "el/ella",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "He forgets the keys.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-064-se-nos-olvido-el-plan",
+    "prompt_en": "We forgot the plan.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se nos",
+      "olvidó",
+      "el plan.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se os",
+      "Se les",
+      "olvida",
+      "olvidan",
+      "olvidaron"
+    ],
+    "answer": [
+      "Se nos",
+      "olvidó",
+      "el plan."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "olvidarse accidental"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "We forgot the plan.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-065-se-os-olvido-pagar",
+    "prompt_en": "You all forgot to pay.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se os",
+      "olvidó",
+      "pagar.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se les",
+      "olvida",
+      "olvidan",
+      "olvidaron"
+    ],
+    "answer": [
+      "Se os",
+      "olvidó",
+      "pagar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "olvidarse accidental"
+    ],
+    "person": "vosotros/vosotras",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "You all forgot to pay.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-066-se-me-cae-el-movil",
+    "prompt_en": "I drop my phone.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se me",
+      "cae",
+      "el móvil.",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "caen",
+      "cayó",
+      "cayeron"
+    ],
+    "answer": [
+      "Se me",
+      "cae",
+      "el móvil."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "caerse accidental"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I drop my phone.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-067-se-te-cayo-el-vaso",
+    "prompt_en": "You dropped the glass.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se te",
+      "cayó",
+      "el vaso.",
+      "Se me",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "cae",
+      "caen",
+      "cayeron"
+    ],
+    "answer": [
+      "Se te",
+      "cayó",
+      "el vaso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "caerse accidental"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "You dropped the glass.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-068-se-le-caen-los-papeles",
+    "prompt_en": "His papers fall.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se le",
+      "caen",
+      "los papeles.",
+      "Se me",
+      "Se te",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "cae",
+      "cayó",
+      "cayeron"
+    ],
+    "answer": [
+      "Se le",
+      "caen",
+      "los papeles."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "caerse accidental"
+    ],
+    "person": "el/ella",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "His papers fall.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-069-se-nos-cayo-la-bolsa",
+    "prompt_en": "We dropped the bag.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se nos",
+      "cayó",
+      "la bolsa.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se os",
+      "Se les",
+      "cae",
+      "caen",
+      "cayeron"
+    ],
+    "answer": [
+      "Se nos",
+      "cayó",
+      "la bolsa."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "caerse accidental"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "We dropped the bag.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-070-se-os-cayo-la-maleta",
+    "prompt_en": "You all dropped the suitcase.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se os",
+      "cayó",
+      "la maleta.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se les",
+      "cae",
+      "caen",
+      "cayeron"
+    ],
+    "answer": [
+      "Se os",
+      "cayó",
+      "la maleta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "caerse accidental"
+    ],
+    "person": "vosotros/vosotras",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "You all dropped the suitcase.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-071-se-me-rompe-el-cargador",
+    "prompt_en": "My charger breaks.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se me",
+      "rompe",
+      "el cargador.",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "rompen",
+      "rompió",
+      "rompieron"
+    ],
+    "answer": [
+      "Se me",
+      "rompe",
+      "el cargador."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "romperse accidental"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "My charger breaks.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-072-se-te-rompio-la-pantalla",
+    "prompt_en": "Your screen broke.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se te",
+      "rompió",
+      "la pantalla.",
+      "Se me",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "rompe",
+      "rompen",
+      "rompieron"
+    ],
+    "answer": [
+      "Se te",
+      "rompió",
+      "la pantalla."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "romperse accidental"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "Your screen broke.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-073-se-le-rompen-los-zapatos",
+    "prompt_en": "His shoes break.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se le",
+      "rompen",
+      "los zapatos.",
+      "Se me",
+      "Se te",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "rompe",
+      "rompió",
+      "rompieron"
+    ],
+    "answer": [
+      "Se le",
+      "rompen",
+      "los zapatos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "romperse accidental"
+    ],
+    "person": "el/ella",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "His shoes break.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-074-se-nos-rompio-la-mesa",
+    "prompt_en": "Our table broke.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se nos",
+      "rompió",
+      "la mesa.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se os",
+      "Se les",
+      "rompe",
+      "rompen",
+      "rompieron"
+    ],
+    "answer": [
+      "Se nos",
+      "rompió",
+      "la mesa."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "romperse accidental"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "Our table broke.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-075-se-les-rompio-el-coche",
+    "prompt_en": "Their car broke down.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se les",
+      "rompió",
+      "el coche.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "rompe",
+      "rompen",
+      "rompieron"
+    ],
+    "answer": [
+      "Se les",
+      "rompió",
+      "el coche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "romperse accidental"
+    ],
+    "person": "ellos/ellas",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "Their car broke down.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-076-se-me-pierde-el-billete",
+    "prompt_en": "I lose the ticket.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se me",
+      "pierde",
+      "el billete.",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "pierden",
+      "perdió",
+      "perdieron"
+    ],
+    "answer": [
+      "Se me",
+      "pierde",
+      "el billete."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "perderse accidental"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I lose the ticket.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-077-se-te-perdio-la-tarjeta",
+    "prompt_en": "You lost the card.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se te",
+      "perdió",
+      "la tarjeta.",
+      "Se me",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "pierde",
+      "pierden",
+      "perdieron"
+    ],
+    "answer": [
+      "Se te",
+      "perdió",
+      "la tarjeta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "perderse accidental"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "You lost the card.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-078-se-le-pierden-las-gafas",
+    "prompt_en": "He loses his glasses.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se le",
+      "pierden",
+      "las gafas.",
+      "Se me",
+      "Se te",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "pierde",
+      "perdió",
+      "perdieron"
+    ],
+    "answer": [
+      "Se le",
+      "pierden",
+      "las gafas."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "perderse accidental"
+    ],
+    "person": "el/ella",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "He loses his glasses.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-079-se-nos-perdio-el-perro",
+    "prompt_en": "We lost the dog.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se nos",
+      "perdió",
+      "el perro.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se os",
+      "Se les",
+      "pierde",
+      "pierden",
+      "perdieron"
+    ],
+    "answer": [
+      "Se nos",
+      "perdió",
+      "el perro."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "perderse accidental"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "We lost the dog.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-080-se-les-perdio-la-reserva",
+    "prompt_en": "They lost the reservation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se les",
+      "perdió",
+      "la reserva.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "pierde",
+      "pierden",
+      "perdieron"
+    ],
+    "answer": [
+      "Se les",
+      "perdió",
+      "la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "perderse accidental"
+    ],
+    "person": "ellos/ellas",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "They lost the reservation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-081-se-me-queda-el-movil-en-casa",
+    "prompt_en": "I leave my phone at home.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se me",
+      "queda",
+      "el móvil en casa.",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "quedan",
+      "quedó",
+      "quedaron"
+    ],
+    "answer": [
+      "Se me",
+      "queda",
+      "el móvil en casa."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "quedarse accidental"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I leave my phone at home.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-082-se-te-quedo-la-chaqueta",
+    "prompt_en": "You left your jacket.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se te",
+      "quedó",
+      "la chaqueta.",
+      "Se me",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "queda",
+      "quedan",
+      "quedaron"
+    ],
+    "answer": [
+      "Se te",
+      "quedó",
+      "la chaqueta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "quedarse accidental"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "You left your jacket.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-083-se-le-quedan-los-documentos",
+    "prompt_en": "He leaves the documents.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se le",
+      "quedan",
+      "los documentos.",
+      "Se me",
+      "Se te",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "queda",
+      "quedó",
+      "quedaron"
+    ],
+    "answer": [
+      "Se le",
+      "quedan",
+      "los documentos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "quedarse accidental"
+    ],
+    "person": "el/ella",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "He leaves the documents.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-084-se-nos-quedo-el-pasaporte",
+    "prompt_en": "We left the passport.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se nos",
+      "quedó",
+      "el pasaporte.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se os",
+      "Se les",
+      "queda",
+      "quedan",
+      "quedaron"
+    ],
+    "answer": [
+      "Se nos",
+      "quedó",
+      "el pasaporte."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "quedarse accidental"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "We left the passport.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-085-se-les-quedo-la-comida",
+    "prompt_en": "They left the food.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se les",
+      "quedó",
+      "la comida.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "queda",
+      "quedan",
+      "quedaron"
+    ],
+    "answer": [
+      "Se les",
+      "quedó",
+      "la comida."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "quedarse accidental"
+    ],
+    "person": "ellos/ellas",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "They left the food.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-086-se-me-ocurre-una-idea",
+    "prompt_en": "I get an idea.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se me",
+      "ocurre",
+      "una idea.",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "ocurren",
+      "ocurrió",
+      "ocurrieron"
+    ],
+    "answer": [
+      "Se me",
+      "ocurre",
+      "una idea."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "ocurrirse"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I get an idea.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-087-se-te-ocurre-algo",
+    "prompt_en": "You think of something.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se te",
+      "ocurre",
+      "algo.",
+      "Se me",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "ocurren",
+      "ocurrió",
+      "ocurrieron"
+    ],
+    "answer": [
+      "Se te",
+      "ocurre",
+      "algo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "ocurrirse"
+    ],
+    "person": "tu",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "You think of something.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-088-se-le-ocurrio-una-pregunta",
+    "prompt_en": "He thought of a question.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se le",
+      "ocurrió",
+      "una pregunta.",
+      "Se me",
+      "Se te",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "ocurre",
+      "ocurren",
+      "ocurrieron"
+    ],
+    "answer": [
+      "Se le",
+      "ocurrió",
+      "una pregunta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "ocurrirse"
+    ],
+    "person": "el/ella",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "He thought of a question.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-089-se-nos-ocurre-una-solucion",
+    "prompt_en": "We think of a solution.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se nos",
+      "ocurre",
+      "una solución.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se os",
+      "Se les",
+      "ocurren",
+      "ocurrió",
+      "ocurrieron"
+    ],
+    "answer": [
+      "Se nos",
+      "ocurre",
+      "una solución."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "ocurrirse"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "We think of a solution.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-090-se-les-ocurrio-un-plan",
+    "prompt_en": "They thought of a plan.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se les",
+      "ocurrió",
+      "un plan.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "ocurre",
+      "ocurren",
+      "ocurrieron"
+    ],
+    "answer": [
+      "Se les",
+      "ocurrió",
+      "un plan."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "ocurrirse"
+    ],
+    "person": "ellos/ellas",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "They thought of a plan.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-091-se-me-escapa-un-detalle",
+    "prompt_en": "I miss a detail.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se me",
+      "escapa",
+      "un detalle.",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "escapan",
+      "escapó",
+      "escaparon"
+    ],
+    "answer": [
+      "Se me",
+      "escapa",
+      "un detalle."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "escaparse accidental"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I miss a detail.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-092-se-te-escapo-la-verdad",
+    "prompt_en": "You let the truth slip.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se te",
+      "escapó",
+      "la verdad.",
+      "Se me",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "escapa",
+      "escapan",
+      "escaparon"
+    ],
+    "answer": [
+      "Se te",
+      "escapó",
+      "la verdad."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "escaparse accidental"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "You let the truth slip.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-093-se-le-escapan-los-detalles",
+    "prompt_en": "He misses the details.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se le",
+      "escapan",
+      "los detalles.",
+      "Se me",
+      "Se te",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "escapa",
+      "escapó",
+      "escaparon"
+    ],
+    "answer": [
+      "Se le",
+      "escapan",
+      "los detalles."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "escaparse accidental"
+    ],
+    "person": "el/ella",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "He misses the details.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-094-se-nos-escapo-el-autobus",
+    "prompt_en": "We missed the bus.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se nos",
+      "escapó",
+      "el autobús.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se os",
+      "Se les",
+      "escapa",
+      "escapan",
+      "escaparon"
+    ],
+    "answer": [
+      "Se nos",
+      "escapó",
+      "el autobús."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "escaparse accidental"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "We missed the bus.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-095-se-les-escapo-la-oportunidad",
+    "prompt_en": "They missed the opportunity.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se les",
+      "escapó",
+      "la oportunidad.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "escapa",
+      "escapan",
+      "escaparon"
+    ],
+    "answer": [
+      "Se les",
+      "escapó",
+      "la oportunidad."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "escaparse accidental"
+    ],
+    "person": "ellos/ellas",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "They missed the opportunity.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-096-se-me-acaba-el-tiempo",
+    "prompt_en": "I am running out of time.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se me",
+      "acaba",
+      "el tiempo.",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "acaban",
+      "acabó",
+      "acabaron"
+    ],
+    "answer": [
+      "Se me",
+      "acaba",
+      "el tiempo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "acabarse accidental"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I am running out of time.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-097-se-te-acabo-la-bateria",
+    "prompt_en": "Your battery ran out.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se te",
+      "acabó",
+      "la batería.",
+      "Se me",
+      "Se le",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "acaba",
+      "acaban",
+      "acabaron"
+    ],
+    "answer": [
+      "Se te",
+      "acabó",
+      "la batería."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "acabarse accidental"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "Your battery ran out.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-098-se-le-acaba-la-paciencia",
+    "prompt_en": "His patience is running out.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se le",
+      "acaba",
+      "la paciencia.",
+      "Se me",
+      "Se te",
+      "Se nos",
+      "Se os",
+      "Se les",
+      "acaban",
+      "acabó",
+      "acabaron"
+    ],
+    "answer": [
+      "Se le",
+      "acaba",
+      "la paciencia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "present"
+    ],
+    "verbs": [
+      "acabarse accidental"
+    ],
+    "person": "el/ella",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "His patience is running out.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-099-se-nos-acabo-el-agua",
+    "prompt_en": "We ran out of water.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se nos",
+      "acabó",
+      "el agua.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se os",
+      "Se les",
+      "acaba",
+      "acaban",
+      "acabaron"
+    ],
+    "answer": [
+      "Se nos",
+      "acabó",
+      "el agua."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "acabarse accidental"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "We ran out of water.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "reflexive-switchboard-100-se-os-acabaron-las-entradas",
+    "prompt_en": "You all ran out of tickets.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se os",
+      "acabaron",
+      "las entradas.",
+      "Se me",
+      "Se te",
+      "Se le",
+      "Se nos",
+      "Se les",
+      "acaba",
+      "acaban",
+      "acabó"
+    ],
+    "answer": [
+      "Se os",
+      "acabaron",
+      "las entradas."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "se + indirect object pronoun",
+      "reflexive pronoun construction",
+      "preterite"
+    ],
+    "verbs": [
+      "acabarse accidental"
+    ],
+    "person": "vosotros/vosotras",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "You all ran out of tickets.",
     "learning_method": "random-conjugation-switching-drill",
     "lesson_type": "switchboard-pill-translation",
     "lesson_type_name": "Switchboard Pill Translation"
