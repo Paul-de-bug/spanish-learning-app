@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "anchors-estuve-001-yo-en-la-oficina-ayer-por-la-manana",
+    "prompt_en": "I was at the office yesterday morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "answer": [
+      "estuve",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was at the office yesterday morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-002-tu-en-la-oficina-ayer-por-la-manana",
+    "prompt_en": "You were at the office yesterday morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "answer": [
+      "estuviste",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were at the office yesterday morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-003-ella-en-la-oficina-ayer-por-la-manana",
+    "prompt_en": "She was at the office yesterday morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "answer": [
+      "estuvo",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was at the office yesterday morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-004-nosotros-en-la-oficina-ayer-por-la-manana",
+    "prompt_en": "We were at the office yesterday morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "answer": [
+      "estuvimos",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were at the office yesterday morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-005-vosotros-en-la-oficina-ayer-por-la-manana",
+    "prompt_en": "You all were at the office yesterday morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "answer": [
+      "estuvisteis",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were at the office yesterday morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-006-ellos-en-la-oficina-ayer-por-la-manana",
+    "prompt_en": "They were at the office yesterday morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "answer": [
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were at the office yesterday morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-007-yo-en-madrid-el-fin-de-semana-pasado",
+    "prompt_en": "I was in Madrid last weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "answer": [
+      "estuve",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in Madrid last weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-008-tu-en-madrid-el-fin-de-semana-pasado",
+    "prompt_en": "You were in Madrid last weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "answer": [
+      "estuviste",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were in Madrid last weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-009-ella-en-madrid-el-fin-de-semana-pasado",
+    "prompt_en": "She was in Madrid last weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "answer": [
+      "estuvo",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was in Madrid last weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-010-nosotros-en-madrid-el-fin-de-semana-pasado",
+    "prompt_en": "We were in Madrid last weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "answer": [
+      "estuvimos",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were in Madrid last weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-011-vosotros-en-madrid-el-fin-de-semana-pasado",
+    "prompt_en": "You all were in Madrid last weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "answer": [
+      "estuvisteis",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were in Madrid last weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-012-ellos-en-madrid-el-fin-de-semana-pasado",
+    "prompt_en": "They were in Madrid last weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "answer": [
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were in Madrid last weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-013-yo-enfermo-durante-tres-dias",
+    "prompt_en": "I was sick for three days.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfermo",
+      "durante tres días."
+    ],
+    "answer": [
+      "estuve",
+      "enfermo",
+      "durante tres días."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was sick for three days.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-014-tu-enfermo-durante-tres-dias",
+    "prompt_en": "You were sick for three days.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfermo",
+      "durante tres días."
+    ],
+    "answer": [
+      "estuviste",
+      "enfermo",
+      "durante tres días."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were sick for three days.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-015-ella-enferma-durante-tres-dias",
+    "prompt_en": "She was sick for three days.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enferma",
+      "durante tres días."
+    ],
+    "answer": [
+      "estuvo",
+      "enferma",
+      "durante tres días."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was sick for three days.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-016-nosotros-enfermos-durante-tres-dias",
+    "prompt_en": "We were sick for three days.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfermos",
+      "durante tres días."
+    ],
+    "answer": [
+      "estuvimos",
+      "enfermos",
+      "durante tres días."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were sick for three days.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-017-vosotros-enfermos-durante-tres-dias",
+    "prompt_en": "You all were sick for three days.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfermos",
+      "durante tres días."
+    ],
+    "answer": [
+      "estuvisteis",
+      "enfermos",
+      "durante tres días."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were sick for three days.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-018-ellos-enfermos-durante-tres-dias",
+    "prompt_en": "They were sick for three days.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfermos",
+      "durante tres días."
+    ],
+    "answer": [
+      "estuvieron",
+      "enfermos",
+      "durante tres días."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were sick for three days.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-019-yo-tranquilo-durante-la-reunion",
+    "prompt_en": "I was calm during the meeting.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "tranquilo",
+      "durante la reunión."
+    ],
+    "answer": [
+      "estuve",
+      "tranquilo",
+      "durante la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was calm during the meeting.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-020-tu-tranquilo-durante-la-reunion",
+    "prompt_en": "You were calm during the meeting.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "tranquilo",
+      "durante la reunión."
+    ],
+    "answer": [
+      "estuviste",
+      "tranquilo",
+      "durante la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were calm during the meeting.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-021-ella-tranquila-durante-la-reunion",
+    "prompt_en": "She was calm during the meeting.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "tranquila",
+      "durante la reunión."
+    ],
+    "answer": [
+      "estuvo",
+      "tranquila",
+      "durante la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was calm during the meeting.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-022-nosotros-tranquilos-durante-la-reunion",
+    "prompt_en": "We were calm during the meeting.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "tranquilos",
+      "durante la reunión."
+    ],
+    "answer": [
+      "estuvimos",
+      "tranquilos",
+      "durante la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were calm during the meeting.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-023-vosotros-tranquilos-durante-la-reunion",
+    "prompt_en": "You all were calm during the meeting.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "tranquilos",
+      "durante la reunión."
+    ],
+    "answer": [
+      "estuvisteis",
+      "tranquilos",
+      "durante la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were calm during the meeting.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-024-ellos-tranquilos-durante-la-reunion",
+    "prompt_en": "They were calm during the meeting.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "tranquilos",
+      "durante la reunión."
+    ],
+    "answer": [
+      "estuvieron",
+      "tranquilos",
+      "durante la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were calm during the meeting.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-025-yo-ocupado-toda-la-tarde",
+    "prompt_en": "I was busy all afternoon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "ocupado",
+      "toda la tarde."
+    ],
+    "answer": [
+      "estuve",
+      "ocupado",
+      "toda la tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was busy all afternoon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-026-tu-ocupado-toda-la-tarde",
+    "prompt_en": "You were busy all afternoon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "ocupado",
+      "toda la tarde."
+    ],
+    "answer": [
+      "estuviste",
+      "ocupado",
+      "toda la tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were busy all afternoon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-027-ella-ocupada-toda-la-tarde",
+    "prompt_en": "She was busy all afternoon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "ocupada",
+      "toda la tarde."
+    ],
+    "answer": [
+      "estuvo",
+      "ocupada",
+      "toda la tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was busy all afternoon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-028-nosotros-ocupados-toda-la-tarde",
+    "prompt_en": "We were busy all afternoon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "ocupados",
+      "toda la tarde."
+    ],
+    "answer": [
+      "estuvimos",
+      "ocupados",
+      "toda la tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were busy all afternoon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-029-vosotros-ocupados-toda-la-tarde",
+    "prompt_en": "You all were busy all afternoon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "ocupados",
+      "toda la tarde."
+    ],
+    "answer": [
+      "estuvisteis",
+      "ocupados",
+      "toda la tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were busy all afternoon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-030-ellos-ocupados-toda-la-tarde",
+    "prompt_en": "They were busy all afternoon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "ocupados",
+      "toda la tarde."
+    ],
+    "answer": [
+      "estuvieron",
+      "ocupados",
+      "toda la tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were busy all afternoon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-031-yo-fuera-durante-una-hora",
+    "prompt_en": "I was outside for an hour.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "answer": [
+      "estuve",
+      "fuera",
+      "durante una hora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was outside for an hour.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-032-tu-fuera-durante-una-hora",
+    "prompt_en": "You were outside for an hour.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "answer": [
+      "estuviste",
+      "fuera",
+      "durante una hora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were outside for an hour.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-033-ella-fuera-durante-una-hora",
+    "prompt_en": "She was outside for an hour.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "answer": [
+      "estuvo",
+      "fuera",
+      "durante una hora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was outside for an hour.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-034-nosotros-fuera-durante-una-hora",
+    "prompt_en": "We were outside for an hour.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "answer": [
+      "estuvimos",
+      "fuera",
+      "durante una hora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were outside for an hour.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-035-vosotros-fuera-durante-una-hora",
+    "prompt_en": "You all were outside for an hour.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "answer": [
+      "estuvisteis",
+      "fuera",
+      "durante una hora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were outside for an hour.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-036-ellos-fuera-durante-una-hora",
+    "prompt_en": "They were outside for an hour.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "answer": [
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were outside for an hour.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-037-yo-en-el-hospital-el-mes-pasado",
+    "prompt_en": "I was in hospital last month.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "answer": [
+      "estuve",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in hospital last month.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-038-tu-en-el-hospital-el-mes-pasado",
+    "prompt_en": "You were in hospital last month.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "answer": [
+      "estuviste",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were in hospital last month.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-039-ella-en-el-hospital-el-mes-pasado",
+    "prompt_en": "She was in hospital last month.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "answer": [
+      "estuvo",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was in hospital last month.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-040-nosotros-en-el-hospital-el-mes-pasado",
+    "prompt_en": "We were in hospital last month.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "answer": [
+      "estuvimos",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were in hospital last month.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-041-vosotros-en-el-hospital-el-mes-pasado",
+    "prompt_en": "You all were in hospital last month.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "answer": [
+      "estuvisteis",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were in hospital last month.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-042-ellos-en-el-hospital-el-mes-pasado",
+    "prompt_en": "They were in hospital last month.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "answer": [
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were in hospital last month.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-043-yo-enfadado-un-rato",
+    "prompt_en": "I was angry for a while.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfadado",
+      "un rato."
+    ],
+    "answer": [
+      "estuve",
+      "enfadado",
+      "un rato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was angry for a while.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-044-tu-enfadado-un-rato",
+    "prompt_en": "You were angry for a while.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfadado",
+      "un rato."
+    ],
+    "answer": [
+      "estuviste",
+      "enfadado",
+      "un rato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were angry for a while.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-045-ella-enfadada-un-rato",
+    "prompt_en": "She was angry for a while.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfadada",
+      "un rato."
+    ],
+    "answer": [
+      "estuvo",
+      "enfadada",
+      "un rato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was angry for a while.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-046-nosotros-enfadados-un-rato",
+    "prompt_en": "We were angry for a while.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfadados",
+      "un rato."
+    ],
+    "answer": [
+      "estuvimos",
+      "enfadados",
+      "un rato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were angry for a while.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-047-vosotros-enfadados-un-rato",
+    "prompt_en": "You all were angry for a while.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfadados",
+      "un rato."
+    ],
+    "answer": [
+      "estuvisteis",
+      "enfadados",
+      "un rato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were angry for a while.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-048-ellos-enfadados-un-rato",
+    "prompt_en": "They were angry for a while.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfadados",
+      "un rato."
+    ],
+    "answer": [
+      "estuvieron",
+      "enfadados",
+      "un rato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were angry for a while.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-049-yo-en-el-banco-esta-manana",
+    "prompt_en": "I was at the bank this morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el banco",
+      "esta mañana."
+    ],
+    "answer": [
+      "estuve",
+      "en el banco",
+      "esta mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was at the bank this morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-050-tu-en-el-banco-esta-manana",
+    "prompt_en": "You were at the bank this morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el banco",
+      "esta mañana."
+    ],
+    "answer": [
+      "estuviste",
+      "en el banco",
+      "esta mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were at the bank this morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-051-ella-en-el-banco-esta-manana",
+    "prompt_en": "She was at the bank this morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el banco",
+      "esta mañana."
+    ],
+    "answer": [
+      "estuvo",
+      "en el banco",
+      "esta mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was at the bank this morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-052-nosotros-en-el-banco-esta-manana",
+    "prompt_en": "We were at the bank this morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el banco",
+      "esta mañana."
+    ],
+    "answer": [
+      "estuvimos",
+      "en el banco",
+      "esta mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were at the bank this morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-053-vosotros-en-el-banco-esta-manana",
+    "prompt_en": "You all were at the bank this morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el banco",
+      "esta mañana."
+    ],
+    "answer": [
+      "estuvisteis",
+      "en el banco",
+      "esta mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were at the bank this morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-054-ellos-en-el-banco-esta-manana",
+    "prompt_en": "They were at the bank this morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el banco",
+      "esta mañana."
+    ],
+    "answer": [
+      "estuvieron",
+      "en el banco",
+      "esta mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were at the bank this morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-055-yo-feliz-todo-el-dia",
+    "prompt_en": "I was happy all day.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "feliz",
+      "todo el día."
+    ],
+    "answer": [
+      "estuve",
+      "feliz",
+      "todo el día."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was happy all day.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-056-tu-feliz-todo-el-dia",
+    "prompt_en": "You were happy all day.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "feliz",
+      "todo el día."
+    ],
+    "answer": [
+      "estuviste",
+      "feliz",
+      "todo el día."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were happy all day.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-057-ella-feliz-todo-el-dia",
+    "prompt_en": "She was happy all day.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "feliz",
+      "todo el día."
+    ],
+    "answer": [
+      "estuvo",
+      "feliz",
+      "todo el día."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was happy all day.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-058-nosotros-felices-todo-el-dia",
+    "prompt_en": "We were happy all day.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "felices",
+      "todo el día."
+    ],
+    "answer": [
+      "estuvimos",
+      "felices",
+      "todo el día."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were happy all day.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-059-vosotros-felices-todo-el-dia",
+    "prompt_en": "You all were happy all day.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "felices",
+      "todo el día."
+    ],
+    "answer": [
+      "estuvisteis",
+      "felices",
+      "todo el día."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were happy all day.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-060-ellos-felices-todo-el-dia",
+    "prompt_en": "They were happy all day.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "felices",
+      "todo el día."
+    ],
+    "answer": [
+      "estuvieron",
+      "felices",
+      "todo el día."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were happy all day.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-061-yo-de-vacaciones-en-galicia",
+    "prompt_en": "I was on holiday in Galicia.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "answer": [
+      "estuve",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was on holiday in Galicia.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-062-tu-de-vacaciones-en-galicia",
+    "prompt_en": "You were on holiday in Galicia.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "answer": [
+      "estuviste",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were on holiday in Galicia.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-063-ella-de-vacaciones-en-galicia",
+    "prompt_en": "She was on holiday in Galicia.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "answer": [
+      "estuvo",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was on holiday in Galicia.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-064-nosotros-de-vacaciones-en-galicia",
+    "prompt_en": "We were on holiday in Galicia.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "answer": [
+      "estuvimos",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were on holiday in Galicia.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-065-vosotros-de-vacaciones-en-galicia",
+    "prompt_en": "You all were on holiday in Galicia.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "answer": [
+      "estuvisteis",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were on holiday in Galicia.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-066-ellos-de-vacaciones-en-galicia",
+    "prompt_en": "They were on holiday in Galicia.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "answer": [
+      "estuvieron",
+      "de vacaciones",
+      "en Galicia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were on holiday in Galicia.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-067-yo-estresado-toda-la-semana",
+    "prompt_en": "I was stressed all week.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "estresado",
+      "toda la semana."
+    ],
+    "answer": [
+      "estuve",
+      "estresado",
+      "toda la semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was stressed all week.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-068-tu-estresado-toda-la-semana",
+    "prompt_en": "You were stressed all week.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "estresado",
+      "toda la semana."
+    ],
+    "answer": [
+      "estuviste",
+      "estresado",
+      "toda la semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were stressed all week.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-069-ella-estresada-toda-la-semana",
+    "prompt_en": "She was stressed all week.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "estresada",
+      "toda la semana."
+    ],
+    "answer": [
+      "estuvo",
+      "estresada",
+      "toda la semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was stressed all week.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-070-nosotros-estresados-toda-la-semana",
+    "prompt_en": "We were stressed all week.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "estresados",
+      "toda la semana."
+    ],
+    "answer": [
+      "estuvimos",
+      "estresados",
+      "toda la semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were stressed all week.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-071-vosotros-estresados-toda-la-semana",
+    "prompt_en": "You all were stressed all week.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "estresados",
+      "toda la semana."
+    ],
+    "answer": [
+      "estuvisteis",
+      "estresados",
+      "toda la semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were stressed all week.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-072-ellos-estresados-toda-la-semana",
+    "prompt_en": "They were stressed all week.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "estresados",
+      "toda la semana."
+    ],
+    "answer": [
+      "estuvieron",
+      "estresados",
+      "toda la semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were stressed all week.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-073-yo-en-la-cocina-durante-dos-horas",
+    "prompt_en": "I was in the kitchen for two hours.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "answer": [
+      "estuve",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in the kitchen for two hours.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-074-tu-en-la-cocina-durante-dos-horas",
+    "prompt_en": "You were in the kitchen for two hours.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "answer": [
+      "estuviste",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were in the kitchen for two hours.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-075-ella-en-la-cocina-durante-dos-horas",
+    "prompt_en": "She was in the kitchen for two hours.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "answer": [
+      "estuvo",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was in the kitchen for two hours.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-076-nosotros-en-la-cocina-durante-dos-horas",
+    "prompt_en": "We were in the kitchen for two hours.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "answer": [
+      "estuvimos",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were in the kitchen for two hours.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-077-vosotros-en-la-cocina-durante-dos-horas",
+    "prompt_en": "You all were in the kitchen for two hours.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "answer": [
+      "estuvisteis",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were in the kitchen for two hours.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-078-ellos-en-la-cocina-durante-dos-horas",
+    "prompt_en": "They were in the kitchen for two hours.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "answer": [
+      "estuvieron",
+      "en la cocina",
+      "durante dos horas."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were in the kitchen for two hours.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-079-yo-disponible-despues-de-comer",
+    "prompt_en": "I was available after lunch.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "disponible",
+      "después de comer."
+    ],
+    "answer": [
+      "estuve",
+      "disponible",
+      "después de comer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was available after lunch.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-080-tu-disponible-despues-de-comer",
+    "prompt_en": "You were available after lunch.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "disponible",
+      "después de comer."
+    ],
+    "answer": [
+      "estuviste",
+      "disponible",
+      "después de comer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were available after lunch.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-081-ella-disponible-despues-de-comer",
+    "prompt_en": "She was available after lunch.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "disponible",
+      "después de comer."
+    ],
+    "answer": [
+      "estuvo",
+      "disponible",
+      "después de comer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was available after lunch.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-082-nosotros-disponibles-despues-de-comer",
+    "prompt_en": "We were available after lunch.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "disponibles",
+      "después de comer."
+    ],
+    "answer": [
+      "estuvimos",
+      "disponibles",
+      "después de comer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were available after lunch.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-083-vosotros-disponibles-despues-de-comer",
+    "prompt_en": "You all were available after lunch.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "disponibles",
+      "después de comer."
+    ],
+    "answer": [
+      "estuvisteis",
+      "disponibles",
+      "después de comer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were available after lunch.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-084-ellos-disponibles-despues-de-comer",
+    "prompt_en": "They were available after lunch.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "disponibles",
+      "después de comer."
+    ],
+    "answer": [
+      "estuvieron",
+      "disponibles",
+      "después de comer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were available after lunch.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-085-yo-solo-todo-el-fin-de-semana",
+    "prompt_en": "I was alone for the whole weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "solo",
+      "todo el fin de semana."
+    ],
+    "answer": [
+      "estuve",
+      "solo",
+      "todo el fin de semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was alone for the whole weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-086-tu-solo-todo-el-fin-de-semana",
+    "prompt_en": "You were alone for the whole weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "solo",
+      "todo el fin de semana."
+    ],
+    "answer": [
+      "estuviste",
+      "solo",
+      "todo el fin de semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were alone for the whole weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-087-ella-sola-todo-el-fin-de-semana",
+    "prompt_en": "She was alone for the whole weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "sola",
+      "todo el fin de semana."
+    ],
+    "answer": [
+      "estuvo",
+      "sola",
+      "todo el fin de semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was alone for the whole weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-088-nosotros-solos-todo-el-fin-de-semana",
+    "prompt_en": "We were alone for the whole weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "solos",
+      "todo el fin de semana."
+    ],
+    "answer": [
+      "estuvimos",
+      "solos",
+      "todo el fin de semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were alone for the whole weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-089-vosotros-solos-todo-el-fin-de-semana",
+    "prompt_en": "You all were alone for the whole weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "solos",
+      "todo el fin de semana."
+    ],
+    "answer": [
+      "estuvisteis",
+      "solos",
+      "todo el fin de semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were alone for the whole weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-090-ellos-solos-todo-el-fin-de-semana",
+    "prompt_en": "They were alone for the whole weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "solos",
+      "todo el fin de semana."
+    ],
+    "answer": [
+      "estuvieron",
+      "solos",
+      "todo el fin de semana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were alone for the whole weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-091-yo-cerca-de-la-estacion-anoche",
+    "prompt_en": "I was near the station last night.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "answer": [
+      "estuve",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was near the station last night.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-092-tu-cerca-de-la-estacion-anoche",
+    "prompt_en": "You were near the station last night.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "answer": [
+      "estuviste",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were near the station last night.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-093-ella-cerca-de-la-estacion-anoche",
+    "prompt_en": "She was near the station last night.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "answer": [
+      "estuvo",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was near the station last night.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-094-nosotros-cerca-de-la-estacion-anoche",
+    "prompt_en": "We were near the station last night.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "answer": [
+      "estuvimos",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were near the station last night.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-095-vosotros-cerca-de-la-estacion-anoche",
+    "prompt_en": "You all were near the station last night.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "answer": [
+      "estuvisteis",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were near the station last night.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-096-ellos-cerca-de-la-estacion-anoche",
+    "prompt_en": "They were near the station last night.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "answer": [
+      "estuvieron",
+      "cerca de la estación",
+      "anoche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were near the station last night.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-097-yo-preocupado-hasta-medianoche",
+    "prompt_en": "I was worried until midnight.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "preocupado",
+      "hasta medianoche."
+    ],
+    "answer": [
+      "estuve",
+      "preocupado",
+      "hasta medianoche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was worried until midnight.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-098-tu-preocupado-hasta-medianoche",
+    "prompt_en": "You were worried until midnight.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "preocupado",
+      "hasta medianoche."
+    ],
+    "answer": [
+      "estuviste",
+      "preocupado",
+      "hasta medianoche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were worried until midnight.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-099-ella-preocupada-hasta-medianoche",
+    "prompt_en": "She was worried until midnight.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "preocupada",
+      "hasta medianoche."
+    ],
+    "answer": [
+      "estuvo",
+      "preocupada",
+      "hasta medianoche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was worried until midnight.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-100-nosotros-preocupados-hasta-medianoche",
+    "prompt_en": "We were worried until midnight.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "preocupados",
+      "hasta medianoche."
+    ],
+    "answer": [
+      "estuvimos",
+      "preocupados",
+      "hasta medianoche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were worried until midnight.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  }
+]

@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "anchors-fui-001-yo-el-primero-en-llegar",
+    "prompt_en": "I was the first to arrive.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el primero",
+      "en llegar."
+    ],
+    "answer": [
+      "fui",
+      "el primero",
+      "en llegar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the first to arrive.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-002-tu-el-primero-en-llegar",
+    "prompt_en": "You were the first to arrive.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el primero",
+      "en llegar."
+    ],
+    "answer": [
+      "fuiste",
+      "el primero",
+      "en llegar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the first to arrive.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-003-ella-la-primera-en-llegar",
+    "prompt_en": "She was the first to arrive.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la primera",
+      "en llegar."
+    ],
+    "answer": [
+      "fue",
+      "la primera",
+      "en llegar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the first to arrive.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-004-nosotros-los-primeros-en-llegar",
+    "prompt_en": "We were the first to arrive.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los primeros",
+      "en llegar."
+    ],
+    "answer": [
+      "fuimos",
+      "los primeros",
+      "en llegar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the first to arrive.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-005-vosotros-los-primeros-en-llegar",
+    "prompt_en": "You all were the first to arrive.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los primeros",
+      "en llegar."
+    ],
+    "answer": [
+      "fuisteis",
+      "los primeros",
+      "en llegar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the first to arrive.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-006-ellos-los-primeros-en-llegar",
+    "prompt_en": "They were the first to arrive.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los primeros",
+      "en llegar."
+    ],
+    "answer": [
+      "fueron",
+      "los primeros",
+      "en llegar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the first to arrive.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-007-yo-el-ultimo-en-salir",
+    "prompt_en": "I was the last to leave.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el último",
+      "en salir."
+    ],
+    "answer": [
+      "fui",
+      "el último",
+      "en salir."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the last to leave.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-008-tu-el-ultimo-en-salir",
+    "prompt_en": "You were the last to leave.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el último",
+      "en salir."
+    ],
+    "answer": [
+      "fuiste",
+      "el último",
+      "en salir."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the last to leave.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-009-ella-la-ultima-en-salir",
+    "prompt_en": "She was the last to leave.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la última",
+      "en salir."
+    ],
+    "answer": [
+      "fue",
+      "la última",
+      "en salir."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the last to leave.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-010-nosotros-los-ultimos-en-salir",
+    "prompt_en": "We were the last to leave.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los últimos",
+      "en salir."
+    ],
+    "answer": [
+      "fuimos",
+      "los últimos",
+      "en salir."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the last to leave.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-011-vosotros-los-ultimos-en-salir",
+    "prompt_en": "You all were the last to leave.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los últimos",
+      "en salir."
+    ],
+    "answer": [
+      "fuisteis",
+      "los últimos",
+      "en salir."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the last to leave.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-012-ellos-los-ultimos-en-salir",
+    "prompt_en": "They were the last to leave.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los últimos",
+      "en salir."
+    ],
+    "answer": [
+      "fueron",
+      "los últimos",
+      "en salir."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the last to leave.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-013-yo-responsable-de-la-reserva",
+    "prompt_en": "I was responsible for the reservation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "responsable",
+      "de la reserva."
+    ],
+    "answer": [
+      "fui",
+      "responsable",
+      "de la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was responsible for the reservation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-014-tu-responsable-de-la-reserva",
+    "prompt_en": "You were responsible for the reservation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "responsable",
+      "de la reserva."
+    ],
+    "answer": [
+      "fuiste",
+      "responsable",
+      "de la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were responsible for the reservation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-015-ella-responsable-de-la-reserva",
+    "prompt_en": "She was responsible for the reservation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "responsable",
+      "de la reserva."
+    ],
+    "answer": [
+      "fue",
+      "responsable",
+      "de la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was responsible for the reservation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-016-nosotros-responsables-de-la-reserva",
+    "prompt_en": "We were responsible for the reservation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "responsables",
+      "de la reserva."
+    ],
+    "answer": [
+      "fuimos",
+      "responsables",
+      "de la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were responsible for the reservation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-017-vosotros-responsables-de-la-reserva",
+    "prompt_en": "You all were responsible for the reservation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "responsables",
+      "de la reserva."
+    ],
+    "answer": [
+      "fuisteis",
+      "responsables",
+      "de la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were responsible for the reservation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-018-ellos-responsables-de-la-reserva",
+    "prompt_en": "They were responsible for the reservation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "responsables",
+      "de la reserva."
+    ],
+    "answer": [
+      "fueron",
+      "responsables",
+      "de la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were responsible for the reservation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-019-yo-elegido-para-el-puesto",
+    "prompt_en": "I was selected for the role.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "elegido",
+      "para el puesto."
+    ],
+    "answer": [
+      "fui",
+      "elegido",
+      "para el puesto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was selected for the role.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-020-tu-elegido-para-el-puesto",
+    "prompt_en": "You were selected for the role.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "elegido",
+      "para el puesto."
+    ],
+    "answer": [
+      "fuiste",
+      "elegido",
+      "para el puesto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were selected for the role.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-021-ella-elegida-para-el-puesto",
+    "prompt_en": "She was selected for the role.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "elegida",
+      "para el puesto."
+    ],
+    "answer": [
+      "fue",
+      "elegida",
+      "para el puesto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was selected for the role.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-022-nosotros-elegidos-para-el-puesto",
+    "prompt_en": "We were selected for the role.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "elegidos",
+      "para el puesto."
+    ],
+    "answer": [
+      "fuimos",
+      "elegidos",
+      "para el puesto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were selected for the role.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-023-vosotros-elegidos-para-el-puesto",
+    "prompt_en": "You all were selected for the role.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "elegidos",
+      "para el puesto."
+    ],
+    "answer": [
+      "fuisteis",
+      "elegidos",
+      "para el puesto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were selected for the role.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-024-ellos-elegidos-para-el-puesto",
+    "prompt_en": "They were selected for the role.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "elegidos",
+      "para el puesto."
+    ],
+    "answer": [
+      "fueron",
+      "elegidos",
+      "para el puesto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were selected for the role.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-025-yo-el-ganador-del-juego",
+    "prompt_en": "I was the winner of the game.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el ganador",
+      "del juego."
+    ],
+    "answer": [
+      "fui",
+      "el ganador",
+      "del juego."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the winner of the game.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-026-tu-el-ganador-del-juego",
+    "prompt_en": "You were the winner of the game.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el ganador",
+      "del juego."
+    ],
+    "answer": [
+      "fuiste",
+      "el ganador",
+      "del juego."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the winner of the game.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-027-ella-la-ganadora-del-juego",
+    "prompt_en": "She was the winner of the game.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la ganadora",
+      "del juego."
+    ],
+    "answer": [
+      "fue",
+      "la ganadora",
+      "del juego."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the winner of the game.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-028-nosotros-los-ganadores-del-juego",
+    "prompt_en": "We were the winner of the game.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los ganadores",
+      "del juego."
+    ],
+    "answer": [
+      "fuimos",
+      "los ganadores",
+      "del juego."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the winner of the game.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-029-vosotros-los-ganadores-del-juego",
+    "prompt_en": "You all were the winner of the game.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los ganadores",
+      "del juego."
+    ],
+    "answer": [
+      "fuisteis",
+      "los ganadores",
+      "del juego."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the winner of the game.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-030-ellos-los-ganadores-del-juego",
+    "prompt_en": "They were the winner of the game.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los ganadores",
+      "del juego."
+    ],
+    "answer": [
+      "fueron",
+      "los ganadores",
+      "del juego."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the winner of the game.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-031-yo-el-organizador-de-la-cena",
+    "prompt_en": "I was the organizer of the dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el organizador",
+      "de la cena."
+    ],
+    "answer": [
+      "fui",
+      "el organizador",
+      "de la cena."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the organizer of the dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-032-tu-el-organizador-de-la-cena",
+    "prompt_en": "You were the organizer of the dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el organizador",
+      "de la cena."
+    ],
+    "answer": [
+      "fuiste",
+      "el organizador",
+      "de la cena."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the organizer of the dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-033-ella-la-organizadora-de-la-cena",
+    "prompt_en": "She was the organizer of the dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la organizadora",
+      "de la cena."
+    ],
+    "answer": [
+      "fue",
+      "la organizadora",
+      "de la cena."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the organizer of the dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-034-nosotros-los-organizadores-de-la-cena",
+    "prompt_en": "We were the organizer of the dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los organizadores",
+      "de la cena."
+    ],
+    "answer": [
+      "fuimos",
+      "los organizadores",
+      "de la cena."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the organizer of the dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-035-vosotros-los-organizadores-de-la-cena",
+    "prompt_en": "You all were the organizer of the dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los organizadores",
+      "de la cena."
+    ],
+    "answer": [
+      "fuisteis",
+      "los organizadores",
+      "de la cena."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the organizer of the dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-036-ellos-los-organizadores-de-la-cena",
+    "prompt_en": "They were the organizer of the dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los organizadores",
+      "de la cena."
+    ],
+    "answer": [
+      "fueron",
+      "los organizadores",
+      "de la cena."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the organizer of the dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-037-yo-el-cliente-que-se-quejo",
+    "prompt_en": "I was the client who complained.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el cliente",
+      "que se quejó."
+    ],
+    "answer": [
+      "fui",
+      "el cliente",
+      "que se quejó."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the client who complained.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-038-tu-el-cliente-que-se-quejo",
+    "prompt_en": "You were the client who complained.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el cliente",
+      "que se quejó."
+    ],
+    "answer": [
+      "fuiste",
+      "el cliente",
+      "que se quejó."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the client who complained.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-039-ella-la-clienta-que-se-quejo",
+    "prompt_en": "She was the client who complained.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la clienta",
+      "que se quejó."
+    ],
+    "answer": [
+      "fue",
+      "la clienta",
+      "que se quejó."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the client who complained.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-040-nosotros-los-clientes-que-se-quejaron",
+    "prompt_en": "We were the client who complained.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los clientes",
+      "que se quejaron."
+    ],
+    "answer": [
+      "fuimos",
+      "los clientes",
+      "que se quejaron."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the client who complained.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-041-vosotros-los-clientes-que-se-quejaron",
+    "prompt_en": "You all were the client who complained.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los clientes",
+      "que se quejaron."
+    ],
+    "answer": [
+      "fuisteis",
+      "los clientes",
+      "que se quejaron."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the client who complained.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-042-ellos-los-clientes-que-se-quejaron",
+    "prompt_en": "They were the client who complained.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los clientes",
+      "que se quejaron."
+    ],
+    "answer": [
+      "fueron",
+      "los clientes",
+      "que se quejaron."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the client who complained.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-043-yo-el-ponente-en-la-conferencia",
+    "prompt_en": "I was the speaker at the conference.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el ponente",
+      "en la conferencia."
+    ],
+    "answer": [
+      "fui",
+      "el ponente",
+      "en la conferencia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the speaker at the conference.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-044-tu-el-ponente-en-la-conferencia",
+    "prompt_en": "You were the speaker at the conference.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el ponente",
+      "en la conferencia."
+    ],
+    "answer": [
+      "fuiste",
+      "el ponente",
+      "en la conferencia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the speaker at the conference.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-045-ella-la-ponente-en-la-conferencia",
+    "prompt_en": "She was the speaker at the conference.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la ponente",
+      "en la conferencia."
+    ],
+    "answer": [
+      "fue",
+      "la ponente",
+      "en la conferencia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the speaker at the conference.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-046-nosotros-los-ponentes-en-la-conferencia",
+    "prompt_en": "We were the speaker at the conference.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los ponentes",
+      "en la conferencia."
+    ],
+    "answer": [
+      "fuimos",
+      "los ponentes",
+      "en la conferencia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the speaker at the conference.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-047-vosotros-los-ponentes-en-la-conferencia",
+    "prompt_en": "You all were the speaker at the conference.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los ponentes",
+      "en la conferencia."
+    ],
+    "answer": [
+      "fuisteis",
+      "los ponentes",
+      "en la conferencia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the speaker at the conference.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-048-ellos-los-ponentes-en-la-conferencia",
+    "prompt_en": "They were the speaker at the conference.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los ponentes",
+      "en la conferencia."
+    ],
+    "answer": [
+      "fueron",
+      "los ponentes",
+      "en la conferencia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the speaker at the conference.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-049-yo-testigo-del-accidente",
+    "prompt_en": "I was a witness to the accident.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "testigo",
+      "del accidente."
+    ],
+    "answer": [
+      "fui",
+      "testigo",
+      "del accidente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was a witness to the accident.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-050-tu-testigo-del-accidente",
+    "prompt_en": "You were a witness to the accident.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "testigo",
+      "del accidente."
+    ],
+    "answer": [
+      "fuiste",
+      "testigo",
+      "del accidente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were a witness to the accident.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-051-ella-testigo-del-accidente",
+    "prompt_en": "She was a witness to the accident.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "testigo",
+      "del accidente."
+    ],
+    "answer": [
+      "fue",
+      "testigo",
+      "del accidente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was a witness to the accident.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-052-nosotros-testigos-del-accidente",
+    "prompt_en": "We were a witness to the accident.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "testigos",
+      "del accidente."
+    ],
+    "answer": [
+      "fuimos",
+      "testigos",
+      "del accidente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were a witness to the accident.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-053-vosotros-testigos-del-accidente",
+    "prompt_en": "You all were a witness to the accident.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "testigos",
+      "del accidente."
+    ],
+    "answer": [
+      "fuisteis",
+      "testigos",
+      "del accidente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were a witness to the accident.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-054-ellos-testigos-del-accidente",
+    "prompt_en": "They were a witness to the accident.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "testigos",
+      "del accidente."
+    ],
+    "answer": [
+      "fueron",
+      "testigos",
+      "del accidente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were a witness to the accident.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-055-yo-la-causa-del-retraso",
+    "prompt_en": "I was the cause of the delay.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la causa",
+      "del retraso."
+    ],
+    "answer": [
+      "fui",
+      "la causa",
+      "del retraso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the cause of the delay.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-056-tu-la-causa-del-retraso",
+    "prompt_en": "You were the cause of the delay.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la causa",
+      "del retraso."
+    ],
+    "answer": [
+      "fuiste",
+      "la causa",
+      "del retraso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the cause of the delay.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-057-ella-la-causa-del-retraso",
+    "prompt_en": "She was the cause of the delay.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la causa",
+      "del retraso."
+    ],
+    "answer": [
+      "fue",
+      "la causa",
+      "del retraso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the cause of the delay.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-058-nosotros-la-causa-del-retraso",
+    "prompt_en": "We were the cause of the delay.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la causa",
+      "del retraso."
+    ],
+    "answer": [
+      "fuimos",
+      "la causa",
+      "del retraso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the cause of the delay.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-059-vosotros-la-causa-del-retraso",
+    "prompt_en": "You all were the cause of the delay.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la causa",
+      "del retraso."
+    ],
+    "answer": [
+      "fuisteis",
+      "la causa",
+      "del retraso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the cause of the delay.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-060-ellos-la-causa-del-retraso",
+    "prompt_en": "They were the cause of the delay.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la causa",
+      "del retraso."
+    ],
+    "answer": [
+      "fueron",
+      "la causa",
+      "del retraso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the cause of the delay.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-061-yo-la-solucion-al-final",
+    "prompt_en": "I was the solution in the end.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la solución",
+      "al final."
+    ],
+    "answer": [
+      "fui",
+      "la solución",
+      "al final."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the solution in the end.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-062-tu-la-solucion-al-final",
+    "prompt_en": "You were the solution in the end.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la solución",
+      "al final."
+    ],
+    "answer": [
+      "fuiste",
+      "la solución",
+      "al final."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the solution in the end.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-063-ella-la-solucion-al-final",
+    "prompt_en": "She was the solution in the end.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la solución",
+      "al final."
+    ],
+    "answer": [
+      "fue",
+      "la solución",
+      "al final."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the solution in the end.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-064-nosotros-la-solucion-al-final",
+    "prompt_en": "We were the solution in the end.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la solución",
+      "al final."
+    ],
+    "answer": [
+      "fuimos",
+      "la solución",
+      "al final."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the solution in the end.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-065-vosotros-la-solucion-al-final",
+    "prompt_en": "You all were the solution in the end.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la solución",
+      "al final."
+    ],
+    "answer": [
+      "fuisteis",
+      "la solución",
+      "al final."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the solution in the end.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-066-ellos-la-solucion-al-final",
+    "prompt_en": "They were the solution in the end.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la solución",
+      "al final."
+    ],
+    "answer": [
+      "fueron",
+      "la solución",
+      "al final."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the solution in the end.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-067-yo-el-encargado-ayer",
+    "prompt_en": "I was in charge yesterday.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el encargado",
+      "ayer."
+    ],
+    "answer": [
+      "fui",
+      "el encargado",
+      "ayer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in charge yesterday.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-068-tu-el-encargado-ayer",
+    "prompt_en": "You were in charge yesterday.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el encargado",
+      "ayer."
+    ],
+    "answer": [
+      "fuiste",
+      "el encargado",
+      "ayer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were in charge yesterday.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-069-ella-la-encargada-ayer",
+    "prompt_en": "She was in charge yesterday.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la encargada",
+      "ayer."
+    ],
+    "answer": [
+      "fue",
+      "la encargada",
+      "ayer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was in charge yesterday.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-070-nosotros-los-encargados-ayer",
+    "prompt_en": "We were in charge yesterday.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los encargados",
+      "ayer."
+    ],
+    "answer": [
+      "fuimos",
+      "los encargados",
+      "ayer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were in charge yesterday.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-071-vosotros-los-encargados-ayer",
+    "prompt_en": "You all were in charge yesterday.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los encargados",
+      "ayer."
+    ],
+    "answer": [
+      "fuisteis",
+      "los encargados",
+      "ayer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were in charge yesterday.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-072-ellos-los-encargados-ayer",
+    "prompt_en": "They were in charge yesterday.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los encargados",
+      "ayer."
+    ],
+    "answer": [
+      "fueron",
+      "los encargados",
+      "ayer."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were in charge yesterday.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-073-yo-el-guia-de-la-visita",
+    "prompt_en": "I was the guide for the visit.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el guía",
+      "de la visita."
+    ],
+    "answer": [
+      "fui",
+      "el guía",
+      "de la visita."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the guide for the visit.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-074-tu-el-guia-de-la-visita",
+    "prompt_en": "You were the guide for the visit.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el guía",
+      "de la visita."
+    ],
+    "answer": [
+      "fuiste",
+      "el guía",
+      "de la visita."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the guide for the visit.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-075-ella-la-guia-de-la-visita",
+    "prompt_en": "She was the guide for the visit.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la guía",
+      "de la visita."
+    ],
+    "answer": [
+      "fue",
+      "la guía",
+      "de la visita."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the guide for the visit.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-076-nosotros-los-guias-de-la-visita",
+    "prompt_en": "We were the guide for the visit.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los guías",
+      "de la visita."
+    ],
+    "answer": [
+      "fuimos",
+      "los guías",
+      "de la visita."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the guide for the visit.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-077-vosotros-los-guias-de-la-visita",
+    "prompt_en": "You all were the guide for the visit.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los guías",
+      "de la visita."
+    ],
+    "answer": [
+      "fuisteis",
+      "los guías",
+      "de la visita."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the guide for the visit.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-078-ellos-los-guias-de-la-visita",
+    "prompt_en": "They were the guide for the visit.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los guías",
+      "de la visita."
+    ],
+    "answer": [
+      "fueron",
+      "los guías",
+      "de la visita."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the guide for the visit.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-079-yo-el-conductor-esa-noche",
+    "prompt_en": "I was the driver that night.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el conductor",
+      "esa noche."
+    ],
+    "answer": [
+      "fui",
+      "el conductor",
+      "esa noche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the driver that night.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-080-tu-el-conductor-esa-noche",
+    "prompt_en": "You were the driver that night.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el conductor",
+      "esa noche."
+    ],
+    "answer": [
+      "fuiste",
+      "el conductor",
+      "esa noche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the driver that night.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-081-ella-la-conductora-esa-noche",
+    "prompt_en": "She was the driver that night.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la conductora",
+      "esa noche."
+    ],
+    "answer": [
+      "fue",
+      "la conductora",
+      "esa noche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the driver that night.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-082-nosotros-los-conductores-esa-noche",
+    "prompt_en": "We were the driver that night.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los conductores",
+      "esa noche."
+    ],
+    "answer": [
+      "fuimos",
+      "los conductores",
+      "esa noche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the driver that night.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-083-vosotros-los-conductores-esa-noche",
+    "prompt_en": "You all were the driver that night.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los conductores",
+      "esa noche."
+    ],
+    "answer": [
+      "fuisteis",
+      "los conductores",
+      "esa noche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the driver that night.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-084-ellos-los-conductores-esa-noche",
+    "prompt_en": "They were the driver that night.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los conductores",
+      "esa noche."
+    ],
+    "answer": [
+      "fueron",
+      "los conductores",
+      "esa noche."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the driver that night.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-085-yo-el-autor-de-ese-correo",
+    "prompt_en": "I was the author of that email.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el autor",
+      "de ese correo."
+    ],
+    "answer": [
+      "fui",
+      "el autor",
+      "de ese correo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the author of that email.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-086-tu-el-autor-de-ese-correo",
+    "prompt_en": "You were the author of that email.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el autor",
+      "de ese correo."
+    ],
+    "answer": [
+      "fuiste",
+      "el autor",
+      "de ese correo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the author of that email.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-087-ella-la-autora-de-ese-correo",
+    "prompt_en": "She was the author of that email.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la autora",
+      "de ese correo."
+    ],
+    "answer": [
+      "fue",
+      "la autora",
+      "de ese correo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the author of that email.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-088-nosotros-los-autores-de-ese-correo",
+    "prompt_en": "We were the author of that email.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los autores",
+      "de ese correo."
+    ],
+    "answer": [
+      "fuimos",
+      "los autores",
+      "de ese correo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the author of that email.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-089-vosotros-los-autores-de-ese-correo",
+    "prompt_en": "You all were the author of that email.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los autores",
+      "de ese correo."
+    ],
+    "answer": [
+      "fuisteis",
+      "los autores",
+      "de ese correo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the author of that email.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-090-ellos-los-autores-de-ese-correo",
+    "prompt_en": "They were the author of that email.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los autores",
+      "de ese correo."
+    ],
+    "answer": [
+      "fueron",
+      "los autores",
+      "de ese correo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the author of that email.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-091-yo-el-primero-en-saberlo",
+    "prompt_en": "I was the first to know.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el primero",
+      "en saberlo."
+    ],
+    "answer": [
+      "fui",
+      "el primero",
+      "en saberlo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the first to know.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-092-tu-el-primero-en-saberlo",
+    "prompt_en": "You were the first to know.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "el primero",
+      "en saberlo."
+    ],
+    "answer": [
+      "fuiste",
+      "el primero",
+      "en saberlo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the first to know.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-093-ella-la-primera-en-saberlo",
+    "prompt_en": "She was the first to know.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "la primera",
+      "en saberlo."
+    ],
+    "answer": [
+      "fue",
+      "la primera",
+      "en saberlo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the first to know.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-094-nosotros-los-primeros-en-saberlo",
+    "prompt_en": "We were the first to know.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los primeros",
+      "en saberlo."
+    ],
+    "answer": [
+      "fuimos",
+      "los primeros",
+      "en saberlo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the first to know.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-095-vosotros-los-primeros-en-saberlo",
+    "prompt_en": "You all were the first to know.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los primeros",
+      "en saberlo."
+    ],
+    "answer": [
+      "fuisteis",
+      "los primeros",
+      "en saberlo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the first to know.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-096-ellos-los-primeros-en-saberlo",
+    "prompt_en": "They were the first to know.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "los primeros",
+      "en saberlo."
+    ],
+    "answer": [
+      "fueron",
+      "los primeros",
+      "en saberlo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the first to know.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-097-yo-quien-cometio-el-error",
+    "prompt_en": "I was the one who made the mistake.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "quien cometió",
+      "el error."
+    ],
+    "answer": [
+      "fui",
+      "quien cometió",
+      "el error."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the one who made the mistake.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-098-tu-quien-cometio-el-error",
+    "prompt_en": "You were the one who made the mistake.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "quien cometió",
+      "el error."
+    ],
+    "answer": [
+      "fuiste",
+      "quien cometió",
+      "el error."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the one who made the mistake.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-099-ella-quien-cometio-el-error",
+    "prompt_en": "She was the one who made the mistake.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "quien cometió",
+      "el error."
+    ],
+    "answer": [
+      "fue",
+      "quien cometió",
+      "el error."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the one who made the mistake.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-100-nosotros-quienes-cometieron-el-error",
+    "prompt_en": "We were the one who made the mistake.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "quienes cometieron",
+      "el error."
+    ],
+    "answer": [
+      "fuimos",
+      "quienes cometieron",
+      "el error."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the one who made the mistake.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  }
+]

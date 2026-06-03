@@ -1,0 +1,3802 @@
+[
+  {
+    "id": "anchors-estaba-001-yo-en-casa-cuando-empezo-la-tormenta",
+    "prompt_en": "I was at home when the storm began.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "answer": [
+      "estaba",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was at home when the storm began.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-002-tu-en-casa-cuando-empezo-la-tormenta",
+    "prompt_en": "You were at home when the storm began.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "answer": [
+      "estabas",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were at home when the storm began.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-003-ella-en-casa-cuando-empezo-la-tormenta",
+    "prompt_en": "She was at home when the storm began.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "answer": [
+      "estaba",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was at home when the storm began.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-004-nosotros-en-casa-cuando-empezo-la-tormenta",
+    "prompt_en": "We were at home when the storm began.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "answer": [
+      "estábamos",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were at home when the storm began.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-005-vosotros-en-casa-cuando-empezo-la-tormenta",
+    "prompt_en": "You all were at home when the storm began.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "answer": [
+      "estabais",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were at home when the storm began.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-006-ellos-en-casa-cuando-empezo-la-tormenta",
+    "prompt_en": "They were at home when the storm began.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "answer": [
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were at home when the storm began.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-007-yo-cansado-cuando-termino-la-reunion",
+    "prompt_en": "I was tired when the meeting ended.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "cansado",
+      "cuando terminó la reunión."
+    ],
+    "answer": [
+      "estaba",
+      "cansado",
+      "cuando terminó la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was tired when the meeting ended.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-008-tu-cansado-cuando-termino-la-reunion",
+    "prompt_en": "You were tired when the meeting ended.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "cansado",
+      "cuando terminó la reunión."
+    ],
+    "answer": [
+      "estabas",
+      "cansado",
+      "cuando terminó la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were tired when the meeting ended.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-009-ella-cansada-cuando-termino-la-reunion",
+    "prompt_en": "She was tired when the meeting ended.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "cansada",
+      "cuando terminó la reunión."
+    ],
+    "answer": [
+      "estaba",
+      "cansada",
+      "cuando terminó la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was tired when the meeting ended.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-010-nosotros-cansados-cuando-termino-la-reunion",
+    "prompt_en": "We were tired when the meeting ended.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "cansados",
+      "cuando terminó la reunión."
+    ],
+    "answer": [
+      "estábamos",
+      "cansados",
+      "cuando terminó la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were tired when the meeting ended.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-011-vosotros-cansados-cuando-termino-la-reunion",
+    "prompt_en": "You all were tired when the meeting ended.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "cansados",
+      "cuando terminó la reunión."
+    ],
+    "answer": [
+      "estabais",
+      "cansados",
+      "cuando terminó la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were tired when the meeting ended.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-012-ellos-cansados-cuando-termino-la-reunion",
+    "prompt_en": "They were tired when the meeting ended.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "cansados",
+      "cuando terminó la reunión."
+    ],
+    "answer": [
+      "estaban",
+      "cansados",
+      "cuando terminó la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were tired when the meeting ended.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-013-yo-nervioso-antes-de-la-entrevista",
+    "prompt_en": "I was nervous before the interview.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "nervioso",
+      "antes de la entrevista."
+    ],
+    "answer": [
+      "estaba",
+      "nervioso",
+      "antes de la entrevista."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was nervous before the interview.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-014-tu-nervioso-antes-de-la-entrevista",
+    "prompt_en": "You were nervous before the interview.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "nervioso",
+      "antes de la entrevista."
+    ],
+    "answer": [
+      "estabas",
+      "nervioso",
+      "antes de la entrevista."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were nervous before the interview.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-015-ella-nerviosa-antes-de-la-entrevista",
+    "prompt_en": "She was nervous before the interview.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "nerviosa",
+      "antes de la entrevista."
+    ],
+    "answer": [
+      "estaba",
+      "nerviosa",
+      "antes de la entrevista."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was nervous before the interview.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-016-nosotros-nerviosos-antes-de-la-entrevista",
+    "prompt_en": "We were nervous before the interview.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "nerviosos",
+      "antes de la entrevista."
+    ],
+    "answer": [
+      "estábamos",
+      "nerviosos",
+      "antes de la entrevista."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were nervous before the interview.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-017-vosotros-nerviosos-antes-de-la-entrevista",
+    "prompt_en": "You all were nervous before the interview.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "nerviosos",
+      "antes de la entrevista."
+    ],
+    "answer": [
+      "estabais",
+      "nerviosos",
+      "antes de la entrevista."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were nervous before the interview.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-018-ellos-nerviosos-antes-de-la-entrevista",
+    "prompt_en": "They were nervous before the interview.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "nerviosos",
+      "antes de la entrevista."
+    ],
+    "answer": [
+      "estaban",
+      "nerviosos",
+      "antes de la entrevista."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were nervous before the interview.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-019-yo-leyendo-cuando-llego-el-mensaje",
+    "prompt_en": "I was reading when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estaba",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was reading when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-020-tu-leyendo-cuando-llego-el-mensaje",
+    "prompt_en": "You were reading when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estabas",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were reading when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-021-ella-leyendo-cuando-llego-el-mensaje",
+    "prompt_en": "She was reading when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estaba",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was reading when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-022-nosotros-leyendo-cuando-llego-el-mensaje",
+    "prompt_en": "We were reading when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estábamos",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were reading when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-023-vosotros-leyendo-cuando-llego-el-mensaje",
+    "prompt_en": "You all were reading when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estabais",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were reading when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-024-ellos-leyendo-cuando-llego-el-mensaje",
+    "prompt_en": "They were reading when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were reading when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-025-yo-ocupado-cuando-llego-el-cliente",
+    "prompt_en": "I was busy when the client arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "ocupado",
+      "cuando llegó el cliente."
+    ],
+    "answer": [
+      "estaba",
+      "ocupado",
+      "cuando llegó el cliente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was busy when the client arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-026-tu-ocupado-cuando-llego-el-cliente",
+    "prompt_en": "You were busy when the client arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "ocupado",
+      "cuando llegó el cliente."
+    ],
+    "answer": [
+      "estabas",
+      "ocupado",
+      "cuando llegó el cliente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were busy when the client arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-027-ella-ocupada-cuando-llego-el-cliente",
+    "prompt_en": "She was busy when the client arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "ocupada",
+      "cuando llegó el cliente."
+    ],
+    "answer": [
+      "estaba",
+      "ocupada",
+      "cuando llegó el cliente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was busy when the client arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-028-nosotros-ocupados-cuando-llego-el-cliente",
+    "prompt_en": "We were busy when the client arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "ocupados",
+      "cuando llegó el cliente."
+    ],
+    "answer": [
+      "estábamos",
+      "ocupados",
+      "cuando llegó el cliente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were busy when the client arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-029-vosotros-ocupados-cuando-llego-el-cliente",
+    "prompt_en": "You all were busy when the client arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "ocupados",
+      "cuando llegó el cliente."
+    ],
+    "answer": [
+      "estabais",
+      "ocupados",
+      "cuando llegó el cliente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were busy when the client arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-030-ellos-ocupados-cuando-llego-el-cliente",
+    "prompt_en": "They were busy when the client arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "ocupados",
+      "cuando llegó el cliente."
+    ],
+    "answer": [
+      "estaban",
+      "ocupados",
+      "cuando llegó el cliente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were busy when the client arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-031-yo-fuera-cuando-empezo-a-llover",
+    "prompt_en": "I was outside when it started raining.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "answer": [
+      "estaba",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was outside when it started raining.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-032-tu-fuera-cuando-empezo-a-llover",
+    "prompt_en": "You were outside when it started raining.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "answer": [
+      "estabas",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were outside when it started raining.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-033-ella-fuera-cuando-empezo-a-llover",
+    "prompt_en": "She was outside when it started raining.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "answer": [
+      "estaba",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was outside when it started raining.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-034-nosotros-fuera-cuando-empezo-a-llover",
+    "prompt_en": "We were outside when it started raining.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "answer": [
+      "estábamos",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were outside when it started raining.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-035-vosotros-fuera-cuando-empezo-a-llover",
+    "prompt_en": "You all were outside when it started raining.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "answer": [
+      "estabais",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were outside when it started raining.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-036-ellos-fuera-cuando-empezo-a-llover",
+    "prompt_en": "They were outside when it started raining.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "answer": [
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were outside when it started raining.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-037-yo-en-el-hospital-cuando-volvio-el-medico",
+    "prompt_en": "I was in hospital when the doctor returned.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "answer": [
+      "estaba",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was in hospital when the doctor returned.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-038-tu-en-el-hospital-cuando-volvio-el-medico",
+    "prompt_en": "You were in hospital when the doctor returned.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "answer": [
+      "estabas",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were in hospital when the doctor returned.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-039-ella-en-el-hospital-cuando-volvio-el-medico",
+    "prompt_en": "She was in hospital when the doctor returned.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "answer": [
+      "estaba",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was in hospital when the doctor returned.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-040-nosotros-en-el-hospital-cuando-volvio-el-medico",
+    "prompt_en": "We were in hospital when the doctor returned.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "answer": [
+      "estábamos",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were in hospital when the doctor returned.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-041-vosotros-en-el-hospital-cuando-volvio-el-medico",
+    "prompt_en": "You all were in hospital when the doctor returned.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "answer": [
+      "estabais",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were in hospital when the doctor returned.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-042-ellos-en-el-hospital-cuando-volvio-el-medico",
+    "prompt_en": "They were in hospital when the doctor returned.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "answer": [
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were in hospital when the doctor returned.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-043-yo-enfadado-cuando-llego-el-mensaje",
+    "prompt_en": "I was angry when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "enfadado",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estaba",
+      "enfadado",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was angry when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-044-tu-enfadado-cuando-llego-el-mensaje",
+    "prompt_en": "You were angry when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "enfadado",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estabas",
+      "enfadado",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were angry when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-045-ella-enfadada-cuando-llego-el-mensaje",
+    "prompt_en": "She was angry when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "enfadada",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estaba",
+      "enfadada",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was angry when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-046-nosotros-enfadados-cuando-llego-el-mensaje",
+    "prompt_en": "We were angry when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "enfadados",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estábamos",
+      "enfadados",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were angry when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-047-vosotros-enfadados-cuando-llego-el-mensaje",
+    "prompt_en": "You all were angry when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "enfadados",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estabais",
+      "enfadados",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were angry when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-048-ellos-enfadados-cuando-llego-el-mensaje",
+    "prompt_en": "They were angry when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "enfadados",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estaban",
+      "enfadados",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were angry when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-049-yo-en-el-banco-cuando-se-fue-la-luz",
+    "prompt_en": "I was at the bank when the power went out.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "answer": [
+      "estaba",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was at the bank when the power went out.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-050-tu-en-el-banco-cuando-se-fue-la-luz",
+    "prompt_en": "You were at the bank when the power went out.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "answer": [
+      "estabas",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were at the bank when the power went out.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-051-ella-en-el-banco-cuando-se-fue-la-luz",
+    "prompt_en": "She was at the bank when the power went out.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "answer": [
+      "estaba",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was at the bank when the power went out.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-052-nosotros-en-el-banco-cuando-se-fue-la-luz",
+    "prompt_en": "We were at the bank when the power went out.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "answer": [
+      "estábamos",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were at the bank when the power went out.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-053-vosotros-en-el-banco-cuando-se-fue-la-luz",
+    "prompt_en": "You all were at the bank when the power went out.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "answer": [
+      "estabais",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were at the bank when the power went out.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-054-ellos-en-el-banco-cuando-se-fue-la-luz",
+    "prompt_en": "They were at the bank when the power went out.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "answer": [
+      "estaban",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were at the bank when the power went out.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-055-yo-feliz-cuando-llego-la-noticia",
+    "prompt_en": "I was happy when the news arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "feliz",
+      "cuando llegó la noticia."
+    ],
+    "answer": [
+      "estaba",
+      "feliz",
+      "cuando llegó la noticia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was happy when the news arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-056-tu-feliz-cuando-llego-la-noticia",
+    "prompt_en": "You were happy when the news arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "feliz",
+      "cuando llegó la noticia."
+    ],
+    "answer": [
+      "estabas",
+      "feliz",
+      "cuando llegó la noticia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were happy when the news arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-057-ella-feliz-cuando-llego-la-noticia",
+    "prompt_en": "She was happy when the news arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "feliz",
+      "cuando llegó la noticia."
+    ],
+    "answer": [
+      "estaba",
+      "feliz",
+      "cuando llegó la noticia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was happy when the news arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-058-nosotros-felices-cuando-llego-la-noticia",
+    "prompt_en": "We were happy when the news arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "felices",
+      "cuando llegó la noticia."
+    ],
+    "answer": [
+      "estábamos",
+      "felices",
+      "cuando llegó la noticia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were happy when the news arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-059-vosotros-felices-cuando-llego-la-noticia",
+    "prompt_en": "You all were happy when the news arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "felices",
+      "cuando llegó la noticia."
+    ],
+    "answer": [
+      "estabais",
+      "felices",
+      "cuando llegó la noticia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were happy when the news arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-060-ellos-felices-cuando-llego-la-noticia",
+    "prompt_en": "They were happy when the news arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "felices",
+      "cuando llegó la noticia."
+    ],
+    "answer": [
+      "estaban",
+      "felices",
+      "cuando llegó la noticia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were happy when the news arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-061-yo-de-vacaciones-cuando-ocurrio-el-problema",
+    "prompt_en": "I was on holiday when the problem happened.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "answer": [
+      "estaba",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was on holiday when the problem happened.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-062-tu-de-vacaciones-cuando-ocurrio-el-problema",
+    "prompt_en": "You were on holiday when the problem happened.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "answer": [
+      "estabas",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were on holiday when the problem happened.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-063-ella-de-vacaciones-cuando-ocurrio-el-problema",
+    "prompt_en": "She was on holiday when the problem happened.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "answer": [
+      "estaba",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was on holiday when the problem happened.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-064-nosotros-de-vacaciones-cuando-ocurrio-el-problema",
+    "prompt_en": "We were on holiday when the problem happened.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "answer": [
+      "estábamos",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were on holiday when the problem happened.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-065-vosotros-de-vacaciones-cuando-ocurrio-el-problema",
+    "prompt_en": "You all were on holiday when the problem happened.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "answer": [
+      "estabais",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were on holiday when the problem happened.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-066-ellos-de-vacaciones-cuando-ocurrio-el-problema",
+    "prompt_en": "They were on holiday when the problem happened.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "answer": [
+      "estaban",
+      "de vacaciones",
+      "cuando ocurrió el problema."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were on holiday when the problem happened.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-067-yo-estresado-porque-el-tren-llegaba-tarde",
+    "prompt_en": "I was stressed because the train was late.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "estresado",
+      "porque el tren llegaba tarde."
+    ],
+    "answer": [
+      "estaba",
+      "estresado",
+      "porque el tren llegaba tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was stressed because the train was late.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-068-tu-estresado-porque-el-tren-llegaba-tarde",
+    "prompt_en": "You were stressed because the train was late.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "estresado",
+      "porque el tren llegaba tarde."
+    ],
+    "answer": [
+      "estabas",
+      "estresado",
+      "porque el tren llegaba tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were stressed because the train was late.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-069-ella-estresada-porque-el-tren-llegaba-tarde",
+    "prompt_en": "She was stressed because the train was late.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "estresada",
+      "porque el tren llegaba tarde."
+    ],
+    "answer": [
+      "estaba",
+      "estresada",
+      "porque el tren llegaba tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was stressed because the train was late.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-070-nosotros-estresados-porque-el-tren-llegaba-tarde",
+    "prompt_en": "We were stressed because the train was late.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "estresados",
+      "porque el tren llegaba tarde."
+    ],
+    "answer": [
+      "estábamos",
+      "estresados",
+      "porque el tren llegaba tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were stressed because the train was late.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-071-vosotros-estresados-porque-el-tren-llegaba-tarde",
+    "prompt_en": "You all were stressed because the train was late.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "estresados",
+      "porque el tren llegaba tarde."
+    ],
+    "answer": [
+      "estabais",
+      "estresados",
+      "porque el tren llegaba tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were stressed because the train was late.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-072-ellos-estresados-porque-el-tren-llegaba-tarde",
+    "prompt_en": "They were stressed because the train was late.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "estresados",
+      "porque el tren llegaba tarde."
+    ],
+    "answer": [
+      "estaban",
+      "estresados",
+      "porque el tren llegaba tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were stressed because the train was late.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-073-yo-en-la-cocina-cuando-llegaron-los-invitados",
+    "prompt_en": "I was in the kitchen when the guests arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "answer": [
+      "estaba",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was in the kitchen when the guests arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-074-tu-en-la-cocina-cuando-llegaron-los-invitados",
+    "prompt_en": "You were in the kitchen when the guests arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "answer": [
+      "estabas",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were in the kitchen when the guests arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-075-ella-en-la-cocina-cuando-llegaron-los-invitados",
+    "prompt_en": "She was in the kitchen when the guests arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "answer": [
+      "estaba",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was in the kitchen when the guests arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-076-nosotros-en-la-cocina-cuando-llegaron-los-invitados",
+    "prompt_en": "We were in the kitchen when the guests arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "answer": [
+      "estábamos",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were in the kitchen when the guests arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-077-vosotros-en-la-cocina-cuando-llegaron-los-invitados",
+    "prompt_en": "You all were in the kitchen when the guests arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "answer": [
+      "estabais",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were in the kitchen when the guests arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-078-ellos-en-la-cocina-cuando-llegaron-los-invitados",
+    "prompt_en": "They were in the kitchen when the guests arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "answer": [
+      "estaban",
+      "en la cocina",
+      "cuando llegaron los invitados."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were in the kitchen when the guests arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-079-yo-disponible-cuando-hacia-falta-ayuda",
+    "prompt_en": "I was available when help was needed.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "disponible",
+      "cuando hacía falta ayuda."
+    ],
+    "answer": [
+      "estaba",
+      "disponible",
+      "cuando hacía falta ayuda."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was available when help was needed.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-080-tu-disponible-cuando-hacia-falta-ayuda",
+    "prompt_en": "You were available when help was needed.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "disponible",
+      "cuando hacía falta ayuda."
+    ],
+    "answer": [
+      "estabas",
+      "disponible",
+      "cuando hacía falta ayuda."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were available when help was needed.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-081-ella-disponible-cuando-hacia-falta-ayuda",
+    "prompt_en": "She was available when help was needed.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "disponible",
+      "cuando hacía falta ayuda."
+    ],
+    "answer": [
+      "estaba",
+      "disponible",
+      "cuando hacía falta ayuda."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was available when help was needed.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-082-nosotros-disponibles-cuando-hacia-falta-ayuda",
+    "prompt_en": "We were available when help was needed.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "disponibles",
+      "cuando hacía falta ayuda."
+    ],
+    "answer": [
+      "estábamos",
+      "disponibles",
+      "cuando hacía falta ayuda."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were available when help was needed.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-083-vosotros-disponibles-cuando-hacia-falta-ayuda",
+    "prompt_en": "You all were available when help was needed.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "disponibles",
+      "cuando hacía falta ayuda."
+    ],
+    "answer": [
+      "estabais",
+      "disponibles",
+      "cuando hacía falta ayuda."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were available when help was needed.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-084-ellos-disponibles-cuando-hacia-falta-ayuda",
+    "prompt_en": "They were available when help was needed.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "disponibles",
+      "cuando hacía falta ayuda."
+    ],
+    "answer": [
+      "estaban",
+      "disponibles",
+      "cuando hacía falta ayuda."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were available when help was needed.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-085-yo-preocupado-mientras-faltaba-el-resultado",
+    "prompt_en": "I was worried while the result was pending.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "preocupado",
+      "mientras faltaba el resultado."
+    ],
+    "answer": [
+      "estaba",
+      "preocupado",
+      "mientras faltaba el resultado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was worried while the result was pending.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-086-tu-preocupado-mientras-faltaba-el-resultado",
+    "prompt_en": "You were worried while the result was pending.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "preocupado",
+      "mientras faltaba el resultado."
+    ],
+    "answer": [
+      "estabas",
+      "preocupado",
+      "mientras faltaba el resultado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were worried while the result was pending.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-087-ella-preocupada-mientras-faltaba-el-resultado",
+    "prompt_en": "She was worried while the result was pending.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "preocupada",
+      "mientras faltaba el resultado."
+    ],
+    "answer": [
+      "estaba",
+      "preocupada",
+      "mientras faltaba el resultado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was worried while the result was pending.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-088-nosotros-preocupados-mientras-faltaba-el-resultado",
+    "prompt_en": "We were worried while the result was pending.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "preocupados",
+      "mientras faltaba el resultado."
+    ],
+    "answer": [
+      "estábamos",
+      "preocupados",
+      "mientras faltaba el resultado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were worried while the result was pending.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-089-vosotros-preocupados-mientras-faltaba-el-resultado",
+    "prompt_en": "You all were worried while the result was pending.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "preocupados",
+      "mientras faltaba el resultado."
+    ],
+    "answer": [
+      "estabais",
+      "preocupados",
+      "mientras faltaba el resultado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were worried while the result was pending.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-090-ellos-preocupados-mientras-faltaba-el-resultado",
+    "prompt_en": "They were worried while the result was pending.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "preocupados",
+      "mientras faltaba el resultado."
+    ],
+    "answer": [
+      "estaban",
+      "preocupados",
+      "mientras faltaba el resultado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were worried while the result was pending.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-091-yo-en-la-reunion-cuando-entro-la-llamada",
+    "prompt_en": "I was in the meeting when the call came in.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en la reunión",
+      "cuando entró la llamada."
+    ],
+    "answer": [
+      "estaba",
+      "en la reunión",
+      "cuando entró la llamada."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was in the meeting when the call came in.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-092-tu-en-la-reunion-cuando-entro-la-llamada",
+    "prompt_en": "You were in the meeting when the call came in.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en la reunión",
+      "cuando entró la llamada."
+    ],
+    "answer": [
+      "estabas",
+      "en la reunión",
+      "cuando entró la llamada."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were in the meeting when the call came in.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-093-ella-en-la-reunion-cuando-entro-la-llamada",
+    "prompt_en": "She was in the meeting when the call came in.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en la reunión",
+      "cuando entró la llamada."
+    ],
+    "answer": [
+      "estaba",
+      "en la reunión",
+      "cuando entró la llamada."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was in the meeting when the call came in.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-094-nosotros-en-la-reunion-cuando-entro-la-llamada",
+    "prompt_en": "We were in the meeting when the call came in.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en la reunión",
+      "cuando entró la llamada."
+    ],
+    "answer": [
+      "estábamos",
+      "en la reunión",
+      "cuando entró la llamada."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were in the meeting when the call came in.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-095-vosotros-en-la-reunion-cuando-entro-la-llamada",
+    "prompt_en": "You all were in the meeting when the call came in.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en la reunión",
+      "cuando entró la llamada."
+    ],
+    "answer": [
+      "estabais",
+      "en la reunión",
+      "cuando entró la llamada."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were in the meeting when the call came in.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-096-ellos-en-la-reunion-cuando-entro-la-llamada",
+    "prompt_en": "They were in the meeting when the call came in.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en la reunión",
+      "cuando entró la llamada."
+    ],
+    "answer": [
+      "estaban",
+      "en la reunión",
+      "cuando entró la llamada."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were in the meeting when the call came in.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-097-yo-preparado-cuando-llego-el-taxi",
+    "prompt_en": "I was ready when the taxi arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "preparado",
+      "cuando llegó el taxi."
+    ],
+    "answer": [
+      "estaba",
+      "preparado",
+      "cuando llegó el taxi."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was ready when the taxi arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-098-tu-preparado-cuando-llego-el-taxi",
+    "prompt_en": "You were ready when the taxi arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "preparado",
+      "cuando llegó el taxi."
+    ],
+    "answer": [
+      "estabas",
+      "preparado",
+      "cuando llegó el taxi."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were ready when the taxi arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-099-ella-preparada-cuando-llego-el-taxi",
+    "prompt_en": "She was ready when the taxi arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "preparada",
+      "cuando llegó el taxi."
+    ],
+    "answer": [
+      "estaba",
+      "preparada",
+      "cuando llegó el taxi."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was ready when the taxi arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-100-nosotros-preparados-cuando-llego-el-taxi",
+    "prompt_en": "We were ready when the taxi arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "preparados",
+      "cuando llegó el taxi."
+    ],
+    "answer": [
+      "estábamos",
+      "preparados",
+      "cuando llegó el taxi."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were ready when the taxi arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  }
+]

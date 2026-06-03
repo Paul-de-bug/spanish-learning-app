@@ -1,0 +1,3758 @@
+[
+  {
+    "id": "anchors-era-001-yo-muy-timido-de-nino",
+    "prompt_en": "I was very shy as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "muy tímido",
+      "de niño."
+    ],
+    "answer": [
+      "era",
+      "muy tímido",
+      "de niño."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was very shy as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-002-tu-muy-timido-de-nino",
+    "prompt_en": "You were very shy as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "muy tímido",
+      "de niño."
+    ],
+    "answer": [
+      "eras",
+      "muy tímido",
+      "de niño."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were very shy as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-003-ella-muy-timida-de-nina",
+    "prompt_en": "She was very shy as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "muy tímida",
+      "de niña."
+    ],
+    "answer": [
+      "era",
+      "muy tímida",
+      "de niña."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was very shy as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-004-nosotros-muy-timidos-de-ninos",
+    "prompt_en": "We were very shy as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "muy tímidos",
+      "de niños."
+    ],
+    "answer": [
+      "éramos",
+      "muy tímidos",
+      "de niños."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were very shy as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-005-vosotros-muy-timidos-de-ninos",
+    "prompt_en": "You all were very shy as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "muy tímidos",
+      "de niños."
+    ],
+    "answer": [
+      "erais",
+      "muy tímidos",
+      "de niños."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were very shy as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-006-ellos-muy-timidos-de-ninos",
+    "prompt_en": "They were very shy as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "muy tímidos",
+      "de niños."
+    ],
+    "answer": [
+      "eran",
+      "muy tímidos",
+      "de niños."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were very shy as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-007-yo-un-estudiante-tranquilo",
+    "prompt_en": "I was a quiet student.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "un estudiante tranquilo."
+    ],
+    "answer": [
+      "era",
+      "un estudiante tranquilo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a quiet student.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-008-tu-un-estudiante-tranquilo",
+    "prompt_en": "You were a quiet student.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "un estudiante tranquilo."
+    ],
+    "answer": [
+      "eras",
+      "un estudiante tranquilo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were a quiet student.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-009-ella-una-estudiante-tranquila",
+    "prompt_en": "She was a quiet student.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "una estudiante tranquila."
+    ],
+    "answer": [
+      "era",
+      "una estudiante tranquila."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was a quiet student.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-010-nosotros-unos-estudiantes-tranquilos",
+    "prompt_en": "We were a quiet student.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "unos estudiantes tranquilos."
+    ],
+    "answer": [
+      "éramos",
+      "unos estudiantes tranquilos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were a quiet student.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-011-vosotros-unos-estudiantes-tranquilos",
+    "prompt_en": "You all were a quiet student.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "unos estudiantes tranquilos."
+    ],
+    "answer": [
+      "erais",
+      "unos estudiantes tranquilos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were a quiet student.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-012-ellos-unos-estudiantes-tranquilos",
+    "prompt_en": "They were a quiet student.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "unos estudiantes tranquilos."
+    ],
+    "answer": [
+      "eran",
+      "unos estudiantes tranquilos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were a quiet student.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-013-yo-un-nino-curioso",
+    "prompt_en": "I was a curious child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "un niño curioso."
+    ],
+    "answer": [
+      "era",
+      "un niño curioso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a curious child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-014-tu-un-nino-curioso",
+    "prompt_en": "You were a curious child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "un niño curioso."
+    ],
+    "answer": [
+      "eras",
+      "un niño curioso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were a curious child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-015-ella-una-nina-curiosa",
+    "prompt_en": "She was a curious child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "una niña curiosa."
+    ],
+    "answer": [
+      "era",
+      "una niña curiosa."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was a curious child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-016-nosotros-unos-ninos-curiosos",
+    "prompt_en": "We were a curious child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "unos niños curiosos."
+    ],
+    "answer": [
+      "éramos",
+      "unos niños curiosos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were a curious child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-017-vosotros-unos-ninos-curiosos",
+    "prompt_en": "You all were a curious child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "unos niños curiosos."
+    ],
+    "answer": [
+      "erais",
+      "unos niños curiosos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were a curious child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-018-ellos-unos-ninos-curiosos",
+    "prompt_en": "They were a curious child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "unos niños curiosos."
+    ],
+    "answer": [
+      "eran",
+      "unos niños curiosos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were a curious child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-019-yo-un-adolescente-serio",
+    "prompt_en": "I was a serious teenager.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "un adolescente serio."
+    ],
+    "answer": [
+      "era",
+      "un adolescente serio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a serious teenager.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-020-tu-un-adolescente-serio",
+    "prompt_en": "You were a serious teenager.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "un adolescente serio."
+    ],
+    "answer": [
+      "eras",
+      "un adolescente serio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were a serious teenager.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-021-ella-una-adolescente-seria",
+    "prompt_en": "She was a serious teenager.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "una adolescente seria."
+    ],
+    "answer": [
+      "era",
+      "una adolescente seria."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was a serious teenager.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-022-nosotros-unos-adolescentes-serios",
+    "prompt_en": "We were a serious teenager.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "unos adolescentes serios."
+    ],
+    "answer": [
+      "éramos",
+      "unos adolescentes serios."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were a serious teenager.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-023-vosotros-unos-adolescentes-serios",
+    "prompt_en": "You all were a serious teenager.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "unos adolescentes serios."
+    ],
+    "answer": [
+      "erais",
+      "unos adolescentes serios."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were a serious teenager.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-024-ellos-unos-adolescentes-serios",
+    "prompt_en": "They were a serious teenager.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "unos adolescentes serios."
+    ],
+    "answer": [
+      "eran",
+      "unos adolescentes serios."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were a serious teenager.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-025-yo-mas-paciente-antes",
+    "prompt_en": "I was more patient before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más paciente",
+      "antes."
+    ],
+    "answer": [
+      "era",
+      "más paciente",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was more patient before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-026-tu-mas-paciente-antes",
+    "prompt_en": "You were more patient before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más paciente",
+      "antes."
+    ],
+    "answer": [
+      "eras",
+      "más paciente",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were more patient before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-027-ella-mas-paciente-antes",
+    "prompt_en": "She was more patient before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más paciente",
+      "antes."
+    ],
+    "answer": [
+      "era",
+      "más paciente",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was more patient before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-028-nosotros-mas-pacientes-antes",
+    "prompt_en": "We were more patient before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más pacientes",
+      "antes."
+    ],
+    "answer": [
+      "éramos",
+      "más pacientes",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were more patient before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-029-vosotros-mas-pacientes-antes",
+    "prompt_en": "You all were more patient before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más pacientes",
+      "antes."
+    ],
+    "answer": [
+      "erais",
+      "más pacientes",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were more patient before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-030-ellos-mas-pacientes-antes",
+    "prompt_en": "They were more patient before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más pacientes",
+      "antes."
+    ],
+    "answer": [
+      "eran",
+      "más pacientes",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were more patient before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-031-yo-mas-optimista-en-aquella-epoca",
+    "prompt_en": "I was more optimistic back then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más optimista",
+      "en aquella época."
+    ],
+    "answer": [
+      "era",
+      "más optimista",
+      "en aquella época."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was more optimistic back then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-032-tu-mas-optimista-en-aquella-epoca",
+    "prompt_en": "You were more optimistic back then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más optimista",
+      "en aquella época."
+    ],
+    "answer": [
+      "eras",
+      "más optimista",
+      "en aquella época."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were more optimistic back then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-033-ella-mas-optimista-en-aquella-epoca",
+    "prompt_en": "She was more optimistic back then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más optimista",
+      "en aquella época."
+    ],
+    "answer": [
+      "era",
+      "más optimista",
+      "en aquella época."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was more optimistic back then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-034-nosotros-mas-optimistas-en-aquella-epoca",
+    "prompt_en": "We were more optimistic back then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más optimistas",
+      "en aquella época."
+    ],
+    "answer": [
+      "éramos",
+      "más optimistas",
+      "en aquella época."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were more optimistic back then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-035-vosotros-mas-optimistas-en-aquella-epoca",
+    "prompt_en": "You all were more optimistic back then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más optimistas",
+      "en aquella época."
+    ],
+    "answer": [
+      "erais",
+      "más optimistas",
+      "en aquella época."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were more optimistic back then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-036-ellos-mas-optimistas-en-aquella-epoca",
+    "prompt_en": "They were more optimistic back then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más optimistas",
+      "en aquella época."
+    ],
+    "answer": [
+      "eran",
+      "más optimistas",
+      "en aquella época."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were more optimistic back then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-037-yo-mas-independiente-entonces",
+    "prompt_en": "I was more independent then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más independiente",
+      "entonces."
+    ],
+    "answer": [
+      "era",
+      "más independiente",
+      "entonces."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was more independent then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-038-tu-mas-independiente-entonces",
+    "prompt_en": "You were more independent then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más independiente",
+      "entonces."
+    ],
+    "answer": [
+      "eras",
+      "más independiente",
+      "entonces."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were more independent then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-039-ella-mas-independiente-entonces",
+    "prompt_en": "She was more independent then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más independiente",
+      "entonces."
+    ],
+    "answer": [
+      "era",
+      "más independiente",
+      "entonces."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was more independent then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-040-nosotros-mas-independientes-entonces",
+    "prompt_en": "We were more independent then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más independientes",
+      "entonces."
+    ],
+    "answer": [
+      "éramos",
+      "más independientes",
+      "entonces."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were more independent then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-041-vosotros-mas-independientes-entonces",
+    "prompt_en": "You all were more independent then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más independientes",
+      "entonces."
+    ],
+    "answer": [
+      "erais",
+      "más independientes",
+      "entonces."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were more independent then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-042-ellos-mas-independientes-entonces",
+    "prompt_en": "They were more independent then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "más independientes",
+      "entonces."
+    ],
+    "answer": [
+      "eran",
+      "más independientes",
+      "entonces."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were more independent then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-043-yo-poco-seguro-antes",
+    "prompt_en": "I was not very confident before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "poco seguro",
+      "antes."
+    ],
+    "answer": [
+      "era",
+      "poco seguro",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was not very confident before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-044-tu-poco-seguro-antes",
+    "prompt_en": "You were not very confident before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "poco seguro",
+      "antes."
+    ],
+    "answer": [
+      "eras",
+      "poco seguro",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were not very confident before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-045-ella-poco-segura-antes",
+    "prompt_en": "She was not very confident before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "poco segura",
+      "antes."
+    ],
+    "answer": [
+      "era",
+      "poco segura",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was not very confident before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-046-nosotros-poco-seguros-antes",
+    "prompt_en": "We were not very confident before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "poco seguros",
+      "antes."
+    ],
+    "answer": [
+      "éramos",
+      "poco seguros",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were not very confident before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-047-vosotros-poco-seguros-antes",
+    "prompt_en": "You all were not very confident before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "poco seguros",
+      "antes."
+    ],
+    "answer": [
+      "erais",
+      "poco seguros",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were not very confident before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-048-ellos-poco-seguros-antes",
+    "prompt_en": "They were not very confident before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "poco seguros",
+      "antes."
+    ],
+    "answer": [
+      "eran",
+      "poco seguros",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were not very confident before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-049-yo-malo-en-matematicas-en-el-colegio",
+    "prompt_en": "I was bad at maths at school.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "malo",
+      "en matemáticas en el colegio."
+    ],
+    "answer": [
+      "era",
+      "malo",
+      "en matemáticas en el colegio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was bad at maths at school.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-050-tu-malo-en-matematicas-en-el-colegio",
+    "prompt_en": "You were bad at maths at school.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "malo",
+      "en matemáticas en el colegio."
+    ],
+    "answer": [
+      "eras",
+      "malo",
+      "en matemáticas en el colegio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were bad at maths at school.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-051-ella-mala-en-matematicas-en-el-colegio",
+    "prompt_en": "She was bad at maths at school.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "mala",
+      "en matemáticas en el colegio."
+    ],
+    "answer": [
+      "era",
+      "mala",
+      "en matemáticas en el colegio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was bad at maths at school.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-052-nosotros-malos-en-matematicas-en-el-colegio",
+    "prompt_en": "We were bad at maths at school.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "malos",
+      "en matemáticas en el colegio."
+    ],
+    "answer": [
+      "éramos",
+      "malos",
+      "en matemáticas en el colegio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were bad at maths at school.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-053-vosotros-malos-en-matematicas-en-el-colegio",
+    "prompt_en": "You all were bad at maths at school.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "malos",
+      "en matemáticas en el colegio."
+    ],
+    "answer": [
+      "erais",
+      "malos",
+      "en matemáticas en el colegio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were bad at maths at school.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-054-ellos-malos-en-matematicas-en-el-colegio",
+    "prompt_en": "They were bad at maths at school.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "malos",
+      "en matemáticas en el colegio."
+    ],
+    "answer": [
+      "eran",
+      "malos",
+      "en matemáticas en el colegio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were bad at maths at school.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-055-yo-bueno-escuchando",
+    "prompt_en": "I was good at listening.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "bueno",
+      "escuchando."
+    ],
+    "answer": [
+      "era",
+      "bueno",
+      "escuchando."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was good at listening.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-056-tu-bueno-escuchando",
+    "prompt_en": "You were good at listening.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "bueno",
+      "escuchando."
+    ],
+    "answer": [
+      "eras",
+      "bueno",
+      "escuchando."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were good at listening.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-057-ella-buena-escuchando",
+    "prompt_en": "She was good at listening.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "buena",
+      "escuchando."
+    ],
+    "answer": [
+      "era",
+      "buena",
+      "escuchando."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was good at listening.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-058-nosotros-buenos-escuchando",
+    "prompt_en": "We were good at listening.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "buenos",
+      "escuchando."
+    ],
+    "answer": [
+      "éramos",
+      "buenos",
+      "escuchando."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were good at listening.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-059-vosotros-buenos-escuchando",
+    "prompt_en": "You all were good at listening.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "buenos",
+      "escuchando."
+    ],
+    "answer": [
+      "erais",
+      "buenos",
+      "escuchando."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were good at listening.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-060-ellos-buenos-escuchando",
+    "prompt_en": "They were good at listening.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "buenos",
+      "escuchando."
+    ],
+    "answer": [
+      "eran",
+      "buenos",
+      "escuchando."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were good at listening.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-061-yo-el-mas-joven-de-la-familia",
+    "prompt_en": "I was the youngest in the family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "el más joven",
+      "de la familia."
+    ],
+    "answer": [
+      "era",
+      "el más joven",
+      "de la familia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was the youngest in the family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-062-tu-el-mas-joven-de-la-familia",
+    "prompt_en": "You were the youngest in the family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "el más joven",
+      "de la familia."
+    ],
+    "answer": [
+      "eras",
+      "el más joven",
+      "de la familia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were the youngest in the family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-063-ella-la-mas-joven-de-la-familia",
+    "prompt_en": "She was the youngest in the family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "la más joven",
+      "de la familia."
+    ],
+    "answer": [
+      "era",
+      "la más joven",
+      "de la familia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was the youngest in the family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-064-nosotros-los-mas-jovenes-de-la-familia",
+    "prompt_en": "We were the youngest in the family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "los más jóvenes",
+      "de la familia."
+    ],
+    "answer": [
+      "éramos",
+      "los más jóvenes",
+      "de la familia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were the youngest in the family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-065-vosotros-los-mas-jovenes-de-la-familia",
+    "prompt_en": "You all were the youngest in the family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "los más jóvenes",
+      "de la familia."
+    ],
+    "answer": [
+      "erais",
+      "los más jóvenes",
+      "de la familia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were the youngest in the family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-066-ellos-los-mas-jovenes-de-la-familia",
+    "prompt_en": "They were the youngest in the family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "los más jóvenes",
+      "de la familia."
+    ],
+    "answer": [
+      "eran",
+      "los más jóvenes",
+      "de la familia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were the youngest in the family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-067-yo-siempre-el-prudente",
+    "prompt_en": "I was always the cautious one.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "siempre",
+      "el prudente."
+    ],
+    "answer": [
+      "era",
+      "siempre",
+      "el prudente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was always the cautious one.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-068-tu-siempre-el-prudente",
+    "prompt_en": "You were always the cautious one.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "siempre",
+      "el prudente."
+    ],
+    "answer": [
+      "eras",
+      "siempre",
+      "el prudente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were always the cautious one.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-069-ella-siempre-la-prudente",
+    "prompt_en": "She was always the cautious one.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "siempre",
+      "la prudente."
+    ],
+    "answer": [
+      "era",
+      "siempre",
+      "la prudente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was always the cautious one.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-070-nosotros-siempre-los-prudentes",
+    "prompt_en": "We were always the cautious one.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "siempre",
+      "los prudentes."
+    ],
+    "answer": [
+      "éramos",
+      "siempre",
+      "los prudentes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were always the cautious one.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-071-vosotros-siempre-los-prudentes",
+    "prompt_en": "You all were always the cautious one.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "siempre",
+      "los prudentes."
+    ],
+    "answer": [
+      "erais",
+      "siempre",
+      "los prudentes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were always the cautious one.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-072-ellos-siempre-los-prudentes",
+    "prompt_en": "They were always the cautious one.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "siempre",
+      "los prudentes."
+    ],
+    "answer": [
+      "eran",
+      "siempre",
+      "los prudentes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were always the cautious one.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-073-yo-una-persona-que-evitaba-los-conflictos",
+    "prompt_en": "I was the kind of person who avoided conflict.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "una persona",
+      "que evitaba los conflictos."
+    ],
+    "answer": [
+      "era",
+      "una persona",
+      "que evitaba los conflictos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was the kind of person who avoided conflict.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-074-tu-una-persona-que-evitaba-los-conflictos",
+    "prompt_en": "You were the kind of person who avoided conflict.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "una persona",
+      "que evitaba los conflictos."
+    ],
+    "answer": [
+      "eras",
+      "una persona",
+      "que evitaba los conflictos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were the kind of person who avoided conflict.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-075-ella-una-persona-que-evitaba-los-conflictos",
+    "prompt_en": "She was the kind of person who avoided conflict.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "una persona",
+      "que evitaba los conflictos."
+    ],
+    "answer": [
+      "era",
+      "una persona",
+      "que evitaba los conflictos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was the kind of person who avoided conflict.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-076-nosotros-personas-que-evitaban-los-conflictos",
+    "prompt_en": "We were the kind of person who avoided conflict.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "personas",
+      "que evitaban los conflictos."
+    ],
+    "answer": [
+      "éramos",
+      "personas",
+      "que evitaban los conflictos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were the kind of person who avoided conflict.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-077-vosotros-personas-que-evitaban-los-conflictos",
+    "prompt_en": "You all were the kind of person who avoided conflict.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "personas",
+      "que evitaban los conflictos."
+    ],
+    "answer": [
+      "erais",
+      "personas",
+      "que evitaban los conflictos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were the kind of person who avoided conflict.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-078-ellos-personas-que-evitaban-los-conflictos",
+    "prompt_en": "They were the kind of person who avoided conflict.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "personas",
+      "que evitaban los conflictos."
+    ],
+    "answer": [
+      "eran",
+      "personas",
+      "que evitaban los conflictos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were the kind of person who avoided conflict.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-079-yo-cliente-habitual-alli",
+    "prompt_en": "I was a regular customer there.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "cliente habitual",
+      "allí."
+    ],
+    "answer": [
+      "era",
+      "cliente habitual",
+      "allí."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a regular customer there.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-080-tu-cliente-habitual-alli",
+    "prompt_en": "You were a regular customer there.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "cliente habitual",
+      "allí."
+    ],
+    "answer": [
+      "eras",
+      "cliente habitual",
+      "allí."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were a regular customer there.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-081-ella-cliente-habitual-alli",
+    "prompt_en": "She was a regular customer there.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "cliente habitual",
+      "allí."
+    ],
+    "answer": [
+      "era",
+      "cliente habitual",
+      "allí."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was a regular customer there.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-082-nosotros-clientes-habituales-alli",
+    "prompt_en": "We were a regular customer there.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "clientes habituales",
+      "allí."
+    ],
+    "answer": [
+      "éramos",
+      "clientes habituales",
+      "allí."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were a regular customer there.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-083-vosotros-clientes-habituales-alli",
+    "prompt_en": "You all were a regular customer there.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "clientes habituales",
+      "allí."
+    ],
+    "answer": [
+      "erais",
+      "clientes habituales",
+      "allí."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were a regular customer there.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-084-ellos-clientes-habituales-alli",
+    "prompt_en": "They were a regular customer there.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "clientes habituales",
+      "allí."
+    ],
+    "answer": [
+      "eran",
+      "clientes habituales",
+      "allí."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were a regular customer there.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-085-yo-un-sonador-de-joven",
+    "prompt_en": "I was a dreamer when young.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "un soñador",
+      "de joven."
+    ],
+    "answer": [
+      "era",
+      "un soñador",
+      "de joven."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a dreamer when young.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-086-tu-un-sonador-de-joven",
+    "prompt_en": "You were a dreamer when young.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "un soñador",
+      "de joven."
+    ],
+    "answer": [
+      "eras",
+      "un soñador",
+      "de joven."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were a dreamer when young.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-087-ella-una-sonadora-de-joven",
+    "prompt_en": "She was a dreamer when young.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "una soñadora",
+      "de joven."
+    ],
+    "answer": [
+      "era",
+      "una soñadora",
+      "de joven."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was a dreamer when young.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-088-nosotros-unos-sonadores-de-jovenes",
+    "prompt_en": "We were a dreamer when young.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "unos soñadores",
+      "de jóvenes."
+    ],
+    "answer": [
+      "éramos",
+      "unos soñadores",
+      "de jóvenes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were a dreamer when young.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-089-vosotros-unos-sonadores-de-jovenes",
+    "prompt_en": "You all were a dreamer when young.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "unos soñadores",
+      "de jóvenes."
+    ],
+    "answer": [
+      "erais",
+      "unos soñadores",
+      "de jóvenes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were a dreamer when young.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-090-ellos-unos-sonadores-de-jovenes",
+    "prompt_en": "They were a dreamer when young.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "unos soñadores",
+      "de jóvenes."
+    ],
+    "answer": [
+      "eran",
+      "unos soñadores",
+      "de jóvenes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were a dreamer when young.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-091-yo-muy-cercano-a-la-familia",
+    "prompt_en": "I was very close to family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "muy cercano",
+      "a la familia."
+    ],
+    "answer": [
+      "era",
+      "muy cercano",
+      "a la familia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was very close to family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-092-tu-muy-cercano-a-la-familia",
+    "prompt_en": "You were very close to family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "muy cercano",
+      "a la familia."
+    ],
+    "answer": [
+      "eras",
+      "muy cercano",
+      "a la familia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were very close to family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-093-ella-muy-cercana-a-la-familia",
+    "prompt_en": "She was very close to family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "muy cercana",
+      "a la familia."
+    ],
+    "answer": [
+      "era",
+      "muy cercana",
+      "a la familia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was very close to family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-094-nosotros-muy-cercanos-a-la-familia",
+    "prompt_en": "We were very close to family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "muy cercanos",
+      "a la familia."
+    ],
+    "answer": [
+      "éramos",
+      "muy cercanos",
+      "a la familia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were very close to family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-095-vosotros-muy-cercanos-a-la-familia",
+    "prompt_en": "You all were very close to family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "muy cercanos",
+      "a la familia."
+    ],
+    "answer": [
+      "erais",
+      "muy cercanos",
+      "a la familia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were very close to family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-096-ellos-muy-cercanos-a-la-familia",
+    "prompt_en": "They were very close to family.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "muy cercanos",
+      "a la familia."
+    ],
+    "answer": [
+      "eran",
+      "muy cercanos",
+      "a la familia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were very close to family.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-097-yo-una-persona-reservada",
+    "prompt_en": "I was a private person.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "una persona reservada."
+    ],
+    "answer": [
+      "era",
+      "una persona reservada."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a private person.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-098-tu-una-persona-reservada",
+    "prompt_en": "You were a private person.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "una persona reservada."
+    ],
+    "answer": [
+      "eras",
+      "una persona reservada."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were a private person.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-099-ella-una-persona-reservada",
+    "prompt_en": "She was a private person.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "una persona reservada."
+    ],
+    "answer": [
+      "era",
+      "una persona reservada."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was a private person.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-100-nosotros-personas-reservadas",
+    "prompt_en": "We were a private person.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "personas reservadas."
+    ],
+    "answer": [
+      "éramos",
+      "personas reservadas."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were a private person.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  }
+]

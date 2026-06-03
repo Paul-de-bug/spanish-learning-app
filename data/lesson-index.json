@@ -40,5 +40,37 @@
     "file": "./data/lessons/i-was-switchboard-a2.json",
     "lesson_type": "switchboard-pill-translation",
     "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-fui-a2",
+    "name": "Anchors - fui - A2/B1 - 100 exercises",
+    "description": "Anchor drills for ser in the preterite: fui, fuiste, fue, fuimos, fuisteis, fueron across I was, you were, she was, we were, you all were, and they were.",
+    "file": "./data/lessons/anchors-fui-a2.json",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-era-a2",
+    "name": "Anchors - era - A2/B1 - 100 exercises",
+    "description": "Anchor drills for ser in the imperfect: era, eras, era, éramos, erais, eran across I was, you were, she was, we were, you all were, and they were.",
+    "file": "./data/lessons/anchors-era-a2.json",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estuve-a2",
+    "name": "Anchors - estuve - A2/B1 - 100 exercises",
+    "description": "Anchor drills for estar in the preterite: estuve, estuviste, estuvo, estuvimos, estuvisteis, estuvieron across I was, you were, she was, we were, you all were, and they were.",
+    "file": "./data/lessons/anchors-estuve-a2.json",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-estaba-a2",
+    "name": "Anchors - estaba - A2/B1 - 100 exercises",
+    "description": "Anchor drills for estar in the imperfect: estaba, estabas, estaba, estábamos, estabais, estaban across I was, you were, she was, we were, you all were, and they were.",
+    "file": "./data/lessons/anchors-estaba-a2.json",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
   }
 ]
