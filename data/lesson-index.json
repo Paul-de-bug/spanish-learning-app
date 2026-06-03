@@ -16,5 +16,13 @@
     "name": "Nanny 1 - A2 - 100 exercises",
     "description": "Personal conversation practice for emotions, family, parenting, memories, stress, depression, hopes, regrets, and past-tense core verbs.",
     "file": "./data/lessons/nanny-1-a2.json"
+  },
+  {
+    "id": "random-conjugation-switching-a2",
+    "name": "Random conjugation switching - A2/B1",
+    "description": "High-quality drill for jumping quickly between verb conjugations and object pronouns without reciting tables.",
+    "file": "./data/lessons/random-conjugation-switching-a2.json",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
   }
 ]

@@ -12,6 +12,35 @@ const lessonIndexFile = "./data/lesson-index.json";
 const storageKey = "spanish-pills-mobile-results";
 const savedWordsKey = "spanish-pills-saved-words";
 const xpStorageKey = "spanish-pills-total-xp";
+const switchboardLessonType = "switchboard-pill-translation";
+const switchboardPillBanks = {
+  decir: {
+    pronouns: ["Me", "Te", "Le", "Nos", "Les"],
+    forms: ["dije.", "dijiste.", "dijo.", "dijimos.", "dijeron."]
+  },
+  dar: {
+    pronouns: ["Me lo", "Te lo", "Se lo", "Nos lo"],
+    forms: ["di.", "diste.", "dio.", "dimos.", "dieron."]
+  },
+  preguntar: {
+    present: {
+      pronouns: ["Me", "Te", "Le", "Nos", "Les"],
+      forms: ["pregunto.", "preguntas.", "pregunta.", "preguntamos.", "preguntan."]
+    },
+    preterite: {
+      pronouns: ["Me", "Te", "Le", "Nos", "Les"],
+      forms: ["pregunté.", "preguntaste.", "preguntó.", "preguntamos.", "preguntaron."]
+    }
+  },
+  necesitar: {
+    pronouns: ["Me", "Te", "Lo", "La", "Nos", "Los", "Las"],
+    forms: ["necesito.", "necesitas.", "necesita.", "necesitamos.", "necesitan."]
+  },
+  ver: {
+    pronouns: ["Me", "Te", "Lo", "La", "Nos", "Los", "Las"],
+    forms: ["veo.", "ves.", "ve.", "vemos.", "ven."]
+  }
+};
 
 const els = {
   lessonTitle: document.querySelector("#lessonTitle"),
@@ -171,6 +200,35 @@ function currentExercise() {
   return session[currentIndex];
 }
 
+function unique(items) {
+  return [...new Set(items.filter(Boolean))];
+}
+
+function isSwitchboardExercise(exercise) {
+  return currentLesson()?.lesson_type === switchboardLessonType || exercise?.lesson_type === switchboardLessonType;
+}
+
+function switchboardBank(exercise) {
+  const verb = exercise?.verbs?.[0];
+  if (!verb) return null;
+
+  const bank = switchboardPillBanks[verb];
+  if (!bank) return null;
+  if (verb === "preguntar") return bank[exercise.tense] ?? bank.preterite;
+  return bank;
+}
+
+function exerciseChunks(exercise) {
+  if (!isSwitchboardExercise(exercise)) return exercise.chunks ?? [];
+
+  const bank = switchboardBank(exercise);
+  const storedChunks = exercise.chunks ?? [];
+  const hasDistractors = storedChunks.length > (exercise.answer?.length ?? 0);
+
+  if (hasDistractors || !bank) return storedChunks;
+  return unique([...(exercise.answer ?? []), ...bank.pronouns, ...bank.forms]);
+}
+
 function currentLessonNumber() {
   return Math.max(lessons.findIndex((lesson) => lesson.id === currentLesson()?.id), 0) + 1;
 }
@@ -200,7 +258,8 @@ function polishedAnswer(answer) {
 }
 
 function promptText(exercise) {
-  return exercise.prompt_es ?? exercise.prompt ?? "";
+  if (isSwitchboardExercise(exercise)) return exercise.prompt_en ?? exercise.prompt_es ?? exercise.prompt ?? "";
+  return exercise.prompt_es ?? exercise.prompt_en ?? exercise.prompt ?? "";
 }
 
 function answerEnglish(exercise) {
@@ -525,7 +584,7 @@ function renderExercise() {
     return;
   }
 
-  shuffledChunkOrder = shuffle(exercise.chunks.map((chunk, index) => ({ chunk, index })));
+  shuffledChunkOrder = shuffle(exerciseChunks(exercise).map((chunk, index) => ({ chunk, index })));
   els.questionCounter.textContent = "";
   els.promptText.textContent = promptText(exercise);
   renderAnswer();

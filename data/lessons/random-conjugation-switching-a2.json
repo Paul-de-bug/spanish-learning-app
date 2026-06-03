@@ -1,0 +1,772 @@
+[
+  {
+    "id": "random-switching-001-nos-dijeron",
+    "prompt_en": "They told us.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Nos",
+      "dijeron.",
+      "Me",
+      "Te",
+      "Le",
+      "Les",
+      "dije.",
+      "dijiste.",
+      "dijo.",
+      "dijimos."
+    ],
+    "answer": [
+      "Nos",
+      "dijeron."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "decir",
+      "preterite"
+    ],
+    "verbs": [
+      "decir"
+    ],
+    "person": "ellos/ellas",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "They told us.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-002-les-dijimos",
+    "prompt_en": "We told them.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Les",
+      "dijimos.",
+      "Me",
+      "Te",
+      "Le",
+      "Nos",
+      "dije.",
+      "dijiste.",
+      "dijo.",
+      "dijeron."
+    ],
+    "answer": [
+      "Les",
+      "dijimos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "decir",
+      "preterite"
+    ],
+    "verbs": [
+      "decir"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "We told them.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-003-le-dije",
+    "prompt_en": "I told him.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Le",
+      "dije.",
+      "Me",
+      "Te",
+      "Nos",
+      "Les",
+      "dijiste.",
+      "dijo.",
+      "dijimos.",
+      "dijeron."
+    ],
+    "answer": [
+      "Le",
+      "dije."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "decir",
+      "preterite"
+    ],
+    "verbs": [
+      "decir"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "I told him.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-004-me-dijo",
+    "prompt_en": "He told me.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "dijo.",
+      "Te",
+      "Le",
+      "Nos",
+      "Les",
+      "dije.",
+      "dijiste.",
+      "dijimos.",
+      "dijeron."
+    ],
+    "answer": [
+      "Me",
+      "dijo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "decir",
+      "preterite"
+    ],
+    "verbs": [
+      "decir"
+    ],
+    "person": "el/ella",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "He told me.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-005-me-dijiste",
+    "prompt_en": "You told me.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "dijiste.",
+      "Te",
+      "Le",
+      "Nos",
+      "Les",
+      "dije.",
+      "dijo.",
+      "dijimos.",
+      "dijeron."
+    ],
+    "answer": [
+      "Me",
+      "dijiste."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "decir",
+      "preterite"
+    ],
+    "verbs": [
+      "decir"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "You told me.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-006-se-lo-di",
+    "prompt_en": "I gave it to them.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se lo",
+      "di.",
+      "Me lo",
+      "Te lo",
+      "Nos lo",
+      "diste.",
+      "dio.",
+      "dimos.",
+      "dieron."
+    ],
+    "answer": [
+      "Se lo",
+      "di."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "dar",
+      "preterite"
+    ],
+    "verbs": [
+      "dar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "I gave it to them.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-007-se-lo-dieron",
+    "prompt_en": "They gave it to him.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Se lo",
+      "dieron.",
+      "Me lo",
+      "Te lo",
+      "Nos lo",
+      "di.",
+      "diste.",
+      "dio.",
+      "dimos."
+    ],
+    "answer": [
+      "Se lo",
+      "dieron."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "dar",
+      "preterite"
+    ],
+    "verbs": [
+      "dar"
+    ],
+    "person": "ellos/ellas",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "They gave it to him.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-008-me-lo-dio",
+    "prompt_en": "He gave it to me.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me lo",
+      "dio.",
+      "Te lo",
+      "Se lo",
+      "Nos lo",
+      "di.",
+      "diste.",
+      "dimos.",
+      "dieron."
+    ],
+    "answer": [
+      "Me lo",
+      "dio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "dar",
+      "preterite"
+    ],
+    "verbs": [
+      "dar"
+    ],
+    "person": "el/ella",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "He gave it to me.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-009-te-lo-dimos",
+    "prompt_en": "We gave it to you.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Te lo",
+      "dimos.",
+      "Me lo",
+      "Se lo",
+      "Nos lo",
+      "di.",
+      "diste.",
+      "dio.",
+      "dieron."
+    ],
+    "answer": [
+      "Te lo",
+      "dimos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "dar",
+      "preterite"
+    ],
+    "verbs": [
+      "dar"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "We gave it to you.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-010-nos-preguntaron",
+    "prompt_en": "They asked us.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Nos",
+      "preguntaron.",
+      "Me",
+      "Te",
+      "Le",
+      "Les",
+      "pregunté.",
+      "preguntaste.",
+      "preguntó.",
+      "preguntamos."
+    ],
+    "answer": [
+      "Nos",
+      "preguntaron."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "preguntar",
+      "preterite"
+    ],
+    "verbs": [
+      "preguntar"
+    ],
+    "person": "ellos/ellas",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "They asked us.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-011-me-pregunto-preterite",
+    "prompt_en": "He asked me.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "preguntó.",
+      "Te",
+      "Le",
+      "Nos",
+      "Les",
+      "pregunté.",
+      "preguntaste.",
+      "preguntamos.",
+      "preguntaron."
+    ],
+    "answer": [
+      "Me",
+      "preguntó."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "preguntar",
+      "preterite"
+    ],
+    "verbs": [
+      "preguntar"
+    ],
+    "person": "el/ella",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "He asked me.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-012-les-preguntamos",
+    "prompt_en": "We asked them.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Les",
+      "preguntamos.",
+      "Me",
+      "Te",
+      "Le",
+      "Nos",
+      "pregunté.",
+      "preguntaste.",
+      "preguntó.",
+      "preguntaron."
+    ],
+    "answer": [
+      "Les",
+      "preguntamos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "preguntar",
+      "preterite"
+    ],
+    "verbs": [
+      "preguntar"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "preterite",
+    "level": "A2-B1",
+    "answer_en": "We asked them.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-013-le-pregunto",
+    "prompt_en": "I ask him.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Le",
+      "pregunto.",
+      "Me",
+      "Te",
+      "Nos",
+      "Les",
+      "preguntas.",
+      "pregunta.",
+      "preguntamos.",
+      "preguntan."
+    ],
+    "answer": [
+      "Le",
+      "pregunto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "preguntar",
+      "present"
+    ],
+    "verbs": [
+      "preguntar"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I ask him.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-014-me-necesita",
+    "prompt_en": "He needs me.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "necesita.",
+      "Te",
+      "Lo",
+      "La",
+      "Nos",
+      "Los",
+      "Las",
+      "necesito.",
+      "necesitas.",
+      "necesitamos.",
+      "necesitan."
+    ],
+    "answer": [
+      "Me",
+      "necesita."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "necesitar",
+      "present"
+    ],
+    "verbs": [
+      "necesitar"
+    ],
+    "person": "el/ella",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "He needs me.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-015-los-necesitamos",
+    "prompt_en": "We need them.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Los",
+      "necesitamos.",
+      "Me",
+      "Te",
+      "Lo",
+      "La",
+      "Nos",
+      "Las",
+      "necesito.",
+      "necesitas.",
+      "necesita.",
+      "necesitan."
+    ],
+    "answer": [
+      "Los",
+      "necesitamos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "necesitar",
+      "present"
+    ],
+    "verbs": [
+      "necesitar"
+    ],
+    "person": "nosotros/nosotras",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "We need them.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-016-nos-necesitan",
+    "prompt_en": "They need us.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Nos",
+      "necesitan.",
+      "Me",
+      "Te",
+      "Lo",
+      "La",
+      "Los",
+      "Las",
+      "necesito.",
+      "necesitas.",
+      "necesita.",
+      "necesitamos."
+    ],
+    "answer": [
+      "Nos",
+      "necesitan."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "necesitar",
+      "present"
+    ],
+    "verbs": [
+      "necesitar"
+    ],
+    "person": "ellos/ellas",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "They need us.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-017-me-necesitas",
+    "prompt_en": "You need me.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Me",
+      "necesitas.",
+      "Te",
+      "Lo",
+      "La",
+      "Nos",
+      "Los",
+      "Las",
+      "necesito.",
+      "necesita.",
+      "necesitamos.",
+      "necesitan."
+    ],
+    "answer": [
+      "Me",
+      "necesitas."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "necesitar",
+      "present"
+    ],
+    "verbs": [
+      "necesitar"
+    ],
+    "person": "tu",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "You need me.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-018-te-veo",
+    "prompt_en": "I see you.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Te",
+      "veo.",
+      "Me",
+      "Lo",
+      "La",
+      "Nos",
+      "Los",
+      "Las",
+      "ves.",
+      "ve.",
+      "vemos.",
+      "ven."
+    ],
+    "answer": [
+      "Te",
+      "veo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "ver",
+      "present"
+    ],
+    "verbs": [
+      "ver"
+    ],
+    "person": "yo",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "I see you.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-019-la-ven",
+    "prompt_en": "They see her.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "La",
+      "ven.",
+      "Me",
+      "Te",
+      "Lo",
+      "Nos",
+      "Los",
+      "Las",
+      "veo.",
+      "ves.",
+      "ve.",
+      "vemos."
+    ],
+    "answer": [
+      "La",
+      "ven."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "ver",
+      "present"
+    ],
+    "verbs": [
+      "ver"
+    ],
+    "person": "ellos/ellas",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "They see her.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "random-switching-020-los-ves",
+    "prompt_en": "You see them.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "Los",
+      "ves.",
+      "Me",
+      "Te",
+      "Lo",
+      "La",
+      "Nos",
+      "Las",
+      "veo.",
+      "ve.",
+      "vemos.",
+      "ven."
+    ],
+    "answer": [
+      "Los",
+      "ves."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "random conjugation switching",
+      "object pronouns",
+      "ver",
+      "present"
+    ],
+    "verbs": [
+      "ver"
+    ],
+    "person": "tu",
+    "tense": "present",
+    "level": "A2-B1",
+    "answer_en": "You see them.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  }
+]
