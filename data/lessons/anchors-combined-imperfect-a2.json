@@ -1,0 +1,4766 @@
+[
+  {
+    "id": "anchors-combined-imperfect-a2-001-era-yo",
+    "prompt_en": "I was very shy as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "muy tímido",
+      "de niño."
+    ],
+    "answer": [
+      "era",
+      "muy tímido",
+      "de niño."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was very shy as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-002-estaba-yo",
+    "prompt_en": "I was at home when the storm began.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "answer": [
+      "estaba",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was at home when the storm began.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-003-era-tu",
+    "prompt_en": "You were very shy as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "muy tímido",
+      "de niño."
+    ],
+    "answer": [
+      "eras",
+      "muy tímido",
+      "de niño."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were very shy as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-004-estaba-tu",
+    "prompt_en": "You were at home when the storm began.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "answer": [
+      "estabas",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were at home when the storm began.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-005-era-ella",
+    "prompt_en": "She was very shy as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "muy tímida",
+      "de niña."
+    ],
+    "answer": [
+      "era",
+      "muy tímida",
+      "de niña."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was very shy as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-006-estaba-ella",
+    "prompt_en": "She was at home when the storm began.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "answer": [
+      "estaba",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was at home when the storm began.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-007-era-nosotros",
+    "prompt_en": "We were very shy as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "muy tímidos",
+      "de niños."
+    ],
+    "answer": [
+      "éramos",
+      "muy tímidos",
+      "de niños."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were very shy as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-008-estaba-nosotros",
+    "prompt_en": "We were at home when the storm began.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "answer": [
+      "estábamos",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were at home when the storm began.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-009-era-vosotros",
+    "prompt_en": "You all were very shy as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "muy tímidos",
+      "de niños."
+    ],
+    "answer": [
+      "erais",
+      "muy tímidos",
+      "de niños."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were very shy as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-010-estaba-vosotros",
+    "prompt_en": "You all were at home when the storm began.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "answer": [
+      "estabais",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were at home when the storm began.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-011-era-ellos",
+    "prompt_en": "They were very shy as a child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "muy tímidos",
+      "de niños."
+    ],
+    "answer": [
+      "eran",
+      "muy tímidos",
+      "de niños."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were very shy as a child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-012-estaba-ellos",
+    "prompt_en": "They were at home when the storm began.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "answer": [
+      "estaban",
+      "en casa",
+      "cuando empezó la tormenta."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were at home when the storm began.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-013-era-yo",
+    "prompt_en": "I was a quiet student.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "un estudiante tranquilo."
+    ],
+    "answer": [
+      "era",
+      "un estudiante tranquilo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a quiet student.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-014-estaba-yo",
+    "prompt_en": "I was tired when the meeting ended.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "cansado",
+      "cuando terminó la reunión."
+    ],
+    "answer": [
+      "estaba",
+      "cansado",
+      "cuando terminó la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was tired when the meeting ended.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-015-era-tu",
+    "prompt_en": "You were a quiet student.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "un estudiante tranquilo."
+    ],
+    "answer": [
+      "eras",
+      "un estudiante tranquilo."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were a quiet student.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-016-estaba-tu",
+    "prompt_en": "You were tired when the meeting ended.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "cansado",
+      "cuando terminó la reunión."
+    ],
+    "answer": [
+      "estabas",
+      "cansado",
+      "cuando terminó la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were tired when the meeting ended.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-017-era-ella",
+    "prompt_en": "She was a quiet student.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "una estudiante tranquila."
+    ],
+    "answer": [
+      "era",
+      "una estudiante tranquila."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was a quiet student.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-018-estaba-ella",
+    "prompt_en": "She was tired when the meeting ended.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "cansada",
+      "cuando terminó la reunión."
+    ],
+    "answer": [
+      "estaba",
+      "cansada",
+      "cuando terminó la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was tired when the meeting ended.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-019-era-nosotros",
+    "prompt_en": "We were a quiet student.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "unos estudiantes tranquilos."
+    ],
+    "answer": [
+      "éramos",
+      "unos estudiantes tranquilos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were a quiet student.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-020-estaba-nosotros",
+    "prompt_en": "We were tired when the meeting ended.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "cansados",
+      "cuando terminó la reunión."
+    ],
+    "answer": [
+      "estábamos",
+      "cansados",
+      "cuando terminó la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were tired when the meeting ended.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-021-era-vosotros",
+    "prompt_en": "You all were a quiet student.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "unos estudiantes tranquilos."
+    ],
+    "answer": [
+      "erais",
+      "unos estudiantes tranquilos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were a quiet student.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-022-estaba-vosotros",
+    "prompt_en": "You all were tired when the meeting ended.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "cansados",
+      "cuando terminó la reunión."
+    ],
+    "answer": [
+      "estabais",
+      "cansados",
+      "cuando terminó la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were tired when the meeting ended.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-023-era-ellos",
+    "prompt_en": "They were a quiet student.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "unos estudiantes tranquilos."
+    ],
+    "answer": [
+      "eran",
+      "unos estudiantes tranquilos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were a quiet student.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-024-estaba-ellos",
+    "prompt_en": "They were tired when the meeting ended.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "cansados",
+      "cuando terminó la reunión."
+    ],
+    "answer": [
+      "estaban",
+      "cansados",
+      "cuando terminó la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were tired when the meeting ended.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-025-era-yo",
+    "prompt_en": "I was a curious child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "un niño curioso."
+    ],
+    "answer": [
+      "era",
+      "un niño curioso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a curious child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-026-estaba-yo",
+    "prompt_en": "I was nervous before the interview.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "nervioso",
+      "antes de la entrevista."
+    ],
+    "answer": [
+      "estaba",
+      "nervioso",
+      "antes de la entrevista."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was nervous before the interview.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-027-era-tu",
+    "prompt_en": "You were a curious child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "un niño curioso."
+    ],
+    "answer": [
+      "eras",
+      "un niño curioso."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were a curious child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-028-estaba-tu",
+    "prompt_en": "You were nervous before the interview.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "nervioso",
+      "antes de la entrevista."
+    ],
+    "answer": [
+      "estabas",
+      "nervioso",
+      "antes de la entrevista."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were nervous before the interview.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-029-era-ella",
+    "prompt_en": "She was a curious child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "una niña curiosa."
+    ],
+    "answer": [
+      "era",
+      "una niña curiosa."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was a curious child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-030-estaba-ella",
+    "prompt_en": "She was nervous before the interview.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "nerviosa",
+      "antes de la entrevista."
+    ],
+    "answer": [
+      "estaba",
+      "nerviosa",
+      "antes de la entrevista."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was nervous before the interview.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-031-era-nosotros",
+    "prompt_en": "We were a curious child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "unos niños curiosos."
+    ],
+    "answer": [
+      "éramos",
+      "unos niños curiosos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were a curious child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-032-estaba-nosotros",
+    "prompt_en": "We were nervous before the interview.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "nerviosos",
+      "antes de la entrevista."
+    ],
+    "answer": [
+      "estábamos",
+      "nerviosos",
+      "antes de la entrevista."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were nervous before the interview.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-033-era-vosotros",
+    "prompt_en": "You all were a curious child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "unos niños curiosos."
+    ],
+    "answer": [
+      "erais",
+      "unos niños curiosos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were a curious child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-034-estaba-vosotros",
+    "prompt_en": "You all were nervous before the interview.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "nerviosos",
+      "antes de la entrevista."
+    ],
+    "answer": [
+      "estabais",
+      "nerviosos",
+      "antes de la entrevista."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were nervous before the interview.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-035-era-ellos",
+    "prompt_en": "They were a curious child.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "unos niños curiosos."
+    ],
+    "answer": [
+      "eran",
+      "unos niños curiosos."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were a curious child.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-036-estaba-ellos",
+    "prompt_en": "They were nervous before the interview.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "nerviosos",
+      "antes de la entrevista."
+    ],
+    "answer": [
+      "estaban",
+      "nerviosos",
+      "antes de la entrevista."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were nervous before the interview.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-037-era-yo",
+    "prompt_en": "I was a serious teenager.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "un adolescente serio."
+    ],
+    "answer": [
+      "era",
+      "un adolescente serio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was a serious teenager.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-038-estaba-yo",
+    "prompt_en": "I was reading when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estaba",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was reading when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-039-era-tu",
+    "prompt_en": "You were a serious teenager.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "un adolescente serio."
+    ],
+    "answer": [
+      "eras",
+      "un adolescente serio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were a serious teenager.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-040-estaba-tu",
+    "prompt_en": "You were reading when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estabas",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were reading when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-041-era-ella",
+    "prompt_en": "She was a serious teenager.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "una adolescente seria."
+    ],
+    "answer": [
+      "era",
+      "una adolescente seria."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was a serious teenager.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-042-estaba-ella",
+    "prompt_en": "She was reading when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estaba",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was reading when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-043-era-nosotros",
+    "prompt_en": "We were a serious teenager.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "unos adolescentes serios."
+    ],
+    "answer": [
+      "éramos",
+      "unos adolescentes serios."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were a serious teenager.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-044-estaba-nosotros",
+    "prompt_en": "We were reading when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estábamos",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were reading when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-045-era-vosotros",
+    "prompt_en": "You all were a serious teenager.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "unos adolescentes serios."
+    ],
+    "answer": [
+      "erais",
+      "unos adolescentes serios."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were a serious teenager.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-046-estaba-vosotros",
+    "prompt_en": "You all were reading when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estabais",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were reading when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-047-era-ellos",
+    "prompt_en": "They were a serious teenager.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "unos adolescentes serios."
+    ],
+    "answer": [
+      "eran",
+      "unos adolescentes serios."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were a serious teenager.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-048-estaba-ellos",
+    "prompt_en": "They were reading when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estaban",
+      "leyendo",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were reading when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-049-era-yo",
+    "prompt_en": "I was more patient before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más paciente",
+      "antes."
+    ],
+    "answer": [
+      "era",
+      "más paciente",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was more patient before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-050-estaba-yo",
+    "prompt_en": "I was busy when the client arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "ocupado",
+      "cuando llegó el cliente."
+    ],
+    "answer": [
+      "estaba",
+      "ocupado",
+      "cuando llegó el cliente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was busy when the client arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-051-era-tu",
+    "prompt_en": "You were more patient before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más paciente",
+      "antes."
+    ],
+    "answer": [
+      "eras",
+      "más paciente",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were more patient before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-052-estaba-tu",
+    "prompt_en": "You were busy when the client arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "ocupado",
+      "cuando llegó el cliente."
+    ],
+    "answer": [
+      "estabas",
+      "ocupado",
+      "cuando llegó el cliente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were busy when the client arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-053-era-ella",
+    "prompt_en": "She was more patient before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más paciente",
+      "antes."
+    ],
+    "answer": [
+      "era",
+      "más paciente",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was more patient before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-054-estaba-ella",
+    "prompt_en": "She was busy when the client arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "ocupada",
+      "cuando llegó el cliente."
+    ],
+    "answer": [
+      "estaba",
+      "ocupada",
+      "cuando llegó el cliente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was busy when the client arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-055-era-nosotros",
+    "prompt_en": "We were more patient before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más pacientes",
+      "antes."
+    ],
+    "answer": [
+      "éramos",
+      "más pacientes",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were more patient before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-056-estaba-nosotros",
+    "prompt_en": "We were busy when the client arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "ocupados",
+      "cuando llegó el cliente."
+    ],
+    "answer": [
+      "estábamos",
+      "ocupados",
+      "cuando llegó el cliente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were busy when the client arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-057-era-vosotros",
+    "prompt_en": "You all were more patient before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más pacientes",
+      "antes."
+    ],
+    "answer": [
+      "erais",
+      "más pacientes",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were more patient before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-058-estaba-vosotros",
+    "prompt_en": "You all were busy when the client arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "ocupados",
+      "cuando llegó el cliente."
+    ],
+    "answer": [
+      "estabais",
+      "ocupados",
+      "cuando llegó el cliente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were busy when the client arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-059-era-ellos",
+    "prompt_en": "They were more patient before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más pacientes",
+      "antes."
+    ],
+    "answer": [
+      "eran",
+      "más pacientes",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were more patient before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-060-estaba-ellos",
+    "prompt_en": "They were busy when the client arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "ocupados",
+      "cuando llegó el cliente."
+    ],
+    "answer": [
+      "estaban",
+      "ocupados",
+      "cuando llegó el cliente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were busy when the client arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-061-era-yo",
+    "prompt_en": "I was more optimistic back then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más optimista",
+      "en aquella época."
+    ],
+    "answer": [
+      "era",
+      "más optimista",
+      "en aquella época."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was more optimistic back then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-062-estaba-yo",
+    "prompt_en": "I was outside when it started raining.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "answer": [
+      "estaba",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was outside when it started raining.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-063-era-tu",
+    "prompt_en": "You were more optimistic back then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más optimista",
+      "en aquella época."
+    ],
+    "answer": [
+      "eras",
+      "más optimista",
+      "en aquella época."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were more optimistic back then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-064-estaba-tu",
+    "prompt_en": "You were outside when it started raining.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "answer": [
+      "estabas",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were outside when it started raining.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-065-era-ella",
+    "prompt_en": "She was more optimistic back then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más optimista",
+      "en aquella época."
+    ],
+    "answer": [
+      "era",
+      "más optimista",
+      "en aquella época."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was more optimistic back then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-066-estaba-ella",
+    "prompt_en": "She was outside when it started raining.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "answer": [
+      "estaba",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was outside when it started raining.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-067-era-nosotros",
+    "prompt_en": "We were more optimistic back then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más optimistas",
+      "en aquella época."
+    ],
+    "answer": [
+      "éramos",
+      "más optimistas",
+      "en aquella época."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were more optimistic back then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-068-estaba-nosotros",
+    "prompt_en": "We were outside when it started raining.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "answer": [
+      "estábamos",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were outside when it started raining.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-069-era-vosotros",
+    "prompt_en": "You all were more optimistic back then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más optimistas",
+      "en aquella época."
+    ],
+    "answer": [
+      "erais",
+      "más optimistas",
+      "en aquella época."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were more optimistic back then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-070-estaba-vosotros",
+    "prompt_en": "You all were outside when it started raining.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "answer": [
+      "estabais",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were outside when it started raining.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-071-era-ellos",
+    "prompt_en": "They were more optimistic back then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más optimistas",
+      "en aquella época."
+    ],
+    "answer": [
+      "eran",
+      "más optimistas",
+      "en aquella época."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were more optimistic back then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-072-estaba-ellos",
+    "prompt_en": "They were outside when it started raining.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "answer": [
+      "estaban",
+      "fuera",
+      "cuando empezó a llover."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were outside when it started raining.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-073-era-yo",
+    "prompt_en": "I was more independent then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más independiente",
+      "entonces."
+    ],
+    "answer": [
+      "era",
+      "más independiente",
+      "entonces."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was more independent then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-074-estaba-yo",
+    "prompt_en": "I was in hospital when the doctor returned.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "answer": [
+      "estaba",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was in hospital when the doctor returned.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-075-era-tu",
+    "prompt_en": "You were more independent then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más independiente",
+      "entonces."
+    ],
+    "answer": [
+      "eras",
+      "más independiente",
+      "entonces."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were more independent then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-076-estaba-tu",
+    "prompt_en": "You were in hospital when the doctor returned.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "answer": [
+      "estabas",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were in hospital when the doctor returned.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-077-era-ella",
+    "prompt_en": "She was more independent then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más independiente",
+      "entonces."
+    ],
+    "answer": [
+      "era",
+      "más independiente",
+      "entonces."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was more independent then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-078-estaba-ella",
+    "prompt_en": "She was in hospital when the doctor returned.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "answer": [
+      "estaba",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was in hospital when the doctor returned.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-079-era-nosotros",
+    "prompt_en": "We were more independent then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más independientes",
+      "entonces."
+    ],
+    "answer": [
+      "éramos",
+      "más independientes",
+      "entonces."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were more independent then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-080-estaba-nosotros",
+    "prompt_en": "We were in hospital when the doctor returned.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "answer": [
+      "estábamos",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were in hospital when the doctor returned.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-081-era-vosotros",
+    "prompt_en": "You all were more independent then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más independientes",
+      "entonces."
+    ],
+    "answer": [
+      "erais",
+      "más independientes",
+      "entonces."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were more independent then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-082-estaba-vosotros",
+    "prompt_en": "You all were in hospital when the doctor returned.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "answer": [
+      "estabais",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were in hospital when the doctor returned.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-083-era-ellos",
+    "prompt_en": "They were more independent then.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "más independientes",
+      "entonces."
+    ],
+    "answer": [
+      "eran",
+      "más independientes",
+      "entonces."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were more independent then.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-084-estaba-ellos",
+    "prompt_en": "They were in hospital when the doctor returned.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "answer": [
+      "estaban",
+      "en el hospital",
+      "cuando volvió el médico."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were in hospital when the doctor returned.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-085-era-yo",
+    "prompt_en": "I was not very confident before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "poco seguro",
+      "antes."
+    ],
+    "answer": [
+      "era",
+      "poco seguro",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was not very confident before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-086-estaba-yo",
+    "prompt_en": "I was angry when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "enfadado",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estaba",
+      "enfadado",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was angry when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-087-era-tu",
+    "prompt_en": "You were not very confident before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "poco seguro",
+      "antes."
+    ],
+    "answer": [
+      "eras",
+      "poco seguro",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were not very confident before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-088-estaba-tu",
+    "prompt_en": "You were angry when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "enfadado",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estabas",
+      "enfadado",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were angry when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-089-era-ella",
+    "prompt_en": "She was not very confident before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "poco segura",
+      "antes."
+    ],
+    "answer": [
+      "era",
+      "poco segura",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was not very confident before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-090-estaba-ella",
+    "prompt_en": "She was angry when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "enfadada",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estaba",
+      "enfadada",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "She was angry when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-091-era-nosotros",
+    "prompt_en": "We were not very confident before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "poco seguros",
+      "antes."
+    ],
+    "answer": [
+      "éramos",
+      "poco seguros",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "éramos",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were not very confident before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-092-estaba-nosotros",
+    "prompt_en": "We were angry when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "enfadados",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estábamos",
+      "enfadados",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "imperfect",
+    "target_form": "estábamos",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "We were angry when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-093-era-vosotros",
+    "prompt_en": "You all were not very confident before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "poco seguros",
+      "antes."
+    ],
+    "answer": [
+      "erais",
+      "poco seguros",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "erais",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were not very confident before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-094-estaba-vosotros",
+    "prompt_en": "You all were angry when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "enfadados",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estabais",
+      "enfadados",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "imperfect",
+    "target_form": "estabais",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You all were angry when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-095-era-ellos",
+    "prompt_en": "They were not very confident before.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "poco seguros",
+      "antes."
+    ],
+    "answer": [
+      "eran",
+      "poco seguros",
+      "antes."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "eran",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were not very confident before.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-096-estaba-ellos",
+    "prompt_en": "They were angry when the message arrived.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "enfadados",
+      "cuando llegó el mensaje."
+    ],
+    "answer": [
+      "estaban",
+      "enfadados",
+      "cuando llegó el mensaje."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "imperfect",
+    "target_form": "estaban",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "They were angry when the message arrived.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-097-era-yo",
+    "prompt_en": "I was bad at maths at school.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "malo",
+      "en matemáticas en el colegio."
+    ],
+    "answer": [
+      "era",
+      "malo",
+      "en matemáticas en el colegio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "era",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was bad at maths at school.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-098-estaba-yo",
+    "prompt_en": "I was at the bank when the power went out.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "answer": [
+      "estaba",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "imperfect",
+    "target_form": "estaba",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "I was at the bank when the power went out.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-099-era-tu",
+    "prompt_en": "You were bad at maths at school.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "malo",
+      "en matemáticas en el colegio."
+    ],
+    "answer": [
+      "eras",
+      "malo",
+      "en matemáticas en el colegio."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "ser imperfect",
+      "background identity, quality, role, or habitual description"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "eras",
+    "anchor_form": "era",
+    "verb_use": "ser imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were bad at maths at school.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "era",
+    "anchor_group": "imperfect: ser + estar"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2-100-estaba-tu",
+    "prompt_en": "You were at the bank when the power went out.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "era",
+      "eras",
+      "éramos",
+      "erais",
+      "eran",
+      "estaba",
+      "estabas",
+      "estábamos",
+      "estabais",
+      "estaban",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "answer": [
+      "estabas",
+      "en el banco",
+      "cuando se fue la luz."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "imperfect: ser + estar",
+      "estar imperfect",
+      "background state, location, condition, or ongoing action"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "imperfect",
+    "target_form": "estabas",
+    "anchor_form": "estaba",
+    "verb_use": "estar imperfect",
+    "level": "A2-B1",
+    "answer_en": "You were at the bank when the power went out.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estaba",
+    "anchor_group": "imperfect: ser + estar"
+  }
+]

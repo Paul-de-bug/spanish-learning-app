@@ -72,5 +72,37 @@
     "file": "./data/lessons/anchors-estaba-a2.json",
     "lesson_type": "switchboard-pill-translation",
     "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-combined-ser-a2",
+    "name": "Anchors - ser (preterite + imperfect) - A2/B1 - 100 exercises",
+    "description": "Combined ser anchor drills switching between preterite and imperfect across all persons: fui/fuiste/fue/fuimos/fuisteis/fueron and era/eras/era/éramos/erais/eran.",
+    "file": "./data/lessons/anchors-combined-ser-a2.json",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-combined-estar-a2",
+    "name": "Anchors - estar (preterite + imperfect) - A2/B1 - 100 exercises",
+    "description": "Combined estar anchor drills switching between preterite and imperfect across all persons: estuve/estuviste/estuvo/estuvimos/estuvisteis/estuvieron and estaba/estabas/estaba/estábamos/estabais/estaban.",
+    "file": "./data/lessons/anchors-combined-estar-a2.json",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-combined-preterite-a2",
+    "name": "Anchors - preterite (ser + estar) - A2/B1 - 100 exercises",
+    "description": "Combined preterite anchor drills switching between ser and estar across all persons: fui/fuiste/fue/fuimos/fuisteis/fueron and estuve/estuviste/estuvo/estuvimos/estuvisteis/estuvieron.",
+    "file": "./data/lessons/anchors-combined-preterite-a2.json",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
+  },
+  {
+    "id": "anchors-combined-imperfect-a2",
+    "name": "Anchors - imperfect (ser + estar) - A2/B1 - 100 exercises",
+    "description": "Combined imperfect anchor drills switching between ser and estar across all persons: era/eras/era/éramos/erais/eran and estaba/estabas/estaba/estábamos/estabais/estaban.",
+    "file": "./data/lessons/anchors-combined-imperfect-a2.json",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation"
   }
 ]

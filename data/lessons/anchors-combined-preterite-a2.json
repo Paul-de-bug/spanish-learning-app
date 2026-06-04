@@ -1,0 +1,5002 @@
+[
+  {
+    "id": "anchors-combined-preterite-a2-001-fui-yo",
+    "prompt_en": "I was the first to arrive.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "el primero",
+      "en llegar."
+    ],
+    "answer": [
+      "fui",
+      "el primero",
+      "en llegar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the first to arrive.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-002-estuve-yo",
+    "prompt_en": "I was at the office yesterday morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "answer": [
+      "estuve",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was at the office yesterday morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-003-fui-tu",
+    "prompt_en": "You were the first to arrive.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "el primero",
+      "en llegar."
+    ],
+    "answer": [
+      "fuiste",
+      "el primero",
+      "en llegar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the first to arrive.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-004-estuve-tu",
+    "prompt_en": "You were at the office yesterday morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "answer": [
+      "estuviste",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were at the office yesterday morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-005-fui-ella",
+    "prompt_en": "She was the first to arrive.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "la primera",
+      "en llegar."
+    ],
+    "answer": [
+      "fue",
+      "la primera",
+      "en llegar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the first to arrive.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-006-estuve-ella",
+    "prompt_en": "She was at the office yesterday morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "answer": [
+      "estuvo",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was at the office yesterday morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-007-fui-nosotros",
+    "prompt_en": "We were the first to arrive.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los primeros",
+      "en llegar."
+    ],
+    "answer": [
+      "fuimos",
+      "los primeros",
+      "en llegar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the first to arrive.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-008-estuve-nosotros",
+    "prompt_en": "We were at the office yesterday morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "answer": [
+      "estuvimos",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were at the office yesterday morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-009-fui-vosotros",
+    "prompt_en": "You all were the first to arrive.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los primeros",
+      "en llegar."
+    ],
+    "answer": [
+      "fuisteis",
+      "los primeros",
+      "en llegar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the first to arrive.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-010-estuve-vosotros",
+    "prompt_en": "You all were at the office yesterday morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "answer": [
+      "estuvisteis",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were at the office yesterday morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-011-fui-ellos",
+    "prompt_en": "They were the first to arrive.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los primeros",
+      "en llegar."
+    ],
+    "answer": [
+      "fueron",
+      "los primeros",
+      "en llegar."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the first to arrive.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-012-estuve-ellos",
+    "prompt_en": "They were at the office yesterday morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "answer": [
+      "estuvieron",
+      "en la oficina",
+      "ayer por la mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were at the office yesterday morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-013-fui-yo",
+    "prompt_en": "I was the last to leave.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "el último",
+      "en salir."
+    ],
+    "answer": [
+      "fui",
+      "el último",
+      "en salir."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the last to leave.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-014-estuve-yo",
+    "prompt_en": "I was in Madrid last weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "answer": [
+      "estuve",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in Madrid last weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-015-fui-tu",
+    "prompt_en": "You were the last to leave.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "el último",
+      "en salir."
+    ],
+    "answer": [
+      "fuiste",
+      "el último",
+      "en salir."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the last to leave.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-016-estuve-tu",
+    "prompt_en": "You were in Madrid last weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "answer": [
+      "estuviste",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were in Madrid last weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-017-fui-ella",
+    "prompt_en": "She was the last to leave.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "la última",
+      "en salir."
+    ],
+    "answer": [
+      "fue",
+      "la última",
+      "en salir."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the last to leave.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-018-estuve-ella",
+    "prompt_en": "She was in Madrid last weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "answer": [
+      "estuvo",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was in Madrid last weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-019-fui-nosotros",
+    "prompt_en": "We were the last to leave.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los últimos",
+      "en salir."
+    ],
+    "answer": [
+      "fuimos",
+      "los últimos",
+      "en salir."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the last to leave.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-020-estuve-nosotros",
+    "prompt_en": "We were in Madrid last weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "answer": [
+      "estuvimos",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were in Madrid last weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-021-fui-vosotros",
+    "prompt_en": "You all were the last to leave.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los últimos",
+      "en salir."
+    ],
+    "answer": [
+      "fuisteis",
+      "los últimos",
+      "en salir."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the last to leave.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-022-estuve-vosotros",
+    "prompt_en": "You all were in Madrid last weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "answer": [
+      "estuvisteis",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were in Madrid last weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-023-fui-ellos",
+    "prompt_en": "They were the last to leave.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los últimos",
+      "en salir."
+    ],
+    "answer": [
+      "fueron",
+      "los últimos",
+      "en salir."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the last to leave.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-024-estuve-ellos",
+    "prompt_en": "They were in Madrid last weekend.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "answer": [
+      "estuvieron",
+      "en Madrid",
+      "el fin de semana pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were in Madrid last weekend.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-025-fui-yo",
+    "prompt_en": "I was responsible for the reservation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "responsable",
+      "de la reserva."
+    ],
+    "answer": [
+      "fui",
+      "responsable",
+      "de la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was responsible for the reservation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-026-estuve-yo",
+    "prompt_en": "I was sick for three days.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfermo",
+      "durante tres días."
+    ],
+    "answer": [
+      "estuve",
+      "enfermo",
+      "durante tres días."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was sick for three days.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-027-fui-tu",
+    "prompt_en": "You were responsible for the reservation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "responsable",
+      "de la reserva."
+    ],
+    "answer": [
+      "fuiste",
+      "responsable",
+      "de la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were responsible for the reservation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-028-estuve-tu",
+    "prompt_en": "You were sick for three days.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfermo",
+      "durante tres días."
+    ],
+    "answer": [
+      "estuviste",
+      "enfermo",
+      "durante tres días."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were sick for three days.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-029-fui-ella",
+    "prompt_en": "She was responsible for the reservation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "responsable",
+      "de la reserva."
+    ],
+    "answer": [
+      "fue",
+      "responsable",
+      "de la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was responsible for the reservation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-030-estuve-ella",
+    "prompt_en": "She was sick for three days.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enferma",
+      "durante tres días."
+    ],
+    "answer": [
+      "estuvo",
+      "enferma",
+      "durante tres días."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was sick for three days.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-031-fui-nosotros",
+    "prompt_en": "We were responsible for the reservation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "responsables",
+      "de la reserva."
+    ],
+    "answer": [
+      "fuimos",
+      "responsables",
+      "de la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were responsible for the reservation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-032-estuve-nosotros",
+    "prompt_en": "We were sick for three days.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfermos",
+      "durante tres días."
+    ],
+    "answer": [
+      "estuvimos",
+      "enfermos",
+      "durante tres días."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were sick for three days.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-033-fui-vosotros",
+    "prompt_en": "You all were responsible for the reservation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "responsables",
+      "de la reserva."
+    ],
+    "answer": [
+      "fuisteis",
+      "responsables",
+      "de la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were responsible for the reservation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-034-estuve-vosotros",
+    "prompt_en": "You all were sick for three days.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfermos",
+      "durante tres días."
+    ],
+    "answer": [
+      "estuvisteis",
+      "enfermos",
+      "durante tres días."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were sick for three days.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-035-fui-ellos",
+    "prompt_en": "They were responsible for the reservation.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "responsables",
+      "de la reserva."
+    ],
+    "answer": [
+      "fueron",
+      "responsables",
+      "de la reserva."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were responsible for the reservation.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-036-estuve-ellos",
+    "prompt_en": "They were sick for three days.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfermos",
+      "durante tres días."
+    ],
+    "answer": [
+      "estuvieron",
+      "enfermos",
+      "durante tres días."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were sick for three days.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-037-fui-yo",
+    "prompt_en": "I was selected for the role.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "elegido",
+      "para el puesto."
+    ],
+    "answer": [
+      "fui",
+      "elegido",
+      "para el puesto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was selected for the role.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-038-estuve-yo",
+    "prompt_en": "I was calm during the meeting.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "tranquilo",
+      "durante la reunión."
+    ],
+    "answer": [
+      "estuve",
+      "tranquilo",
+      "durante la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was calm during the meeting.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-039-fui-tu",
+    "prompt_en": "You were selected for the role.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "elegido",
+      "para el puesto."
+    ],
+    "answer": [
+      "fuiste",
+      "elegido",
+      "para el puesto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were selected for the role.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-040-estuve-tu",
+    "prompt_en": "You were calm during the meeting.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "tranquilo",
+      "durante la reunión."
+    ],
+    "answer": [
+      "estuviste",
+      "tranquilo",
+      "durante la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were calm during the meeting.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-041-fui-ella",
+    "prompt_en": "She was selected for the role.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "elegida",
+      "para el puesto."
+    ],
+    "answer": [
+      "fue",
+      "elegida",
+      "para el puesto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was selected for the role.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-042-estuve-ella",
+    "prompt_en": "She was calm during the meeting.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "tranquila",
+      "durante la reunión."
+    ],
+    "answer": [
+      "estuvo",
+      "tranquila",
+      "durante la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was calm during the meeting.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-043-fui-nosotros",
+    "prompt_en": "We were selected for the role.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "elegidos",
+      "para el puesto."
+    ],
+    "answer": [
+      "fuimos",
+      "elegidos",
+      "para el puesto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were selected for the role.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-044-estuve-nosotros",
+    "prompt_en": "We were calm during the meeting.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "tranquilos",
+      "durante la reunión."
+    ],
+    "answer": [
+      "estuvimos",
+      "tranquilos",
+      "durante la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were calm during the meeting.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-045-fui-vosotros",
+    "prompt_en": "You all were selected for the role.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "elegidos",
+      "para el puesto."
+    ],
+    "answer": [
+      "fuisteis",
+      "elegidos",
+      "para el puesto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were selected for the role.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-046-estuve-vosotros",
+    "prompt_en": "You all were calm during the meeting.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "tranquilos",
+      "durante la reunión."
+    ],
+    "answer": [
+      "estuvisteis",
+      "tranquilos",
+      "durante la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were calm during the meeting.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-047-fui-ellos",
+    "prompt_en": "They were selected for the role.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "elegidos",
+      "para el puesto."
+    ],
+    "answer": [
+      "fueron",
+      "elegidos",
+      "para el puesto."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were selected for the role.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-048-estuve-ellos",
+    "prompt_en": "They were calm during the meeting.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "tranquilos",
+      "durante la reunión."
+    ],
+    "answer": [
+      "estuvieron",
+      "tranquilos",
+      "durante la reunión."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were calm during the meeting.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-049-fui-yo",
+    "prompt_en": "I was the winner of the game.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "el ganador",
+      "del juego."
+    ],
+    "answer": [
+      "fui",
+      "el ganador",
+      "del juego."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the winner of the game.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-050-estuve-yo",
+    "prompt_en": "I was busy all afternoon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "ocupado",
+      "toda la tarde."
+    ],
+    "answer": [
+      "estuve",
+      "ocupado",
+      "toda la tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was busy all afternoon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-051-fui-tu",
+    "prompt_en": "You were the winner of the game.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "el ganador",
+      "del juego."
+    ],
+    "answer": [
+      "fuiste",
+      "el ganador",
+      "del juego."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the winner of the game.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-052-estuve-tu",
+    "prompt_en": "You were busy all afternoon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "ocupado",
+      "toda la tarde."
+    ],
+    "answer": [
+      "estuviste",
+      "ocupado",
+      "toda la tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were busy all afternoon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-053-fui-ella",
+    "prompt_en": "She was the winner of the game.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "la ganadora",
+      "del juego."
+    ],
+    "answer": [
+      "fue",
+      "la ganadora",
+      "del juego."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the winner of the game.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-054-estuve-ella",
+    "prompt_en": "She was busy all afternoon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "ocupada",
+      "toda la tarde."
+    ],
+    "answer": [
+      "estuvo",
+      "ocupada",
+      "toda la tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was busy all afternoon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-055-fui-nosotros",
+    "prompt_en": "We were the winner of the game.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los ganadores",
+      "del juego."
+    ],
+    "answer": [
+      "fuimos",
+      "los ganadores",
+      "del juego."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the winner of the game.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-056-estuve-nosotros",
+    "prompt_en": "We were busy all afternoon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "ocupados",
+      "toda la tarde."
+    ],
+    "answer": [
+      "estuvimos",
+      "ocupados",
+      "toda la tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were busy all afternoon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-057-fui-vosotros",
+    "prompt_en": "You all were the winner of the game.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los ganadores",
+      "del juego."
+    ],
+    "answer": [
+      "fuisteis",
+      "los ganadores",
+      "del juego."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the winner of the game.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-058-estuve-vosotros",
+    "prompt_en": "You all were busy all afternoon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "ocupados",
+      "toda la tarde."
+    ],
+    "answer": [
+      "estuvisteis",
+      "ocupados",
+      "toda la tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were busy all afternoon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-059-fui-ellos",
+    "prompt_en": "They were the winner of the game.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los ganadores",
+      "del juego."
+    ],
+    "answer": [
+      "fueron",
+      "los ganadores",
+      "del juego."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the winner of the game.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-060-estuve-ellos",
+    "prompt_en": "They were busy all afternoon.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "ocupados",
+      "toda la tarde."
+    ],
+    "answer": [
+      "estuvieron",
+      "ocupados",
+      "toda la tarde."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were busy all afternoon.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-061-fui-yo",
+    "prompt_en": "I was the organizer of the dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "el organizador",
+      "de la cena."
+    ],
+    "answer": [
+      "fui",
+      "el organizador",
+      "de la cena."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the organizer of the dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-062-estuve-yo",
+    "prompt_en": "I was outside for an hour.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "answer": [
+      "estuve",
+      "fuera",
+      "durante una hora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was outside for an hour.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-063-fui-tu",
+    "prompt_en": "You were the organizer of the dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "el organizador",
+      "de la cena."
+    ],
+    "answer": [
+      "fuiste",
+      "el organizador",
+      "de la cena."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the organizer of the dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-064-estuve-tu",
+    "prompt_en": "You were outside for an hour.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "answer": [
+      "estuviste",
+      "fuera",
+      "durante una hora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were outside for an hour.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-065-fui-ella",
+    "prompt_en": "She was the organizer of the dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "la organizadora",
+      "de la cena."
+    ],
+    "answer": [
+      "fue",
+      "la organizadora",
+      "de la cena."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the organizer of the dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-066-estuve-ella",
+    "prompt_en": "She was outside for an hour.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "answer": [
+      "estuvo",
+      "fuera",
+      "durante una hora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was outside for an hour.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-067-fui-nosotros",
+    "prompt_en": "We were the organizer of the dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los organizadores",
+      "de la cena."
+    ],
+    "answer": [
+      "fuimos",
+      "los organizadores",
+      "de la cena."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the organizer of the dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-068-estuve-nosotros",
+    "prompt_en": "We were outside for an hour.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "answer": [
+      "estuvimos",
+      "fuera",
+      "durante una hora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were outside for an hour.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-069-fui-vosotros",
+    "prompt_en": "You all were the organizer of the dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los organizadores",
+      "de la cena."
+    ],
+    "answer": [
+      "fuisteis",
+      "los organizadores",
+      "de la cena."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the organizer of the dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-070-estuve-vosotros",
+    "prompt_en": "You all were outside for an hour.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "answer": [
+      "estuvisteis",
+      "fuera",
+      "durante una hora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were outside for an hour.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-071-fui-ellos",
+    "prompt_en": "They were the organizer of the dinner.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los organizadores",
+      "de la cena."
+    ],
+    "answer": [
+      "fueron",
+      "los organizadores",
+      "de la cena."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the organizer of the dinner.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-072-estuve-ellos",
+    "prompt_en": "They were outside for an hour.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "answer": [
+      "estuvieron",
+      "fuera",
+      "durante una hora."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were outside for an hour.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-073-fui-yo",
+    "prompt_en": "I was the client who complained.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "el cliente",
+      "que se quejó."
+    ],
+    "answer": [
+      "fui",
+      "el cliente",
+      "que se quejó."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the client who complained.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-074-estuve-yo",
+    "prompt_en": "I was in hospital last month.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "answer": [
+      "estuve",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was in hospital last month.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-075-fui-tu",
+    "prompt_en": "You were the client who complained.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "el cliente",
+      "que se quejó."
+    ],
+    "answer": [
+      "fuiste",
+      "el cliente",
+      "que se quejó."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the client who complained.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-076-estuve-tu",
+    "prompt_en": "You were in hospital last month.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "answer": [
+      "estuviste",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were in hospital last month.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-077-fui-ella",
+    "prompt_en": "She was the client who complained.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "la clienta",
+      "que se quejó."
+    ],
+    "answer": [
+      "fue",
+      "la clienta",
+      "que se quejó."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the client who complained.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-078-estuve-ella",
+    "prompt_en": "She was in hospital last month.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "answer": [
+      "estuvo",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was in hospital last month.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-079-fui-nosotros",
+    "prompt_en": "We were the client who complained.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los clientes",
+      "que se quejaron."
+    ],
+    "answer": [
+      "fuimos",
+      "los clientes",
+      "que se quejaron."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the client who complained.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-080-estuve-nosotros",
+    "prompt_en": "We were in hospital last month.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "answer": [
+      "estuvimos",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were in hospital last month.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-081-fui-vosotros",
+    "prompt_en": "You all were the client who complained.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los clientes",
+      "que se quejaron."
+    ],
+    "answer": [
+      "fuisteis",
+      "los clientes",
+      "que se quejaron."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the client who complained.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-082-estuve-vosotros",
+    "prompt_en": "You all were in hospital last month.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "answer": [
+      "estuvisteis",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were in hospital last month.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-083-fui-ellos",
+    "prompt_en": "They were the client who complained.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los clientes",
+      "que se quejaron."
+    ],
+    "answer": [
+      "fueron",
+      "los clientes",
+      "que se quejaron."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the client who complained.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-084-estuve-ellos",
+    "prompt_en": "They were in hospital last month.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "answer": [
+      "estuvieron",
+      "en el hospital",
+      "el mes pasado."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were in hospital last month.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-085-fui-yo",
+    "prompt_en": "I was the speaker at the conference.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "el ponente",
+      "en la conferencia."
+    ],
+    "answer": [
+      "fui",
+      "el ponente",
+      "en la conferencia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was the speaker at the conference.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-086-estuve-yo",
+    "prompt_en": "I was angry for a while.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfadado",
+      "un rato."
+    ],
+    "answer": [
+      "estuve",
+      "enfadado",
+      "un rato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was angry for a while.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-087-fui-tu",
+    "prompt_en": "You were the speaker at the conference.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "el ponente",
+      "en la conferencia."
+    ],
+    "answer": [
+      "fuiste",
+      "el ponente",
+      "en la conferencia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were the speaker at the conference.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-088-estuve-tu",
+    "prompt_en": "You were angry for a while.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfadado",
+      "un rato."
+    ],
+    "answer": [
+      "estuviste",
+      "enfadado",
+      "un rato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were angry for a while.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-089-fui-ella",
+    "prompt_en": "She was the speaker at the conference.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "la ponente",
+      "en la conferencia."
+    ],
+    "answer": [
+      "fue",
+      "la ponente",
+      "en la conferencia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "fue",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "She was the speaker at the conference.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-090-estuve-ella",
+    "prompt_en": "She was angry for a while.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfadada",
+      "un rato."
+    ],
+    "answer": [
+      "estuvo",
+      "enfadada",
+      "un rato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ella",
+    "tense": "preterite",
+    "target_form": "estuvo",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "She was angry for a while.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-091-fui-nosotros",
+    "prompt_en": "We were the speaker at the conference.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los ponentes",
+      "en la conferencia."
+    ],
+    "answer": [
+      "fuimos",
+      "los ponentes",
+      "en la conferencia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "fuimos",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "We were the speaker at the conference.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-092-estuve-nosotros",
+    "prompt_en": "We were angry for a while.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfadados",
+      "un rato."
+    ],
+    "answer": [
+      "estuvimos",
+      "enfadados",
+      "un rato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "nosotros",
+    "tense": "preterite",
+    "target_form": "estuvimos",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "We were angry for a while.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-093-fui-vosotros",
+    "prompt_en": "You all were the speaker at the conference.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los ponentes",
+      "en la conferencia."
+    ],
+    "answer": [
+      "fuisteis",
+      "los ponentes",
+      "en la conferencia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "fuisteis",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were the speaker at the conference.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-094-estuve-vosotros",
+    "prompt_en": "You all were angry for a while.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfadados",
+      "un rato."
+    ],
+    "answer": [
+      "estuvisteis",
+      "enfadados",
+      "un rato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "vosotros",
+    "tense": "preterite",
+    "target_form": "estuvisteis",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You all were angry for a while.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-095-fui-ellos",
+    "prompt_en": "They were the speaker at the conference.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "los ponentes",
+      "en la conferencia."
+    ],
+    "answer": [
+      "fueron",
+      "los ponentes",
+      "en la conferencia."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "fueron",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "They were the speaker at the conference.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-096-estuve-ellos",
+    "prompt_en": "They were angry for a while.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "enfadados",
+      "un rato."
+    ],
+    "answer": [
+      "estuvieron",
+      "enfadados",
+      "un rato."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "ellos",
+    "tense": "preterite",
+    "target_form": "estuvieron",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "They were angry for a while.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-097-fui-yo",
+    "prompt_en": "I was a witness to the accident.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "testigo",
+      "del accidente."
+    ],
+    "answer": [
+      "fui",
+      "testigo",
+      "del accidente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "fui",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "I was a witness to the accident.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-098-estuve-yo",
+    "prompt_en": "I was at the bank this morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el banco",
+      "esta mañana."
+    ],
+    "answer": [
+      "estuve",
+      "en el banco",
+      "esta mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "yo",
+    "tense": "preterite",
+    "target_form": "estuve",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "I was at the bank this morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-099-fui-tu",
+    "prompt_en": "You were a witness to the accident.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "testigo",
+      "del accidente."
+    ],
+    "answer": [
+      "fuiste",
+      "testigo",
+      "del accidente."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "ser preterite",
+      "completed identity, role, result, or event anchor"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "fuiste",
+    "anchor_form": "fui",
+    "verb_use": "ser preterite",
+    "level": "A2-B1",
+    "answer_en": "You were a witness to the accident.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "fui",
+    "anchor_group": "preterite: ser + estar"
+  },
+  {
+    "id": "anchors-combined-preterite-a2-100-estuve-tu",
+    "prompt_en": "You were at the bank this morning.",
+    "prompt_label": "English sentence",
+    "chunks": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron",
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron",
+      "en el banco",
+      "esta mañana."
+    ],
+    "answer": [
+      "estuviste",
+      "en el banco",
+      "esta mañana."
+    ],
+    "patterns": [
+      "Switchboard Pill Translation",
+      "Anchors",
+      "Combined Anchors",
+      "preterite: ser + estar",
+      "estar preterite",
+      "bounded state, location, mood, or availability"
+    ],
+    "verbs": [
+      "ser",
+      "estar"
+    ],
+    "person": "tu",
+    "tense": "preterite",
+    "target_form": "estuviste",
+    "anchor_form": "estuve",
+    "verb_use": "estar preterite",
+    "level": "A2-B1",
+    "answer_en": "You were at the bank this morning.",
+    "learning_method": "random-conjugation-switching-drill",
+    "lesson_type": "switchboard-pill-translation",
+    "lesson_type_name": "Switchboard Pill Translation",
+    "source_anchor": "estuve",
+    "anchor_group": "preterite: ser + estar"
+  }
+]
