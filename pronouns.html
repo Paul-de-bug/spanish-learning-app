@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#f7f3ea">
     <title>Práctica de pronombres · Píldoras de español</title>
-    <link rel="stylesheet" href="./styles.css?v=3">
+    <link rel="stylesheet" href="./styles.css?v=4">
   </head>
   <body>
     <main class="app">
@@ -28,11 +28,6 @@
       </section>
 
       <section class="card pronoun-card" aria-live="polite">
-        <div class="pronoun-heading">
-          <p class="prompt-label">Infinitivo</p>
-          <p id="pronounVerb" class="pronoun-verb">dar</p>
-        </div>
-
         <div id="pronounScene" class="pronoun-scene">
           <div id="youGroup" class="person-group scene-you"></div>
           <div id="thirdGroup" class="person-group scene-third"></div>
@@ -43,8 +38,9 @@
         </div>
 
         <div class="answer-block">
-          <div class="answer-header">
+          <div class="answer-header pronoun-answer-header">
             <span>Tu respuesta</span>
+            <strong id="pronounVerb" class="pronoun-verb">dar</strong>
             <button id="pronounUndoButton" class="text-button" type="button">Deshacer</button>
           </div>
           <div id="pronounAnswerLine" class="answer-line pronoun-answer-line" aria-label="Respuesta elegida"></div>
@@ -65,6 +61,6 @@
 
     </main>
 
-    <script src="./pronouns.js?v=3" type="module"></script>
+    <script src="./pronouns.js?v=4" type="module"></script>
   </body>
 </html>

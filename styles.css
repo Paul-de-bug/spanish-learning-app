@@ -451,21 +451,9 @@ input {
   overflow: hidden;
 }
 
-.pronoun-heading {
-  text-align: center;
-}
-
-.prompt-label {
-  color: var(--muted);
-  font-size: 0.72rem;
-  font-weight: 850;
-  text-transform: uppercase;
-}
-
 .pronoun-verb {
-  margin-top: 2px;
   color: var(--primary-dark);
-  font-size: clamp(2rem, 11vw, 3.5rem);
+  font-size: clamp(1.4rem, 7vw, 2rem);
   font-weight: 900;
   line-height: 1;
 }
@@ -473,7 +461,6 @@ input {
 .pronoun-scene {
   position: relative;
   min-height: 230px;
-  margin-top: 14px;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: linear-gradient(180deg, #fffdf8 0 84%, #e9e2d5 84% 100%);
@@ -537,6 +524,20 @@ input {
 .pronoun-answer-line {
   min-height: 62px;
   justify-content: center;
+}
+
+.pronoun-answer-header {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+}
+
+.pronoun-answer-header .pronoun-verb {
+  justify-self: center;
+}
+
+.pronoun-answer-header .text-button {
+  justify-self: end;
 }
 
 .pronoun-bank {
