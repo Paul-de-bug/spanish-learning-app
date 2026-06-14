@@ -11,8 +11,7 @@ const verbs = [
 ];
 
 const leftGroups = [
-  { id: "yo", emoji: ["👨"], form: 0, object: "me" },
-  { id: "nosotros", emoji: ["👨", "👨"], form: 3, object: "nos" }
+  { id: "yo", emoji: ["👨"], form: 0, object: "me" }
 ];
 const partnerGroups = [
   { id: "tu-hombre", emoji: ["👨"], form: 1, object: "te", zone: "you" },
@@ -26,12 +25,12 @@ const partnerGroups = [
   { id: "cosa", emoji: ["⚫"], object: "lo", zone: "third", objectOnly: true }
 ];
 
-const objectChoices = ["me", "te", "nos", "os", "lo", "la", "los", "las"];
+const objectChoices = ["me", "te", "os", "lo", "la", "los", "las"];
 const coreQuestions = [
   { verb: "dar", me: "yo", partner: "tu-mujer", direction: "out" },
-  { verb: "ver", me: "nosotros", partner: "vosotros", direction: "in" },
+  { verb: "ver", me: "yo", partner: "vosotros", direction: "in" },
   { verb: "dar", me: "yo", partner: "ellas", direction: "out" },
-  { verb: "ver", me: "nosotros", partner: "el", direction: "in" },
+  { verb: "ver", me: "yo", partner: "el", direction: "in" },
   { verb: "ver", me: "yo", partner: "cosa", direction: "out" }
 ];
 

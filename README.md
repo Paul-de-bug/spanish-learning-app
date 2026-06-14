@@ -17,7 +17,7 @@ This is the simplified mobile build. It is separate from the main planner/feedba
 
 ## Pronoun Practice
 
-The pronoun drill always places the learner at the bottom-center as `yo` or `nosotros`. `Tú/vosotros` appears upper-left, while third-person people and things appear upper-right. The diagonal arrow decides who performs the action. The drill shows the verb infinitive above the scene, then asks for an object pronoun plus the correctly conjugated present-tense verb.
+The pronoun drill always places the learner at the bottom-center as `yo`. `Tú/vosotros` appears upper-left, while third-person people and things appear upper-right. The diagonal arrow decides who performs the action. The drill asks for an object pronoun plus the correctly conjugated present-tense verb.
 
 ## Local Test
 
