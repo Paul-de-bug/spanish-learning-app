@@ -17,7 +17,7 @@ This is the simplified mobile build. It is separate from the main planner/feedba
 
 ## Pronoun Practice
 
-The pronoun drill always places the subject on the left and the direct object on the right. It shows the verb infinitive above the scene, then asks for an object pronoun plus the correctly conjugated present-tense verb, such as `me das`, `los ven`, or `las doy`.
+The pronoun drill always places the learner on the left as `yo` or `nosotros/nosotras`. The arrow decides who performs the action: `→` makes the left side the subject, while `←` makes the left side the object. It shows the verb infinitive above the scene, then asks for an object pronoun plus the correctly conjugated present-tense verb.
 
 ## Local Test
 
