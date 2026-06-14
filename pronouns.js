@@ -11,14 +11,14 @@ const verbs = [
 ];
 
 const people = [
-  { id: "yo", emoji: ["🙋"], form: 0, object: "me" },
-  { id: "tu", emoji: ["🧑"], form: 1, object: "te" },
+  { id: "yo", emoji: ["👨"], form: 0, object: "me" },
+  { id: "tu", emoji: ["👩"], form: 1, object: "te" },
   { id: "el", emoji: ["👨"], form: 2, object: "lo" },
   { id: "ella", emoji: ["👩"], form: 2, object: "la" },
-  { id: "nosotros", emoji: ["🙋‍♂️", "👨"], form: 3, object: "nos" },
-  { id: "nosotras", emoji: ["🙋‍♀️", "👩"], form: 3, object: "nos" },
-  { id: "vosotros", emoji: ["🫵", "👨"], form: 4, object: "os" },
-  { id: "vosotras", emoji: ["🫵", "👩"], form: 4, object: "os" },
+  { id: "nosotros", emoji: ["👨", "👨"], form: 3, object: "nos" },
+  { id: "nosotras", emoji: ["👩", "👩"], form: 3, object: "nos" },
+  { id: "vosotros", emoji: ["👨", "👨"], form: 4, object: "os" },
+  { id: "vosotras", emoji: ["👩", "👩"], form: 4, object: "os" },
   { id: "ellos", emoji: ["👨", "👨"], form: 5, object: "los" },
   { id: "ellas", emoji: ["👩", "👩"], form: 5, object: "las" }
 ];
