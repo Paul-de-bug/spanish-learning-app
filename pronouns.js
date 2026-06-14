@@ -14,19 +14,25 @@ const leftGroups = [
   { id: "yo", emoji: ["👨"], form: 0, object: "me" },
   { id: "nosotros", emoji: ["👨", "👨"], form: 3, object: "nos" }
 ];
-const rightGroups = [
-  { id: "el", emoji: ["👨"], form: 2, object: "lo" },
-  { id: "ella", emoji: ["👩"], form: 2, object: "la" },
-  { id: "ellos", emoji: ["👨", "👨"], form: 5, object: "los" },
-  { id: "ellas", emoji: ["👩", "👩"], form: 5, object: "las" },
-  { id: "cosa", emoji: ["⚫"], object: "lo", objectOnly: true }
+const partnerGroups = [
+  { id: "tu-hombre", emoji: ["👨"], form: 1, object: "te", zone: "you" },
+  { id: "tu-mujer", emoji: ["👩"], form: 1, object: "te", zone: "you" },
+  { id: "vosotros", emoji: ["👨", "👨"], form: 4, object: "os", zone: "you" },
+  { id: "vosotras", emoji: ["👩", "👩"], form: 4, object: "os", zone: "you" },
+  { id: "el", emoji: ["👨"], form: 2, object: "lo", zone: "third" },
+  { id: "ella", emoji: ["👩"], form: 2, object: "la", zone: "third" },
+  { id: "ellos", emoji: ["👨", "👨"], form: 5, object: "los", zone: "third" },
+  { id: "ellas", emoji: ["👩", "👩"], form: 5, object: "las", zone: "third" },
+  { id: "cosa", emoji: ["⚫"], object: "lo", zone: "third", objectOnly: true }
 ];
 
-const objectChoices = ["me", "nos", "lo", "la", "los", "las"];
+const objectChoices = ["me", "te", "nos", "os", "lo", "la", "los", "las"];
 const coreQuestions = [
-  { verb: "dar", left: "yo", right: "ellas", direction: "right" },
-  { verb: "ver", left: "nosotros", right: "el", direction: "left" },
-  { verb: "ver", left: "yo", right: "cosa", direction: "right" }
+  { verb: "dar", me: "yo", partner: "tu-mujer", direction: "out" },
+  { verb: "ver", me: "nosotros", partner: "vosotros", direction: "in" },
+  { verb: "dar", me: "yo", partner: "ellas", direction: "out" },
+  { verb: "ver", me: "nosotros", partner: "el", direction: "in" },
+  { verb: "ver", me: "yo", partner: "cosa", direction: "out" }
 ];
 
 const els = {
@@ -35,8 +41,11 @@ const els = {
   accuracy: document.querySelector("#pronounAccuracy"),
   verb: document.querySelector("#pronounVerb"),
   scene: document.querySelector("#pronounScene") ?? document.querySelector(".pronoun-scene"),
-  left: document.querySelector("#leftGroup") ?? document.querySelector("#subjectGroup"),
-  right: document.querySelector("#rightGroup") ?? document.querySelector("#objectGroup"),
+  me: document.querySelector("#meGroup"),
+  you: document.querySelector("#youGroup"),
+  third: document.querySelector("#thirdGroup"),
+  legacyLeft: document.querySelector("#leftGroup") ?? document.querySelector("#subjectGroup"),
+  legacyRight: document.querySelector("#rightGroup") ?? document.querySelector("#objectGroup"),
   arrow: document.querySelector("#directionArrow") ?? document.querySelector(".action-arrow span"),
   answerLine: document.querySelector("#pronounAnswerLine"),
   chunkBank: document.querySelector("#pronounChunkBank"),
@@ -68,21 +77,21 @@ function shuffle(items) {
 
 function createQuestion() {
   const verb = randomItem(verbs);
-  const left = randomItem(leftGroups);
-  const right = randomItem(rightGroups);
-  const direction = right.objectOnly ? "right" : randomItem(["left", "right"]);
+  const me = randomItem(leftGroups);
+  const partner = randomItem(partnerGroups);
+  const direction = partner.objectOnly ? "out" : randomItem(["in", "out"]);
 
-  return buildQuestion(verb, left, right, direction);
+  return buildQuestion(verb, me, partner, direction);
 }
 
-function buildQuestion(verb, left, right, direction) {
-  const subject = direction === "right" ? left : right;
-  const object = direction === "right" ? right : left;
+function buildQuestion(verb, me, partner, direction) {
+  const subject = direction === "out" ? me : partner;
+  const object = direction === "out" ? partner : me;
 
   return {
     verb,
-    left,
-    right,
+    me,
+    partner,
     direction,
     answer: [object.object, verb.forms[subject.form]]
   };
@@ -91,8 +100,8 @@ function buildQuestion(verb, left, right, direction) {
 function startRound() {
   const required = coreQuestions.map((question) => buildQuestion(
     verbs.find((verb) => verb.infinitive === question.verb),
-    leftGroups.find((group) => group.id === question.left),
-    rightGroups.find((group) => group.id === question.right),
+    leftGroups.find((group) => group.id === question.me),
+    partnerGroups.find((group) => group.id === question.partner),
     question.direction
   ));
   round = shuffle([
@@ -110,7 +119,9 @@ function currentQuestion() {
 }
 
 function renderPersonGroup(container, person) {
+  if (!container) return;
   container.innerHTML = "";
+  if (!person) return;
 
   const emojis = document.createElement("div");
   emojis.className = "person-emojis";
@@ -124,6 +135,25 @@ function renderPersonGroup(container, person) {
   container.append(emojis);
 }
 
+function arrowFor(question) {
+  if (question.partner.zone === "you") return question.direction === "out" ? "↖" : "↘";
+  return question.direction === "out" ? "↗" : "↙";
+}
+
+function renderScene(question) {
+  els.arrow.textContent = arrowFor(question);
+
+  if (els.me && els.you && els.third) {
+    renderPersonGroup(els.me, question.me);
+    renderPersonGroup(els.you, question.partner.zone === "you" ? question.partner : null);
+    renderPersonGroup(els.third, question.partner.zone === "third" ? question.partner : null);
+    return;
+  }
+
+  renderPersonGroup(els.legacyLeft, question.me);
+  renderPersonGroup(els.legacyRight, question.partner);
+}
+
 function renderStats() {
   els.progress.textContent = `${currentIndex + 1} / ${roundLength}`;
   els.accuracy.textContent = answeredCount ? `${Math.round((correctCount / answeredCount) * 100)}%` : "0%";
@@ -135,7 +165,7 @@ function distractors(items, answer, count) {
 
 function answerChunks(question) {
   const [answerPronoun, answerForm] = question.answer;
-  const relevantForms = [0, 2, 3, 5].map((index) => question.verb.forms[index]);
+  const relevantForms = question.verb.forms;
   return shuffle([
     answerPronoun,
     ...distractors(objectChoices, answerPronoun, 2),
@@ -175,13 +205,11 @@ function renderQuestion() {
   selected = [];
   awaitingNext = false;
   els.verb.textContent = question.verb.infinitive;
-  els.arrow.textContent = question.direction === "right" ? "→" : "←";
   els.scene.setAttribute(
     "aria-label",
-    question.direction === "right" ? "La izquierda hace la acción" : "La derecha hace la acción"
+    question.direction === "out" ? "Yo hago la acción" : "La otra persona hace la acción"
   );
-  renderPersonGroup(els.left, question.left);
-  renderPersonGroup(els.right, question.right);
+  renderScene(question);
   els.feedback.className = "feedback hidden";
   els.submitButton.textContent = "Comprobar";
   els.submitButton.disabled = true;

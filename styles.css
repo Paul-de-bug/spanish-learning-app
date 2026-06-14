@@ -471,25 +471,40 @@ input {
 }
 
 .pronoun-scene {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 76px minmax(0, 1fr);
-  align-items: center;
-  gap: 2px;
-  min-height: 150px;
+  position: relative;
+  min-height: 230px;
   margin-top: 14px;
   border: 1px solid var(--line);
   border-radius: 8px;
-  background: linear-gradient(180deg, #fffdf8 0 78%, #e9e2d5 78% 100%);
-  padding: 14px 4px;
+  background: linear-gradient(180deg, #fffdf8 0 84%, #e9e2d5 84% 100%);
+  padding: 10px;
   white-space: nowrap;
 }
 
 .person-group {
+  position: absolute;
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 38%;
   min-width: 0;
+  min-height: 78px;
   overflow: hidden;
+}
+
+.scene-you {
+  top: 62px;
+  left: 2px;
+}
+
+.scene-third {
+  top: 8px;
+  right: 2px;
+}
+
+.scene-me {
+  bottom: 4px;
+  left: 31%;
 }
 
 .person-emojis {
@@ -507,12 +522,16 @@ input {
 }
 
 .action-arrow {
+  position: absolute;
+  inset: 70px 0 auto;
+  z-index: 2;
   display: grid;
   place-items: center;
   color: var(--primary);
-  font-size: clamp(4.5rem, 20vw, 7.5rem);
+  font-size: clamp(4.5rem, 18vw, 7rem);
   font-weight: 900;
   line-height: 1;
+  pointer-events: none;
 }
 
 .pronoun-answer-line {
