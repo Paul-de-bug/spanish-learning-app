@@ -108,6 +108,7 @@ function currentQuestion() {
 
 function renderPersonGroup(container, person) {
   container.innerHTML = "";
+  container.setAttribute("aria-label", person.label);
 
   const emojis = document.createElement("div");
   emojis.className = "person-emojis";
@@ -118,10 +119,7 @@ function renderPersonGroup(container, person) {
     emojis.append(face);
   });
 
-  const label = document.createElement("strong");
-  label.className = "person-label";
-  label.textContent = person.label;
-  container.append(emojis, label);
+  container.append(emojis);
 }
 
 function renderStats() {

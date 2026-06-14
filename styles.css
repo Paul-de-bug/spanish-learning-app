@@ -472,55 +472,43 @@ input {
 
 .pronoun-scene {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 64px minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr) 76px minmax(0, 1fr);
   align-items: center;
-  gap: 6px;
-  min-height: 180px;
+  gap: 2px;
+  min-height: 150px;
   margin-top: 14px;
   border: 1px solid var(--line);
   border-radius: 8px;
-  background: linear-gradient(180deg, #fffdf8 0 72%, #e9e2d5 72% 100%);
-  padding: 16px 8px;
+  background: linear-gradient(180deg, #fffdf8 0 78%, #e9e2d5 78% 100%);
+  padding: 14px 4px;
+  white-space: nowrap;
 }
 
 .person-group {
-  display: grid;
-  justify-items: center;
-  gap: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   min-width: 0;
 }
 
 .person-emojis {
   display: flex;
+  align-items: center;
   justify-content: center;
-  min-height: 58px;
-  font-size: clamp(2.25rem, 12vw, 4rem);
+  font-size: clamp(3.5rem, 16vw, 6.5rem);
   line-height: 1;
   white-space: nowrap;
 }
 
 .person-emojis span + span {
-  margin-left: -0.38em;
-}
-
-.person-label {
-  border-radius: 999px;
-  background: var(--chip-selected);
-  color: var(--chip-selected-text);
-  padding: 5px 9px;
-  font-size: clamp(0.65rem, 3vw, 0.8rem);
-  letter-spacing: 0.04em;
-}
-
-.object-group .person-label {
-  background: var(--primary);
+  margin-left: -0.48em;
 }
 
 .action-arrow {
   display: grid;
   place-items: center;
   color: var(--primary);
-  font-size: clamp(3rem, 15vw, 5rem);
+  font-size: clamp(4.5rem, 20vw, 7.5rem);
   font-weight: 900;
   line-height: 1;
 }
