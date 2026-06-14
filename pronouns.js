@@ -22,12 +22,17 @@ const people = [
   { id: "ellos", emoji: ["👨", "👨"], form: 5, object: "los" },
   { id: "ellas", emoji: ["👩", "👩"], form: 5, object: "las" }
 ];
+const things = [
+  { id: "thing", emoji: ["⚫"], object: "lo" }
+];
+const objects = [...people, ...things];
 
 const objectChoices = ["me", "te", "lo", "la", "nos", "os", "los", "las"];
 const coreQuestions = [
   { verb: "dar", subject: "tu", object: "yo" },
   { verb: "ver", subject: "ellas", object: "ellos" },
-  { verb: "dar", subject: "yo", object: "ellas" }
+  { verb: "dar", subject: "yo", object: "ellas" },
+  { verb: "ver", subject: "ella", object: "thing" }
 ];
 
 const els = {
@@ -68,7 +73,7 @@ function shuffle(items) {
 function createQuestion() {
   const verb = randomItem(verbs);
   const subject = randomItem(people);
-  const possibleObjects = people.filter((person) => (
+  const possibleObjects = objects.filter((person) => (
     person.id !== subject.id
     && !([3, 4].includes(subject.form) && person.form === subject.form)
   ));
@@ -90,7 +95,7 @@ function startRound() {
   const required = coreQuestions.map((question) => buildQuestion(
     verbs.find((verb) => verb.infinitive === question.verb),
     people.find((person) => person.id === question.subject),
-    people.find((person) => person.id === question.object)
+    objects.find((person) => person.id === question.object)
   ));
   round = shuffle([
     ...required,
