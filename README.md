@@ -17,7 +17,7 @@ This is the simplified mobile build. It is separate from the main planner/feedba
 
 ## Pronoun Practice
 
-The pronoun drill always places the learner at the bottom-center as `yo`. `Tú/vosotros` appears upper-left, while third-person people and things appear upper-right. The diagonal arrow decides who performs the action. The drill asks for an object pronoun plus the correctly conjugated present-tense verb.
+The pronoun drill always places the learner at the bottom-center as `yo`. `Tú/vosotros` appears upper-left, while third-person people appear upper-right. The diagonal arrow decides who performs the action. The bank contains 100 exercises arranged as 50 reverse-direction pairs. Each round randomly selects 10 pairs, and the two exercises in each pair run sequentially, such as `te doy` followed by `me das`.
 
 ## Local Test
 

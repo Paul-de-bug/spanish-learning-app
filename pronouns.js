@@ -1,4 +1,5 @@
-const roundLength = 10;
+const pairsPerRound = 10;
+const roundLength = pairsPerRound * 2;
 
 const verbs = [
   { infinitive: "dar", forms: ["doy", "das", "da", "damos", "dais", "dan"] },
@@ -26,13 +27,8 @@ const partnerGroups = [
 ];
 
 const objectChoices = ["me", "te", "os", "lo", "la", "los", "las"];
-const coreQuestions = [
-  { verb: "dar", me: "yo", partner: "tu-mujer", direction: "out" },
-  { verb: "ver", me: "yo", partner: "vosotros", direction: "in" },
-  { verb: "dar", me: "yo", partner: "ellas", direction: "out" },
-  { verb: "ver", me: "yo", partner: "el", direction: "in" },
-  { verb: "ver", me: "yo", partner: "cosa", direction: "out" }
-];
+const me = leftGroups[0];
+const reversiblePartners = partnerGroups.filter((partner) => !partner.objectOnly);
 
 const els = {
   newRoundButton: document.querySelector("#newRoundButton"),
@@ -63,10 +59,6 @@ let answeredCount = 0;
 let selected = [];
 let awaitingNext = false;
 
-function randomItem(items) {
-  return items[Math.floor(Math.random() * items.length)];
-}
-
 function shuffle(items) {
   return [...items]
     .map((item) => ({ item, sort: Math.random() }))
@@ -74,20 +66,12 @@ function shuffle(items) {
     .map(({ item }) => item);
 }
 
-function createQuestion() {
-  const verb = randomItem(verbs);
-  const me = randomItem(leftGroups);
-  const partner = randomItem(partnerGroups);
-  const direction = partner.objectOnly ? "out" : randomItem(["in", "out"]);
-
-  return buildQuestion(verb, me, partner, direction);
-}
-
-function buildQuestion(verb, me, partner, direction) {
+function buildQuestion(verb, partner, direction, pairId) {
   const subject = direction === "out" ? me : partner;
   const object = direction === "out" ? partner : me;
 
   return {
+    pairId,
     verb,
     me,
     partner,
@@ -96,17 +80,20 @@ function buildQuestion(verb, me, partner, direction) {
   };
 }
 
+const exercisePairs = verbs
+  .flatMap((verb) => reversiblePartners.map((partner) => {
+    const pairId = `${verb.infinitive}-${partner.id}`;
+    return [
+      buildQuestion(verb, partner, "out", pairId),
+      buildQuestion(verb, partner, "in", pairId)
+    ];
+  }))
+  .slice(0, 50);
+
 function startRound() {
-  const required = coreQuestions.map((question) => buildQuestion(
-    verbs.find((verb) => verb.infinitive === question.verb),
-    leftGroups.find((group) => group.id === question.me),
-    partnerGroups.find((group) => group.id === question.partner),
-    question.direction
-  ));
-  round = shuffle([
-    ...required,
-    ...Array.from({ length: roundLength - required.length }, createQuestion)
-  ]);
+  round = shuffle(exercisePairs)
+    .slice(0, pairsPerRound)
+    .flatMap((pair) => pair);
   currentIndex = 0;
   correctCount = 0;
   answeredCount = 0;
