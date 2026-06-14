@@ -11,16 +11,16 @@ const verbs = [
 ];
 
 const people = [
-  { id: "yo", label: "YO", emoji: ["🧑"], form: 0, object: "me" },
-  { id: "tu", label: "TÚ", emoji: ["🧑"], form: 1, object: "te" },
-  { id: "el", label: "ÉL", emoji: ["👨"], form: 2, object: "lo" },
-  { id: "ella", label: "ELLA", emoji: ["👩"], form: 2, object: "la" },
-  { id: "nosotros", label: "NOSOTROS", emoji: ["👨", "👨", "👨"], form: 3, object: "nos" },
-  { id: "nosotras", label: "NOSOTRAS", emoji: ["👩", "👩", "👩"], form: 3, object: "nos" },
-  { id: "vosotros", label: "VOSOTROS", emoji: ["👨", "👨", "👨"], form: 4, object: "os" },
-  { id: "vosotras", label: "VOSOTRAS", emoji: ["👩", "👩", "👩"], form: 4, object: "os" },
-  { id: "ellos", label: "ELLOS", emoji: ["👨", "👨", "👨"], form: 5, object: "los" },
-  { id: "ellas", label: "ELLAS", emoji: ["👩", "👩", "👩"], form: 5, object: "las" }
+  { id: "yo", emoji: ["🙋"], form: 0, object: "me" },
+  { id: "tu", emoji: ["🧑"], form: 1, object: "te" },
+  { id: "el", emoji: ["👨"], form: 2, object: "lo" },
+  { id: "ella", emoji: ["👩"], form: 2, object: "la" },
+  { id: "nosotros", emoji: ["🙋‍♂️", "👨"], form: 3, object: "nos" },
+  { id: "nosotras", emoji: ["🙋‍♀️", "👩"], form: 3, object: "nos" },
+  { id: "vosotros", emoji: ["🫵", "👨"], form: 4, object: "os" },
+  { id: "vosotras", emoji: ["🫵", "👩"], form: 4, object: "os" },
+  { id: "ellos", emoji: ["👨", "👨"], form: 5, object: "los" },
+  { id: "ellas", emoji: ["👩", "👩"], form: 5, object: "las" }
 ];
 
 const objectChoices = ["me", "te", "lo", "la", "nos", "os", "los", "las"];
@@ -108,7 +108,6 @@ function currentQuestion() {
 
 function renderPersonGroup(container, person) {
   container.innerHTML = "";
-  container.setAttribute("aria-label", person.label);
 
   const emojis = document.createElement("div");
   emojis.className = "person-emojis";

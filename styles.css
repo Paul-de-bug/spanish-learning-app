@@ -489,19 +489,21 @@ input {
   align-items: center;
   justify-content: center;
   min-width: 0;
+  overflow: hidden;
 }
 
 .person-emojis {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: clamp(3.5rem, 16vw, 6.5rem);
+  max-width: 100%;
+  font-size: clamp(3.25rem, 13vw, 5.5rem);
   line-height: 1;
   white-space: nowrap;
 }
 
 .person-emojis span + span {
-  margin-left: -0.48em;
+  margin-left: -0.28em;
 }
 
 .action-arrow {
