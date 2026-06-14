@@ -13,6 +13,11 @@ This is the simplified mobile build. It is separate from the main planner/feedba
 - Results are saved in the phone browser with `localStorage`.
 - Saved words/chunks are saved in the phone browser with `localStorage`.
 - Saved words/chunks can be exported as TSV for Anki-style import or JSON for project reuse.
+- The `Pronouns` tab uses visual subject-to-object scenes instead of English translation prompts.
+
+## Pronoun Practice
+
+The pronoun drill always places the subject on the left and the direct object on the right. It shows the verb infinitive above the scene, then asks for an object pronoun plus the correctly conjugated present-tense verb, such as `me das`, `los ven`, or `las doy`.
 
 ## Local Test
 

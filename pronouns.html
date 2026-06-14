@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f7f3ea">
+    <title>Pronoun Practice · Spanish Pills</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="app">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Spanish Pills</p>
+          <h1>Pronouns</h1>
+        </div>
+        <button id="newRoundButton" class="icon-button" type="button" aria-label="Start a new round" title="Start a new round">↻</button>
+      </header>
+
+      <nav class="app-tabs" aria-label="Practice modes">
+        <a href="./index.html">Lessons</a>
+        <a class="active" href="./pronouns.html" aria-current="page">Pronouns</a>
+      </nav>
+
+      <section class="pronoun-score" aria-label="Pronoun practice score">
+        <span><strong id="pronounProgress">1 / 10</strong> pregunta</span>
+        <span><strong id="pronounAccuracy">0%</strong> precisión</span>
+      </section>
+
+      <section class="card pronoun-card" aria-live="polite">
+        <div class="pronoun-heading">
+          <p class="prompt-label">Infinitivo</p>
+          <p id="pronounVerb" class="pronoun-verb">dar</p>
+        </div>
+
+        <div class="pronoun-scene" aria-label="The subject on the left acts on the person or people on the right">
+          <div id="subjectGroup" class="person-group"></div>
+          <div class="action-arrow" aria-hidden="true">
+            <span>→</span>
+          </div>
+          <div id="objectGroup" class="person-group object-group"></div>
+        </div>
+
+        <div class="answer-block">
+          <div class="answer-header">
+            <span>Tu respuesta</span>
+            <button id="pronounUndoButton" class="text-button" type="button">Deshacer</button>
+          </div>
+          <div id="pronounAnswerLine" class="answer-line pronoun-answer-line" aria-label="Selected answer"></div>
+        </div>
+
+        <div id="pronounChunkBank" class="chunk-bank pronoun-bank" aria-label="Available answer parts"></div>
+
+        <div class="actions">
+          <button id="pronounSkipButton" class="secondary-button" type="button">Saltar</button>
+          <button id="pronounSubmitButton" class="primary-button" type="button">Comprobar</button>
+        </div>
+
+        <div id="pronounFeedback" class="feedback hidden">
+          <p id="pronounFeedbackTitle"></p>
+          <p><strong>Respuesta:</strong> <span id="pronounCorrectAnswer"></span></p>
+        </div>
+      </section>
+
+      <p class="pronoun-note">La izquierda siempre hace la acción. La flecha apunta hacia la persona o las personas que la reciben.</p>
+    </main>
+
+    <script src="./pronouns.js" type="module"></script>
+  </body>
+</html>

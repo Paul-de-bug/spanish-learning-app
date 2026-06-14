@@ -54,6 +54,31 @@ button {
   margin-bottom: 14px;
 }
 
+.app-tabs {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 6px;
+  margin-bottom: 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 4px;
+}
+
+.app-tabs a {
+  border-radius: 6px;
+  color: var(--muted);
+  padding: 9px 12px;
+  font-weight: 850;
+  text-align: center;
+  text-decoration: none;
+}
+
+.app-tabs a.active {
+  background: var(--chip-selected);
+  color: var(--chip-selected-text);
+}
+
 .eyebrow {
   margin: 0 0 4px;
   color: var(--primary-dark);
@@ -401,6 +426,120 @@ input {
 
 .card {
   padding: 14px;
+}
+
+.pronoun-score {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface-strong);
+  padding: 10px 12px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 850;
+}
+
+.pronoun-score strong {
+  color: var(--ink);
+  font-size: 1rem;
+}
+
+.pronoun-card {
+  overflow: hidden;
+}
+
+.pronoun-heading {
+  text-align: center;
+}
+
+.prompt-label {
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+.pronoun-verb {
+  margin-top: 2px;
+  color: var(--primary-dark);
+  font-size: clamp(2rem, 11vw, 3.5rem);
+  font-weight: 900;
+  line-height: 1;
+}
+
+.pronoun-scene {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 64px minmax(0, 1fr);
+  align-items: center;
+  gap: 6px;
+  min-height: 180px;
+  margin-top: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: linear-gradient(180deg, #fffdf8 0 72%, #e9e2d5 72% 100%);
+  padding: 16px 8px;
+}
+
+.person-group {
+  display: grid;
+  justify-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+
+.person-emojis {
+  display: flex;
+  justify-content: center;
+  min-height: 58px;
+  font-size: clamp(2.25rem, 12vw, 4rem);
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.person-emojis span + span {
+  margin-left: -0.38em;
+}
+
+.person-label {
+  border-radius: 999px;
+  background: var(--chip-selected);
+  color: var(--chip-selected-text);
+  padding: 5px 9px;
+  font-size: clamp(0.65rem, 3vw, 0.8rem);
+  letter-spacing: 0.04em;
+}
+
+.object-group .person-label {
+  background: var(--primary);
+}
+
+.action-arrow {
+  display: grid;
+  place-items: center;
+  color: var(--primary);
+  font-size: clamp(3rem, 15vw, 5rem);
+  font-weight: 900;
+  line-height: 1;
+}
+
+.pronoun-answer-line {
+  min-height: 62px;
+  justify-content: center;
+}
+
+.pronoun-bank {
+  justify-content: center;
+}
+
+.pronoun-note {
+  margin: 12px 6px 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+  line-height: 1.4;
+  text-align: center;
 }
 
 .meta-row {
