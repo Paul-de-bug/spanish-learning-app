@@ -522,14 +522,6 @@ input {
   justify-content: center;
 }
 
-.pronoun-note {
-  margin: 12px 6px 0;
-  color: var(--muted);
-  font-size: 0.82rem;
-  line-height: 1.4;
-  text-align: center;
-}
-
 .meta-row {
   display: flex;
   align-items: center;
